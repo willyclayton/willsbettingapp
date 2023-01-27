@@ -1,13 +1,6 @@
 import pandas as pd
 import requests
-from numpy import cumsum
-import matplotlib
-import matplotlib.pyplot as plt
-import numpy as np
-from pandas.io.json import json_normalize
-from datetime import datetime
 import math
-import time
 import streamlit as st
 #hello there
 #this is another update?
