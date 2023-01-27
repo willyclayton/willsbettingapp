@@ -1,3 +1,4 @@
-pip freeze | grep -i pandas >> requirements.txt
-pip freeze | grep -i requests >> requirements.txt
-pip freeze | grep -i streamlit >> requirements.txt
+numpy
+pandas
+requests
+streamlit
