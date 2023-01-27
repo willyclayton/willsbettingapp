@@ -13,7 +13,7 @@ import streamlit as st
 
 
 
-def get_all_teams():
+def get_all_teams2():
     url = "https://v1.hockey.api-sports.io/teams?league=57&season=2022"
 
     payload={}
