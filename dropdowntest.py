@@ -284,30 +284,49 @@ def create_table(at, ht, HA='all'):
 
 def app():
     st.set_page_config(page_title="Dropdown Example", page_icon=":guardsman:", layout="wide")
-    left_side, right_side, far_right = st.columns(3)
+
+    left_side, middle, right_side = st.columns(3)
+    left_side.header('Away Team Side')
+    middle.header('Home Team Side')
+    
+    right_side.header('Comparison')
+
     option1 = left_side.selectbox("Away Team", get_all_teams())
-    option2 = right_side.selectbox("Home Team", get_all_teams())
-    checkbox = left_side.checkbox("Only Home/Away Stats")
-    st.empty()
-    if st.button("See Results"):
+    option2 = middle.selectbox("Home Team", get_all_teams())
+    
+    checkbox = right_side.checkbox("Only Home/Away Stats")
+    #far_right.empty()
+    if right_side.button("See Results"):
         if checkbox:
             table = create_table(option1, option2,'HA')
+            left_col = str(option1)+' Away Stats'
+            middle_col = str(option2)+' Home Stats'
         else:
             table = create_table(option1, option2)
+            left_col = str(option1)+' - All Stats'
+            middle_col = str(option2)+' - All Stats'
         
-        left_side, right_side = st.columns(2)
         left_side_df = pd.DataFrame(table[0],columns=[option1])
-        left_side.dataframe(table[0])
+        
+        table[0].columns = [left_col]
+        left_side.dataframe(table[0], width=600)
 
         right_side_df = pd.DataFrame(table[1],columns=[option2])
-        right_side.dataframe(table[1])
-        st.empty()
+
+        
+        table[1].columns = [middle_col]
+        middle.dataframe(table[1], width=600)
         
         c = pd.concat([table[0],table[1]],axis=1,ignore_index=True)
+        c.columns = [left_col,middle_col]
+        c2 = pd.DataFrame(c)
         #c=c.rename(columns={0:[option1],1:[option2]})
         #c['Totals'] = c[option1]+c[option2]
-        far_right.dataframe(c)
-        
+        right_side.dataframe(c, width=600)
+    
+    right_side.text('')    
+    right_side.text('')    
+    right_side.text('')    
 
 
 if __name__ == '__main__':
