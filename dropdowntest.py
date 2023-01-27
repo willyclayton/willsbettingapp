@@ -4,7 +4,7 @@ import math
 import streamlit as st
 #hello there
 #this is another update?
-print('do something now hahaha')
+#print('do something now hahaha')
 
 
 
@@ -80,6 +80,7 @@ teams = get_all_teams()
 
 
 def call_it(teams):
+    print('callit used')
     raw_list = []
     for i in teams:
         print("working on team id:",i)
@@ -132,12 +133,12 @@ def get_raw_table(response):
 
 
 # get last 5 home games
-def get_last_games():
-    last5home = df[(df['teams.home.id'] == 670) & (df['status.long'] != 'Not Started')].tail(5)
-    last5away = df[(df['teams.away.id'] == 670) & (df['status.long'] != 'Not Started')].tail(5)
-    last10total = df[((df['teams.home.id'] == 670) | (df['teams.away.id'] == 670)) & (df['status.long'] != 'Not Started')].tail(5)
-    lastH2H = df[((df['teams.home.id'] == 670) | (df['teams.away.id'] == 670)) & ((df['teams.home.id'] == 673) | (df['teams.away.id'] == 673))]
-
+def get_last_games(home_team, away_team,df):
+    last5home = df[(df['teams.home.id'] == home_team) & (df['status.long'] != 'Not Started')].tail(5)
+    last5away = df[(df['teams.away.id'] == away_team) & (df['status.long'] != 'Not Started')].tail(5)
+    #last10total = df[((df['teams.home.id'] == team) | (df['teams.away.id'] == team)) & (df['status.long'] != 'Not Started')].tail(5)
+    lastH2H = df[((df['teams.home.id'] == home_team) | (df['teams.away.id'] == home_team)) & ((df['teams.home.id'] == away_team) | (df['teams.away.id'] == away_team))]
+    return (last5home,last5away,lastH2H)
 #display(last10away)
 #display(lastH2H)
 
@@ -156,26 +157,6 @@ def get_record(team,team_df):
     return (wins,losses,otl)
 
 
-# In[238]:
-
-
-def get_record_text(raw):
-    text = "__Record__\n"+str(raw[0])+"-"+str(raw[1])+"-"+str(raw[2])+"\n\n"
-    return text
-
-
-# In[239]:
-
-
-#print(get_record_text(get_record(670,master)))
-
-
-
-
-#master = call_it([670,682])
-
-
-# In[241]:
 
 
 def get_goal_averages(team,df,side, HA='all'):
@@ -252,6 +233,12 @@ def comparison(team1, team2,df,HA='all'):
 #team1 = get_goal_averages(670,master)
 #team2 = get_goal_averages(1460,master)
 #print(comparison(team1, team2)[0])
+#test2 = call_it([670,675])
+#test2.to_csv('/Users/will.clayton/Desktop/dummyframe.csv')
+
+def record_text(record):
+    return str(record[0])+"-"+str(record[1])+"-"+str(record[2])
+
 
 def create_table(at, ht, HA='all'):
     # code to retrieve selected options from dropdown menus and update label text
@@ -259,28 +246,26 @@ def create_table(at, ht, HA='all'):
     hometeam = teams[teams['Team'] == ht]['id'].iloc[0]
     awayteam = teams[teams['Team'] == at]['id'].iloc[0]
     teams = [hometeam,awayteam]
-    master = call_it(teams)
-    
-    home_record = get_record_text(get_record(hometeam,master))
-    text = home_record
-    text = get_goal_averages(hometeam,master,'home',HA)
+    #master = call_it(teams)
+    master = pd.read_csv('dummyframe.csv')
+    #home_record = get_record_text(get_record(hometeam,master))
+    #text = home_record
+    home_text = get_goal_averages(hometeam,master,'home',HA)
     #home_team_label.config(text=text)
     #home_team_label.update()
     
-    away_record = get_record_text(get_record(awayteam,master))
-    text2 = away_record
-    text2 = get_goal_averages(awayteam,master,'away',HA)
-    #away_team_label.config(text=text2)
-    #away_team_label.update()
-     
-    team1 = get_goal_averages(hometeam,master,'home')
-    team2 = get_goal_averages(awayteam,master,'away')
+    #away_record = get_record_text(get_record(awayteam,master))
+    #text2 = away_record
+    away_text = get_goal_averages(awayteam,master,'away',HA)
     
-    text3 = "Comparison\n"
-    #text3 = comparison(team1, team2)
-    #comparison_label.config(text=text3)
-    #comparison_label.update()
-    return text,text2
+    #get record here
+    results = get_last_games(hometeam,awayteam,master)
+    home_record = get_record(hometeam,master)
+    away_record = get_record(awayteam,master)
+
+    home_home_record = get_record(hometeam,master[master['teams.home.name'] == ht])
+    away_away_record = get_record(awayteam,master[master['teams.away.name'] == at])
+    return home_text,away_text,results,home_record,away_record,home_home_record,away_away_record
 
 def app():
     st.set_page_config(page_title="Dropdown Example", page_icon=":guardsman:", layout="wide")
@@ -290,7 +275,6 @@ def app():
     middle.header('Home Team Side')
     
     right_side.header('Comparison')
-
     option1 = left_side.selectbox("Away Team", get_all_teams())
     option2 = middle.selectbox("Home Team", get_all_teams())
     
@@ -306,16 +290,20 @@ def app():
             left_col = str(option1)+' - All Stats'
             middle_col = str(option2)+' - All Stats'
         
-        left_side_df = pd.DataFrame(table[0],columns=[option1])
+        middle.text("Overall Record: "+record_text(table[3])+"\t("+str(round(table[3][0]/(table[3][0]+table[3][1]+table[3][2]),3))+")")
+        middle.text("Home Record: "+record_text(table[5]))
+
+        left_side.text("Overall Record: "+record_text(table[4])+"\t("+str(round(table[4][0]/(table[4][0]+table[4][1]+table[4][2]),3))+")")
+        left_side.text("Away Record: "+record_text(table[6]))
         
         table[0].columns = [left_col]
-        left_side.dataframe(table[0], width=600)
+        left_side.dataframe(table[1], width=600)
 
-        right_side_df = pd.DataFrame(table[1],columns=[option2])
+
 
         
         table[1].columns = [middle_col]
-        middle.dataframe(table[1], width=600)
+        middle.dataframe(table[0], width=600)
         
         c = pd.concat([table[0],table[1]],axis=1,ignore_index=True)
         c.columns = [left_col,middle_col]
@@ -323,7 +311,15 @@ def app():
         #c=c.rename(columns={0:[option1],1:[option2]})
         #c['Totals'] = c[option1]+c[option2]
         right_side.dataframe(c, width=600)
-    
+
+        middle.dataframe(table[2][0])
+        left_side.dataframe(table[2][1])
+        right_side.dataframe(table[2][2])
+
+        #getting record
+        print(table[3])
+        
+
     right_side.text('')    
     right_side.text('')    
     right_side.text('')    
