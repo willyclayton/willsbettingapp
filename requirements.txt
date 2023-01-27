@@ -1,3 +1,1 @@
-/home/appuser/venv/bin/python -m pip install --upgrade pip
-pip install pandas
-py -m pip3 install pandas
+pip3 install pandas
