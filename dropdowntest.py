@@ -276,9 +276,9 @@ def getL5text(df,HA):
     if HA == 'h':
         for index, row in df.iterrows():
             output += (row['HomeResult']+" vs "+row['teams.away.name']+" \t"+str(int(row['scores.home']))+"-"+str(int(row['scores.away']))+"\t| "+row['date'][5:] +" "+"\n")
-    elif HA == 'a':
+    elif HA == 'a': 
         for index, row in df.iterrows():
-            output += (row['AwayResult']+" vs "+row['teams.home.name']+" \t"+str(int(row['scores.away']))+"-"+str(int(row['scores.home']))+"\t| "+row['date'][5:] +" "+"\n")
+            output += (row['AwayResult']+" @ "+row['teams.home.name']+" \t"+str(int(row['scores.away']))+"-"+str(int(row['scores.home']))+"\t| "+row['date'][5:] +" "+"\n")
     elif HA == 'h2h':
         for index, row in df.iterrows():
             #output += (row['AwayResult']+" vs "+row['teams.home.name']+" \t"+str(int(row['scores.away']))+"-"+str(int(row['scores.home']))+"\t| "+row['date'][5:] +" "+"\n")
