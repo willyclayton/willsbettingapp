@@ -251,6 +251,8 @@ def create_table(at, ht, HA='all'):
     #home_record = get_record_text(get_record(hometeam,master))
     #text = home_record
     home_text = get_goal_averages(hometeam,master,'home',HA)
+    print("home",home_text)
+
     #home_team_label.config(text=text)
     #home_team_label.update()
     
@@ -266,6 +268,22 @@ def create_table(at, ht, HA='all'):
     home_home_record = get_record(hometeam,master[master['teams.home.name'] == ht])
     away_away_record = get_record(awayteam,master[master['teams.away.name'] == at])
     return home_text,away_text,results,home_record,away_record,home_home_record,away_away_record
+def getL5text(df,HA):
+    output = ''
+    df = df.sort_values(by='date',ascending=False)
+    df = df[df['status.long'] != 'Not Started']
+    print(df)
+    if HA == 'h':
+        for index, row in df.iterrows():
+            output += (row['HomeResult']+" vs "+row['teams.away.name']+" \t"+str(int(row['scores.home']))+"-"+str(int(row['scores.away']))+"\t| "+row['date'][5:] +" "+"\n")
+    elif HA == 'a':
+        for index, row in df.iterrows():
+            output += (row['AwayResult']+" vs "+row['teams.home.name']+" \t"+str(int(row['scores.away']))+"-"+str(int(row['scores.home']))+"\t| "+row['date'][5:] +" "+"\n")
+    elif HA == 'h2h':
+        for index, row in df.iterrows():
+            #output += (row['AwayResult']+" vs "+row['teams.home.name']+" \t"+str(int(row['scores.away']))+"-"+str(int(row['scores.home']))+"\t| "+row['date'][5:] +" "+"\n")
+            output += row['teams.away.name']+" "+str(int(row['scores.away']))+" | "+str(int(row['scores.home']))+" "+row['teams.home.name']+"\t| "+row['date'][5:] +"\n"
+    return output
 
 def app():
     st.set_page_config(page_title="Dropdown Example", page_icon=":guardsman:", layout="wide")
@@ -279,8 +297,13 @@ def app():
     option2 = middle.selectbox("Home Team", get_all_teams())
     
     checkbox = right_side.checkbox("Only Home/Away Stats")
+    
     #far_right.empty()
     if right_side.button("See Results"):
+        right_side.text('')    
+        right_side.text('')    
+        right_side.text('')    
+        right_side.text('')     
         if checkbox:
             table = create_table(option1, option2,'HA')
             left_col = str(option1)+' Away Stats'
@@ -296,13 +319,13 @@ def app():
         left_side.text("Overall Record: "+record_text(table[4])+"\t("+str(round(table[4][0]/(table[4][0]+table[4][1]+table[4][2]),3))+")")
         left_side.text("Away Record: "+record_text(table[6]))
         
-        table[0].columns = [left_col]
+        table[1].columns = [left_col]
         left_side.dataframe(table[1], width=600)
 
 
 
         
-        table[1].columns = [middle_col]
+        table[0].columns = [middle_col]
         middle.dataframe(table[0], width=600)
         
         c = pd.concat([table[0],table[1]],axis=1,ignore_index=True)
@@ -312,9 +335,17 @@ def app():
         #c['Totals'] = c[option1]+c[option2]
         right_side.dataframe(c, width=600)
 
-        middle.dataframe(table[2][0])
-        left_side.dataframe(table[2][1])
-        right_side.dataframe(table[2][2])
+        left_side.text("Last 5 Away Games")
+
+
+        middle.text("Last 5 Home Games")
+        #middle.dataframe(table[2][0])
+        middle.text(getL5text(table[2][0],'h'))
+
+        left_side.text(getL5text(table[2][1],'a'))
+        right_side.text(getL5text(table[2][2],'h2h'))
+        #left_side.dataframe(table[2][1])
+        #right_side.dataframe(table[2][2])
 
         #getting record
         print(table[3])
