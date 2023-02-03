@@ -270,15 +270,18 @@ def create_table(at, ht, HA='all'):
     return home_text,away_text,results,home_record,away_record,home_home_record,away_away_record
 def getL5text(df,HA):
     output = ''
+    record = ''
     df = df.sort_values(by='date',ascending=False)
     df = df[df['status.long'] != 'Not Started']
     print(df)
+    print(df.groupby(['HomeResult'])['HomeResult'].count())
     if HA == 'h':
         for index, row in df.iterrows():
             output += (row['HomeResult']+" vs "+row['teams.away.name']+" \t"+str(int(row['scores.home']))+"-"+str(int(row['scores.away']))+"\t| "+row['date'][5:] +" "+"\n")
     elif HA == 'a': 
         for index, row in df.iterrows():
-            output += (row['AwayResult']+" @ "+row['teams.home.name']+" \t"+str(int(row['scores.away']))+"-"+str(int(row['scores.home']))+"\t| "+row['date'][5:] +" "+"\n")
+            output += ( '{:<3s} {}-{} @ {:<22s} | {} \n'.format(row['HomeResult'],str(int(row['scores.home'])),str(int(row['scores.away'])), row['teams.home.name'], row['date'][5:]) )
+            #output += (row['AwayResult']+" @ "+row['teams.home.name']+" \t"+str(int(row['scores.away']))+"-"+str(int(row['scores.home']))+"\t| "+row['date'][5:] +" "+"\n")
     elif HA == 'h2h':
         for index, row in df.iterrows():
             #output += (row['AwayResult']+" vs "+row['teams.home.name']+" \t"+str(int(row['scores.away']))+"-"+str(int(row['scores.home']))+"\t| "+row['date'][5:] +" "+"\n")
