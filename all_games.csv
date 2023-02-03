@@ -1,0 +1,1421 @@
+,HomeTeam,HomeTeamID,AwayTeam,AwayTeamID,UTCDate,ESTDate
+0,Toronto Maple Leafs,700,Ottawa Senators,693,2022-09-24T17:00:00+00:00,2022-09-24
+1,Philadelphia Flyers,695,Boston Bruins,673,2022-09-24T23:00:00+00:00,2022-09-24
+2,Toronto Maple Leafs,700,Ottawa Senators,693,2022-09-24T23:00:00+00:00,2022-09-24
+3,Arizona Coyotes,1460,St. Louis Blues,698,2022-09-25T00:00:00+00:00,2022-09-24
+4,Pittsburgh Penguins,696,Columbus Blue Jackets,680,2022-09-25T17:00:00+00:00,2022-09-25
+5,Washington Capitals,703,Buffalo Sabres,674,2022-09-25T18:00:00+00:00,2022-09-25
+6,Minnesota Wild,687,Colorado Avalanche,679,2022-09-25T20:00:00+00:00,2022-09-25
+7,Arizona Coyotes,1460,Anaheim Ducks,670,2022-09-25T21:00:00+00:00,2022-09-25
+8,Edmonton Oilers,683,Winnipeg Jets,704,2022-09-25T22:00:00+00:00,2022-09-25
+9,Vancouver Canucks,701,Calgary Flames,675,2022-09-25T23:00:00+00:00,2022-09-25
+10,San Jose Sharks,697,Los Angeles Kings,685,2022-09-25T23:00:00+00:00,2022-09-25
+11,Columbus Blue Jackets,680,Pittsburgh Penguins,696,2022-09-25T23:00:00+00:00,2022-09-25
+12,Calgary Flames,675,Vancouver Canucks,701,2022-09-26T00:00:00+00:00,2022-09-25
+13,Colorado Avalanche,679,Vegas Golden Knights,702,2022-09-26T01:30:00+00:00,2022-09-25
+14,Nashville Predators,689,Florida Panthers,684,2022-09-26T20:00:00+00:00,2022-09-26
+15,Montreal Canadiens,688,New Jersey Devils,690,2022-09-26T23:00:00+00:00,2022-09-26
+16,New York Rangers,692,New York Islanders,691,2022-09-26T23:00:00+00:00,2022-09-26
+17,Dallas Stars,681,St. Louis Blues,698,2022-09-27T00:00:00+00:00,2022-09-26
+18,Nashville Predators,689,Florida Panthers,684,2022-09-27T00:00:00+00:00,2022-09-26
+19,Seattle Kraken,1436,Edmonton Oilers,683,2022-09-27T02:00:00+00:00,2022-09-26
+20,Vegas Golden Knights,702,Los Angeles Kings,685,2022-09-27T02:00:00+00:00,2022-09-26
+21,New Jersey Devils,690,New York Islanders,691,2022-09-27T23:00:00+00:00,2022-09-27
+22,Pittsburgh Penguins,696,Detroit Red Wings,682,2022-09-27T23:00:00+00:00,2022-09-27
+23,Boston Bruins,673,New York Rangers,692,2022-09-27T23:00:00+00:00,2022-09-27
+24,Carolina Hurricanes,676,Tampa Bay Lightning,699,2022-09-27T23:00:00+00:00,2022-09-27
+25,Buffalo Sabres,674,Philadelphia Flyers,695,2022-09-27T23:00:00+00:00,2022-09-27
+26,Dallas Stars,681,Arizona Coyotes,1460,2022-09-28T00:00:00+00:00,2022-09-27
+27,Winnipeg Jets,704,Ottawa Senators,693,2022-09-28T00:00:00+00:00,2022-09-27
+28,Chicago Blackhawks,678,St. Louis Blues,698,2022-09-28T00:30:00+00:00,2022-09-27
+29,Colorado Avalanche,679,Minnesota Wild,687,2022-09-28T01:00:00+00:00,2022-09-27
+30,Seattle Kraken,1436,Calgary Flames,675,2022-09-28T02:00:00+00:00,2022-09-27
+31,San Jose Sharks,697,Anaheim Ducks,670,2022-09-28T02:30:00+00:00,2022-09-27
+32,Toronto Maple Leafs,700,Montreal Canadiens,688,2022-09-28T23:00:00+00:00,2022-09-28
+33,Philadelphia Flyers,695,Washington Capitals,703,2022-09-28T23:00:00+00:00,2022-09-28
+34,Tampa Bay Lightning,699,Carolina Hurricanes,676,2022-09-28T23:00:00+00:00,2022-09-28
+35,Columbus Blue Jackets,680,Buffalo Sabres,674,2022-09-28T23:00:00+00:00,2022-09-28
+36,Detroit Red Wings,682,Chicago Blackhawks,678,2022-09-28T23:30:00+00:00,2022-09-28
+37,Calgary Flames,675,Edmonton Oilers,683,2022-09-29T01:00:00+00:00,2022-09-28
+38,Anaheim Ducks,670,Arizona Coyotes,1460,2022-09-29T02:00:00+00:00,2022-09-28
+39,Los Angeles Kings,685,San Jose Sharks,697,2022-09-29T02:00:00+00:00,2022-09-28
+40,Vegas Golden Knights,702,Colorado Avalanche,679,2022-09-29T02:00:00+00:00,2022-09-28
+41,New York Rangers,692,New Jersey Devils,690,2022-09-29T23:00:00+00:00,2022-09-29
+42,Montreal Canadiens,688,Winnipeg Jets,704,2022-09-29T23:00:00+00:00,2022-09-29
+43,Florida Panthers,684,Carolina Hurricanes,676,2022-09-29T23:00:00+00:00,2022-09-29
+44,Tampa Bay Lightning,699,Nashville Predators,689,2022-09-30T00:00:00+00:00,2022-09-29
+45,Dallas Stars,681,Minnesota Wild,687,2022-09-30T00:00:00+00:00,2022-09-29
+46,St. Louis Blues,698,Columbus Blue Jackets,680,2022-09-30T00:00:00+00:00,2022-09-29
+47,Vancouver Canucks,701,Seattle Kraken,1436,2022-09-30T01:30:00+00:00,2022-09-29
+48,Nashville Predators,689,Tampa Bay Lightning,699,2022-09-30T22:00:00+00:00,2022-09-30
+49,New Jersey Devils,690,New York Rangers,692,2022-09-30T23:00:00+00:00,2022-09-30
+50,Ottawa Senators,693,Toronto Maple Leafs,700,2022-09-30T23:00:00+00:00,2022-09-30
+51,Detroit Red Wings,682,Washington Capitals,703,2022-09-30T23:30:00+00:00,2022-09-30
+52,Edmonton Oilers,683,Calgary Flames,675,2022-10-01T01:00:00+00:00,2022-09-30
+53,Anaheim Ducks,670,San Jose Sharks,697,2022-10-01T02:00:00+00:00,2022-09-30
+54,Vegas Golden Knights,702,San Jose Sharks,697,2022-10-01T02:00:00+00:00,2022-09-30
+55,Boston Bruins,673,Philadelphia Flyers,695,2022-10-01T17:00:00+00:00,2022-10-01
+56,Buffalo Sabres,674,Pittsburgh Penguins,696,2022-10-01T17:00:00+00:00,2022-10-01
+57,Carolina Hurricanes,676,Florida Panthers,684,2022-10-01T17:00:00+00:00,2022-10-01
+58,Columbus Blue Jackets,680,Washington Capitals,703,2022-10-01T23:00:00+00:00,2022-10-01
+59,Ottawa Senators,693,Montreal Canadiens,688,2022-10-01T23:00:00+00:00,2022-10-01
+60,St. Louis Blues,698,Dallas Stars,681,2022-10-02T00:00:00+00:00,2022-10-01
+61,Winnipeg Jets,704,Edmonton Oilers,683,2022-10-02T00:00:00+00:00,2022-10-01
+62,Chicago Blackhawks,678,Detroit Red Wings,682,2022-10-02T00:30:00+00:00,2022-10-01
+63,Seattle Kraken,1436,Vancouver Canucks,701,2022-10-02T01:30:00+00:00,2022-10-01
+64,New York Islanders,691,Philadelphia Flyers,695,2022-10-02T23:00:00+00:00,2022-10-02
+65,Chicago Blackhawks,678,Minnesota Wild,687,2022-10-02T23:30:00+00:00,2022-10-02
+66,Los Angeles Kings,685,Anaheim Ducks,670,2022-10-03T01:00:00+00:00,2022-10-02
+67,Carolina Hurricanes,676,Columbus Blue Jackets,680,2022-10-03T23:00:00+00:00,2022-10-03
+68,Montreal Canadiens,688,Toronto Maple Leafs,700,2022-10-03T23:00:00+00:00,2022-10-03
+69,New Jersey Devils,690,Boston Bruins,673,2022-10-03T23:00:00+00:00,2022-10-03
+70,Detroit Red Wings,682,Pittsburgh Penguins,696,2022-10-03T23:30:00+00:00,2022-10-03
+71,Dallas Stars,681,Colorado Avalanche,679,2022-10-04T00:00:00+00:00,2022-10-03
+72,Calgary Flames,675,Seattle Kraken,1436,2022-10-04T01:00:00+00:00,2022-10-03
+73,Edmonton Oilers,683,Vancouver Canucks,701,2022-10-04T01:00:00+00:00,2022-10-03
+74,Philadelphia Flyers,695,New York Islanders,691,2022-10-04T23:00:00+00:00,2022-10-04
+75,Montreal Canadiens,688,Ottawa Senators,693,2022-10-04T23:00:00+00:00,2022-10-04
+76,Buffalo Sabres,674,Carolina Hurricanes,676,2022-10-04T23:00:00+00:00,2022-10-04
+77,St. Louis Blues,698,Minnesota Wild,687,2022-10-05T00:00:00+00:00,2022-10-04
+78,Anaheim Ducks,670,Los Angeles Kings,685,2022-10-05T02:00:00+00:00,2022-10-04
+79,Vegas Golden Knights,702,Arizona Coyotes,1460,2022-10-05T02:00:00+00:00,2022-10-04
+80,New York Rangers,692,Boston Bruins,673,2022-10-05T23:00:00+00:00,2022-10-05
+81,Washington Capitals,703,Detroit Red Wings,682,2022-10-05T23:00:00+00:00,2022-10-05
+82,Winnipeg Jets,704,Calgary Flames,675,2022-10-06T00:00:00+00:00,2022-10-05
+83,Colorado Avalanche,679,Dallas Stars,681,2022-10-06T01:30:00+00:00,2022-10-05
+84,Vancouver Canucks,701,Edmonton Oilers,683,2022-10-06T02:00:00+00:00,2022-10-05
+85,Montreal Canadiens,688,Ottawa Senators,693,2022-10-06T22:00:00+00:00,2022-10-06
+86,New York Islanders,691,New Jersey Devils,690,2022-10-06T23:00:00+00:00,2022-10-06
+87,Florida Panthers,684,Tampa Bay Lightning,699,2022-10-06T23:00:00+00:00,2022-10-06
+88,Columbus Blue Jackets,680,St. Louis Blues,698,2022-10-06T23:30:00+00:00,2022-10-06
+89,Minnesota Wild,687,Chicago Blackhawks,678,2022-10-07T00:00:00+00:00,2022-10-06
+90,Los Angeles Kings,685,Vegas Golden Knights,702,2022-10-07T01:00:00+00:00,2022-10-06
+91,Nashville Predators,689,San Jose Sharks,697,2022-10-07T18:00:00+00:00,2022-10-07
+92,Pittsburgh Penguins,696,Buffalo Sabres,674,2022-10-07T23:00:00+00:00,2022-10-07
+93,Detroit Red Wings,682,Toronto Maple Leafs,700,2022-10-07T23:30:00+00:00,2022-10-07
+94,Calgary Flames,675,Winnipeg Jets,704,2022-10-08T01:00:00+00:00,2022-10-07
+95,Edmonton Oilers,683,Seattle Kraken,1436,2022-10-08T01:00:00+00:00,2022-10-07
+96,Vancouver Canucks,701,Arizona Coyotes,1460,2022-10-08T02:00:00+00:00,2022-10-07
+97,San Jose Sharks,697,Nashville Predators,689,2022-10-08T18:00:00+00:00,2022-10-08
+98,St. Louis Blues,698,Chicago Blackhawks,678,2022-10-08T19:00:00+00:00,2022-10-08
+99,Los Angeles Kings,685,Anaheim Ducks,670,2022-10-08T20:00:00+00:00,2022-10-08
+100,Tampa Bay Lightning,699,Florida Panthers,684,2022-10-08T20:00:00+00:00,2022-10-08
+101,Minnesota Wild,687,Dallas Stars,681,2022-10-08T22:00:00+00:00,2022-10-08
+102,Ottawa Senators,693,Montreal Canadiens,688,2022-10-08T22:30:00+00:00,2022-10-08
+103,Boston Bruins,673,New Jersey Devils,690,2022-10-08T23:00:00+00:00,2022-10-08
+104,New York Islanders,691,New York Rangers,692,2022-10-08T23:00:00+00:00,2022-10-08
+105,Toronto Maple Leafs,700,Detroit Red Wings,682,2022-10-08T23:00:00+00:00,2022-10-08
+106,Washington Capitals,703,Columbus Blue Jackets,680,2022-10-08T23:00:00+00:00,2022-10-08
+107,Vegas Golden Knights,702,Arizona Coyotes,1460,2022-10-09T00:00:00+00:00,2022-10-08
+108,New York Rangers,692,Tampa Bay Lightning,699,2022-10-11T23:30:00+00:00,2022-10-11
+109,Los Angeles Kings,685,Vegas Golden Knights,702,2022-10-12T02:00:00+00:00,2022-10-11
+110,Carolina Hurricanes,676,Columbus Blue Jackets,680,2022-10-12T23:00:00+00:00,2022-10-12
+111,Montreal Canadiens,688,Toronto Maple Leafs,700,2022-10-12T23:00:00+00:00,2022-10-12
+112,Washington Capitals,703,Boston Bruins,673,2022-10-12T23:00:00+00:00,2022-10-12
+113,Colorado Avalanche,679,Chicago Blackhawks,678,2022-10-13T01:30:00+00:00,2022-10-12
+114,Anaheim Ducks,670,Seattle Kraken,1436,2022-10-13T02:00:00+00:00,2022-10-12
+115,Edmonton Oilers,683,Vancouver Canucks,701,2022-10-13T02:00:00+00:00,2022-10-12
+116,Pittsburgh Penguins,696,Arizona Coyotes,1460,2022-10-13T23:00:00+00:00,2022-10-13
+117,Buffalo Sabres,674,Ottawa Senators,693,2022-10-13T23:00:00+00:00,2022-10-13
+118,Philadelphia Flyers,695,New Jersey Devils,690,2022-10-13T23:00:00+00:00,2022-10-13
+119,New York Islanders,691,Florida Panthers,684,2022-10-13T23:30:00+00:00,2022-10-13
+120,Toronto Maple Leafs,700,Washington Capitals,703,2022-10-13T23:30:00+00:00,2022-10-13
+121,Minnesota Wild,687,New York Rangers,692,2022-10-14T00:00:00+00:00,2022-10-13
+122,Nashville Predators,689,Dallas Stars,681,2022-10-14T00:30:00+00:00,2022-10-13
+123,Calgary Flames,675,Colorado Avalanche,679,2022-10-14T01:30:00+00:00,2022-10-13
+124,Vegas Golden Knights,702,Chicago Blackhawks,678,2022-10-14T02:00:00+00:00,2022-10-13
+125,Los Angeles Kings,685,Seattle Kraken,1436,2022-10-14T02:30:00+00:00,2022-10-13
+126,Detroit Red Wings,682,Montreal Canadiens,688,2022-10-14T23:00:00+00:00,2022-10-14
+127,Columbus Blue Jackets,680,Tampa Bay Lightning,699,2022-10-14T23:00:00+00:00,2022-10-14
+128,Winnipeg Jets,704,New York Rangers,692,2022-10-15T00:00:00+00:00,2022-10-14
+129,San Jose Sharks,697,Carolina Hurricanes,676,2022-10-15T02:30:00+00:00,2022-10-14
+130,Buffalo Sabres,674,Florida Panthers,684,2022-10-15T17:00:00+00:00,2022-10-15
+131,Philadelphia Flyers,695,Vancouver Canucks,701,2022-10-15T20:00:00+00:00,2022-10-15
+132,Boston Bruins,673,Arizona Coyotes,1460,2022-10-15T23:00:00+00:00,2022-10-15
+133,Washington Capitals,703,Montreal Canadiens,688,2022-10-15T23:00:00+00:00,2022-10-15
+134,New Jersey Devils,690,Detroit Red Wings,682,2022-10-15T23:00:00+00:00,2022-10-15
+135,Toronto Maple Leafs,700,Ottawa Senators,693,2022-10-15T23:00:00+00:00,2022-10-15
+136,Pittsburgh Penguins,696,Tampa Bay Lightning,699,2022-10-15T23:00:00+00:00,2022-10-15
+137,New York Islanders,691,Anaheim Ducks,670,2022-10-15T23:30:00+00:00,2022-10-15
+138,St. Louis Blues,698,Columbus Blue Jackets,680,2022-10-16T00:00:00+00:00,2022-10-15
+139,Dallas Stars,681,Nashville Predators,689,2022-10-16T00:00:00+00:00,2022-10-15
+140,Minnesota Wild,687,Los Angeles Kings,685,2022-10-16T00:00:00+00:00,2022-10-15
+141,Seattle Kraken,1436,Vegas Golden Knights,702,2022-10-16T02:00:00+00:00,2022-10-15
+142,San Jose Sharks,697,Chicago Blackhawks,678,2022-10-16T02:00:00+00:00,2022-10-15
+143,Edmonton Oilers,683,Calgary Flames,675,2022-10-16T02:00:00+00:00,2022-10-15
+144,Montreal Canadiens,688,Pittsburgh Penguins,696,2022-10-17T23:00:00+00:00,2022-10-17
+145,New York Rangers,692,Anaheim Ducks,670,2022-10-17T23:00:00+00:00,2022-10-17
+146,Toronto Maple Leafs,700,Arizona Coyotes,1460,2022-10-17T23:00:00+00:00,2022-10-17
+147,Washington Capitals,703,Vancouver Canucks,701,2022-10-17T23:00:00+00:00,2022-10-17
+148,Boston Bruins,673,Florida Panthers,684,2022-10-17T23:00:00+00:00,2022-10-17
+149,Detroit Red Wings,682,Los Angeles Kings,685,2022-10-17T23:00:00+00:00,2022-10-17
+150,Minnesota Wild,687,Colorado Avalanche,679,2022-10-18T00:00:00+00:00,2022-10-17
+151,Dallas Stars,681,Winnipeg Jets,704,2022-10-18T00:30:00+00:00,2022-10-17
+152,Seattle Kraken,1436,Carolina Hurricanes,676,2022-10-18T02:00:00+00:00,2022-10-17
+153,Tampa Bay Lightning,699,Philadelphia Flyers,695,2022-10-18T23:00:00+00:00,2022-10-18
+154,Columbus Blue Jackets,680,Vancouver Canucks,701,2022-10-18T23:00:00+00:00,2022-10-18
+155,New Jersey Devils,690,Anaheim Ducks,670,2022-10-18T23:00:00+00:00,2022-10-18
+156,Ottawa Senators,693,Boston Bruins,673,2022-10-18T23:00:00+00:00,2022-10-18
+157,New York Islanders,691,San Jose Sharks,697,2022-10-18T23:30:00+00:00,2022-10-18
+158,Calgary Flames,675,Vegas Golden Knights,702,2022-10-19T01:00:00+00:00,2022-10-18
+159,Edmonton Oilers,683,Buffalo Sabres,674,2022-10-19T01:00:00+00:00,2022-10-18
+160,Nashville Predators,689,Los Angeles Kings,685,2022-10-19T01:30:00+00:00,2022-10-18
+161,Florida Panthers,684,Philadelphia Flyers,695,2022-10-19T23:30:00+00:00,2022-10-19
+162,Colorado Avalanche,679,Winnipeg Jets,704,2022-10-20T00:00:00+00:00,2022-10-19
+163,Seattle Kraken,1436,St. Louis Blues,698,2022-10-20T02:00:00+00:00,2022-10-19
+164,Ottawa Senators,693,Washington Capitals,703,2022-10-20T23:00:00+00:00,2022-10-20
+165,Toronto Maple Leafs,700,Dallas Stars,681,2022-10-20T23:00:00+00:00,2022-10-20
+166,Pittsburgh Penguins,696,Los Angeles Kings,685,2022-10-20T23:00:00+00:00,2022-10-20
+167,Columbus Blue Jackets,680,Nashville Predators,689,2022-10-20T23:00:00+00:00,2022-10-20
+168,New York Rangers,692,San Jose Sharks,697,2022-10-20T23:00:00+00:00,2022-10-20
+169,Montreal Canadiens,688,Arizona Coyotes,1460,2022-10-20T23:00:00+00:00,2022-10-20
+170,Boston Bruins,673,Anaheim Ducks,670,2022-10-20T23:00:00+00:00,2022-10-20
+171,New York Islanders,691,New Jersey Devils,690,2022-10-20T23:30:00+00:00,2022-10-20
+172,Minnesota Wild,687,Vancouver Canucks,701,2022-10-21T00:00:00+00:00,2022-10-20
+173,Edmonton Oilers,683,Carolina Hurricanes,676,2022-10-21T01:00:00+00:00,2022-10-20
+174,Calgary Flames,675,Buffalo Sabres,674,2022-10-21T01:30:00+00:00,2022-10-20
+175,Vegas Golden Knights,702,Winnipeg Jets,704,2022-10-21T02:00:00+00:00,2022-10-20
+176,Florida Panthers,684,Tampa Bay Lightning,699,2022-10-21T23:30:00+00:00,2022-10-21
+177,Chicago Blackhawks,678,Detroit Red Wings,682,2022-10-22T00:30:00+00:00,2022-10-21
+178,Colorado Avalanche,679,Seattle Kraken,1436,2022-10-22T01:00:00+00:00,2022-10-21
+179,New Jersey Devils,690,San Jose Sharks,697,2022-10-22T17:00:00+00:00,2022-10-22
+180,Boston Bruins,673,Minnesota Wild,687,2022-10-22T17:00:00+00:00,2022-10-22
+181,Edmonton Oilers,683,St. Louis Blues,698,2022-10-22T20:00:00+00:00,2022-10-22
+182,Ottawa Senators,693,Arizona Coyotes,1460,2022-10-22T20:00:00+00:00,2022-10-22
+183,Washington Capitals,703,Los Angeles Kings,685,2022-10-22T23:00:00+00:00,2022-10-22
+184,Winnipeg Jets,704,Toronto Maple Leafs,700,2022-10-22T23:00:00+00:00,2022-10-22
+185,Tampa Bay Lightning,699,New York Islanders,691,2022-10-22T23:00:00+00:00,2022-10-22
+186,Montreal Canadiens,688,Dallas Stars,681,2022-10-22T23:00:00+00:00,2022-10-22
+187,Columbus Blue Jackets,680,Pittsburgh Penguins,696,2022-10-22T23:00:00+00:00,2022-10-22
+188,Nashville Predators,689,Philadelphia Flyers,695,2022-10-23T00:00:00+00:00,2022-10-22
+189,Calgary Flames,675,Carolina Hurricanes,676,2022-10-23T02:00:00+00:00,2022-10-22
+190,Vancouver Canucks,701,Buffalo Sabres,674,2022-10-23T02:00:00+00:00,2022-10-22
+191,Vegas Golden Knights,702,Colorado Avalanche,679,2022-10-23T02:00:00+00:00,2022-10-22
+192,Chicago Blackhawks,678,Seattle Kraken,1436,2022-10-23T18:00:00+00:00,2022-10-23
+193,Detroit Red Wings,682,Anaheim Ducks,670,2022-10-23T21:00:00+00:00,2022-10-23
+194,Florida Panthers,684,New York Islanders,691,2022-10-23T21:00:00+00:00,2022-10-23
+195,New York Rangers,692,Columbus Blue Jackets,680,2022-10-23T21:00:00+00:00,2022-10-23
+196,Philadelphia Flyers,695,San Jose Sharks,697,2022-10-23T23:00:00+00:00,2022-10-23
+197,New Jersey Devils,690,Washington Capitals,703,2022-10-24T23:00:00+00:00,2022-10-24
+198,Ottawa Senators,693,Dallas Stars,681,2022-10-24T23:00:00+00:00,2022-10-24
+199,Edmonton Oilers,683,Pittsburgh Penguins,696,2022-10-25T00:00:00+00:00,2022-10-24
+200,Winnipeg Jets,704,St. Louis Blues,698,2022-10-25T00:00:00+00:00,2022-10-24
+201,Vegas Golden Knights,702,Toronto Maple Leafs,700,2022-10-25T02:00:00+00:00,2022-10-24
+202,Vancouver Canucks,701,Carolina Hurricanes,676,2022-10-25T02:30:00+00:00,2022-10-24
+203,Boston Bruins,673,Dallas Stars,681,2022-10-25T23:00:00+00:00,2022-10-25
+204,Columbus Blue Jackets,680,Arizona Coyotes,1460,2022-10-25T23:00:00+00:00,2022-10-25
+205,Montreal Canadiens,688,Minnesota Wild,687,2022-10-25T23:00:00+00:00,2022-10-25
+206,Detroit Red Wings,682,New Jersey Devils,690,2022-10-25T23:00:00+00:00,2022-10-25
+207,New York Rangers,692,Colorado Avalanche,679,2022-10-26T00:00:00+00:00,2022-10-25
+208,Chicago Blackhawks,678,Florida Panthers,684,2022-10-26T00:30:00+00:00,2022-10-25
+209,Calgary Flames,675,Pittsburgh Penguins,696,2022-10-26T01:00:00+00:00,2022-10-25
+210,Seattle Kraken,1436,Buffalo Sabres,674,2022-10-26T02:00:00+00:00,2022-10-25
+211,Los Angeles Kings,685,Tampa Bay Lightning,699,2022-10-26T02:30:00+00:00,2022-10-25
+212,San Jose Sharks,697,Vegas Golden Knights,702,2022-10-26T02:30:00+00:00,2022-10-25
+213,New York Islanders,691,New York Rangers,692,2022-10-26T23:30:00+00:00,2022-10-26
+214,St. Louis Blues,698,Edmonton Oilers,683,2022-10-27T00:00:00+00:00,2022-10-26
+215,Anaheim Ducks,670,Tampa Bay Lightning,699,2022-10-27T02:00:00+00:00,2022-10-26
+216,Ottawa Senators,693,Minnesota Wild,687,2022-10-27T23:00:00+00:00,2022-10-27
+217,Philadelphia Flyers,695,Florida Panthers,684,2022-10-27T23:00:00+00:00,2022-10-27
+218,Buffalo Sabres,674,Montreal Canadiens,688,2022-10-27T23:00:00+00:00,2022-10-27
+219,Boston Bruins,673,Detroit Red Wings,682,2022-10-27T23:00:00+00:00,2022-10-27
+220,Nashville Predators,689,St. Louis Blues,698,2022-10-28T00:00:00+00:00,2022-10-27
+221,Chicago Blackhawks,678,Edmonton Oilers,683,2022-10-28T00:30:00+00:00,2022-10-27
+222,Dallas Stars,681,Washington Capitals,703,2022-10-28T00:30:00+00:00,2022-10-27
+223,Seattle Kraken,1436,Vancouver Canucks,701,2022-10-28T02:00:00+00:00,2022-10-27
+224,Los Angeles Kings,685,Winnipeg Jets,704,2022-10-28T02:30:00+00:00,2022-10-27
+225,San Jose Sharks,697,Toronto Maple Leafs,700,2022-10-28T02:30:00+00:00,2022-10-27
+226,Vegas Golden Knights,702,Anaheim Ducks,670,2022-10-28T22:00:00+00:00,2022-10-28
+227,New Jersey Devils,690,Colorado Avalanche,679,2022-10-28T23:00:00+00:00,2022-10-28
+228,Columbus Blue Jackets,680,Boston Bruins,673,2022-10-28T23:00:00+00:00,2022-10-28
+229,Carolina Hurricanes,676,New York Islanders,691,2022-10-28T23:00:00+00:00,2022-10-28
+230,Vancouver Canucks,701,Pittsburgh Penguins,696,2022-10-29T02:00:00+00:00,2022-10-28
+231,Arizona Coyotes,1460,Winnipeg Jets,704,2022-10-29T02:30:00+00:00,2022-10-28
+232,Dallas Stars,681,New York Rangers,692,2022-10-29T18:00:00+00:00,2022-10-29
+233,Florida Panthers,684,Ottawa Senators,693,2022-10-29T20:00:00+00:00,2022-10-29
+234,San Jose Sharks,697,Tampa Bay Lightning,699,2022-10-29T20:30:00+00:00,2022-10-29
+235,Buffalo Sabres,674,Chicago Blackhawks,678,2022-10-29T23:00:00+00:00,2022-10-29
+236,Detroit Red Wings,682,Minnesota Wild,687,2022-10-29T23:00:00+00:00,2022-10-29
+237,Los Angeles Kings,685,Toronto Maple Leafs,700,2022-10-29T23:00:00+00:00,2022-10-29
+238,Philadelphia Flyers,695,Carolina Hurricanes,676,2022-10-29T23:00:00+00:00,2022-10-29
+239,St. Louis Blues,698,Montreal Canadiens,688,2022-10-29T23:00:00+00:00,2022-10-29
+240,New York Islanders,691,Colorado Avalanche,679,2022-10-29T23:30:00+00:00,2022-10-29
+241,Nashville Predators,689,Washington Capitals,703,2022-10-30T01:00:00+00:00,2022-10-29
+242,Seattle Kraken,1436,Pittsburgh Penguins,696,2022-10-30T02:00:00+00:00,2022-10-29
+243,Calgary Flames,675,Edmonton Oilers,683,2022-10-30T02:00:00+00:00,2022-10-29
+244,New Jersey Devils,690,Columbus Blue Jackets,680,2022-10-30T18:00:00+00:00,2022-10-30
+245,Chicago Blackhawks,678,Minnesota Wild,687,2022-10-30T23:00:00+00:00,2022-10-30
+246,Anaheim Ducks,670,Toronto Maple Leafs,700,2022-10-31T00:00:00+00:00,2022-10-30
+247,Arizona Coyotes,1460,New York Rangers,692,2022-10-31T00:00:00+00:00,2022-10-30
+248,Vegas Golden Knights,702,Winnipeg Jets,704,2022-10-31T00:00:00+00:00,2022-10-30
+249,Buffalo Sabres,674,Detroit Red Wings,682,2022-10-31T23:00:00+00:00,2022-10-31
+250,Carolina Hurricanes,676,Washington Capitals,703,2022-10-31T23:00:00+00:00,2022-10-31
+251,St. Louis Blues,698,Los Angeles Kings,685,2022-11-01T00:00:00+00:00,2022-10-31
+252,Washington Capitals,703,Vegas Golden Knights,702,2022-11-01T23:00:00+00:00,2022-11-01
+253,New York Rangers,692,Philadelphia Flyers,695,2022-11-01T23:00:00+00:00,2022-11-01
+254,Tampa Bay Lightning,699,Ottawa Senators,693,2022-11-01T23:00:00+00:00,2022-11-01
+255,Minnesota Wild,687,Montreal Canadiens,688,2022-11-02T00:00:00+00:00,2022-11-01
+256,Pittsburgh Penguins,696,Boston Bruins,673,2022-11-02T00:00:00+00:00,2022-11-01
+257,Chicago Blackhawks,678,New York Islanders,691,2022-11-02T00:30:00+00:00,2022-11-01
+258,Dallas Stars,681,Los Angeles Kings,685,2022-11-02T00:30:00+00:00,2022-11-01
+259,Calgary Flames,675,Seattle Kraken,1436,2022-11-02T01:00:00+00:00,2022-11-01
+260,Edmonton Oilers,683,Nashville Predators,689,2022-11-02T01:00:00+00:00,2022-11-01
+261,Arizona Coyotes,1460,Florida Panthers,684,2022-11-02T02:00:00+00:00,2022-11-01
+262,Vancouver Canucks,701,New Jersey Devils,690,2022-11-02T02:00:00+00:00,2022-11-01
+263,San Jose Sharks,697,Anaheim Ducks,670,2022-11-02T02:30:00+00:00,2022-11-01
+264,Toronto Maple Leafs,700,Philadelphia Flyers,695,2022-11-02T23:00:00+00:00,2022-11-02
+265,Buffalo Sabres,674,Pittsburgh Penguins,696,2022-11-02T23:30:00+00:00,2022-11-02
+266,Ottawa Senators,693,Vegas Golden Knights,702,2022-11-03T23:00:00+00:00,2022-11-03
+267,Tampa Bay Lightning,699,Carolina Hurricanes,676,2022-11-03T23:00:00+00:00,2022-11-03
+268,Detroit Red Wings,682,Washington Capitals,703,2022-11-03T23:00:00+00:00,2022-11-03
+269,New York Rangers,692,Boston Bruins,673,2022-11-03T23:30:00+00:00,2022-11-03
+270,Minnesota Wild,687,Seattle Kraken,1436,2022-11-04T00:00:00+00:00,2022-11-03
+271,St. Louis Blues,698,New York Islanders,691,2022-11-04T00:00:00+00:00,2022-11-03
+272,Winnipeg Jets,704,Montreal Canadiens,688,2022-11-04T00:00:00+00:00,2022-11-03
+273,Chicago Blackhawks,678,Los Angeles Kings,685,2022-11-04T00:30:00+00:00,2022-11-03
+274,Edmonton Oilers,683,New Jersey Devils,690,2022-11-04T01:00:00+00:00,2022-11-03
+275,Calgary Flames,675,Nashville Predators,689,2022-11-04T01:00:00+00:00,2022-11-03
+276,Arizona Coyotes,1460,Dallas Stars,681,2022-11-04T02:00:00+00:00,2022-11-03
+277,Vancouver Canucks,701,Anaheim Ducks,670,2022-11-04T02:00:00+00:00,2022-11-03
+278,San Jose Sharks,697,Florida Panthers,684,2022-11-04T02:30:00+00:00,2022-11-03
+279,Colorado Avalanche,679,Columbus Blue Jackets,680,2022-11-04T18:00:00+00:00,2022-11-04
+280,Carolina Hurricanes,676,Buffalo Sabres,674,2022-11-04T23:00:00+00:00,2022-11-04
+281,Detroit Red Wings,682,New York Islanders,691,2022-11-05T17:00:00+00:00,2022-11-05
+282,Columbus Blue Jackets,680,Colorado Avalanche,679,2022-11-05T18:00:00+00:00,2022-11-05
+283,Winnipeg Jets,704,Chicago Blackhawks,678,2022-11-05T19:00:00+00:00,2022-11-05
+284,Edmonton Oilers,683,Dallas Stars,681,2022-11-05T20:00:00+00:00,2022-11-05
+285,Toronto Maple Leafs,700,Boston Bruins,673,2022-11-05T23:00:00+00:00,2022-11-05
+286,Washington Capitals,703,Arizona Coyotes,1460,2022-11-05T23:00:00+00:00,2022-11-05
+287,Montreal Canadiens,688,Vegas Golden Knights,702,2022-11-05T23:00:00+00:00,2022-11-05
+288,Tampa Bay Lightning,699,Buffalo Sabres,674,2022-11-05T23:00:00+00:00,2022-11-05
+289,Pittsburgh Penguins,696,Seattle Kraken,1436,2022-11-05T23:00:00+00:00,2022-11-05
+290,Ottawa Senators,693,Philadelphia Flyers,695,2022-11-05T23:00:00+00:00,2022-11-05
+291,Calgary Flames,675,New Jersey Devils,690,2022-11-06T02:00:00+00:00,2022-11-05
+292,Vancouver Canucks,701,Nashville Predators,689,2022-11-06T02:00:00+00:00,2022-11-05
+293,Los Angeles Kings,685,Florida Panthers,684,2022-11-06T02:30:00+00:00,2022-11-05
+294,San Jose Sharks,697,Anaheim Ducks,670,2022-11-06T02:30:00+00:00,2022-11-05
+295,Carolina Hurricanes,676,Toronto Maple Leafs,700,2022-11-06T22:00:00+00:00,2022-11-06
+296,New York Rangers,692,Detroit Red Wings,682,2022-11-06T22:00:00+00:00,2022-11-06
+297,Anaheim Ducks,670,Florida Panthers,684,2022-11-07T02:00:00+00:00,2022-11-06
+298,Boston Bruins,673,St. Louis Blues,698,2022-11-08T00:00:00+00:00,2022-11-07
+299,New York Islanders,691,Calgary Flames,675,2022-11-08T00:00:00+00:00,2022-11-07
+300,Washington Capitals,703,Edmonton Oilers,683,2022-11-08T01:00:00+00:00,2022-11-07
+301,Buffalo Sabres,674,Arizona Coyotes,1460,2022-11-09T00:00:00+00:00,2022-11-08
+302,New Jersey Devils,690,Calgary Flames,675,2022-11-09T00:00:00+00:00,2022-11-08
+303,New York Rangers,692,New York Islanders,691,2022-11-09T00:00:00+00:00,2022-11-08
+304,Ottawa Senators,693,Vancouver Canucks,701,2022-11-09T00:00:00+00:00,2022-11-08
+305,Philadelphia Flyers,695,St. Louis Blues,698,2022-11-09T00:00:00+00:00,2022-11-08
+306,Toronto Maple Leafs,700,Vegas Golden Knights,702,2022-11-09T00:00:00+00:00,2022-11-08
+307,Detroit Red Wings,682,Montreal Canadiens,688,2022-11-09T00:00:00+00:00,2022-11-08
+308,Tampa Bay Lightning,699,Edmonton Oilers,683,2022-11-09T00:30:00+00:00,2022-11-08
+309,Winnipeg Jets,704,Dallas Stars,681,2022-11-09T01:00:00+00:00,2022-11-08
+310,Seattle Kraken,1436,Nashville Predators,689,2022-11-09T03:00:00+00:00,2022-11-08
+311,Los Angeles Kings,685,Minnesota Wild,687,2022-11-09T03:30:00+00:00,2022-11-08
+312,Florida Panthers,684,Carolina Hurricanes,676,2022-11-10T00:00:00+00:00,2022-11-09
+313,Montreal Canadiens,688,Vancouver Canucks,701,2022-11-10T00:30:00+00:00,2022-11-09
+314,Washington Capitals,703,Pittsburgh Penguins,696,2022-11-10T00:30:00+00:00,2022-11-09
+315,Anaheim Ducks,670,Minnesota Wild,687,2022-11-10T03:00:00+00:00,2022-11-09
+316,New Jersey Devils,690,Ottawa Senators,693,2022-11-11T00:00:00+00:00,2022-11-10
+317,Columbus Blue Jackets,680,Philadelphia Flyers,695,2022-11-11T00:00:00+00:00,2022-11-10
+318,Carolina Hurricanes,676,Edmonton Oilers,683,2022-11-11T00:00:00+00:00,2022-11-10
+319,Buffalo Sabres,674,Vegas Golden Knights,702,2022-11-11T00:00:00+00:00,2022-11-10
+320,Boston Bruins,673,Calgary Flames,675,2022-11-11T00:00:00+00:00,2022-11-10
+321,Detroit Red Wings,682,New York Rangers,692,2022-11-11T00:00:00+00:00,2022-11-10
+322,New York Islanders,691,Arizona Coyotes,1460,2022-11-11T00:30:00+00:00,2022-11-10
+323,St. Louis Blues,698,San Jose Sharks,697,2022-11-11T01:00:00+00:00,2022-11-10
+324,Colorado Avalanche,679,Nashville Predators,689,2022-11-11T02:00:00+00:00,2022-11-10
+325,Los Angeles Kings,685,Chicago Blackhawks,678,2022-11-11T03:30:00+00:00,2022-11-10
+326,Toronto Maple Leafs,700,Pittsburgh Penguins,696,2022-11-12T00:00:00+00:00,2022-11-11
+327,Washington Capitals,703,Tampa Bay Lightning,699,2022-11-12T00:00:00+00:00,2022-11-11
+328,Dallas Stars,681,San Jose Sharks,697,2022-11-12T01:30:00+00:00,2022-11-11
+329,Seattle Kraken,1436,Minnesota Wild,687,2022-11-12T03:00:00+00:00,2022-11-11
+330,Philadelphia Flyers,695,Ottawa Senators,693,2022-11-12T18:00:00+00:00,2022-11-12
+331,Florida Panthers,684,Edmonton Oilers,683,2022-11-12T21:00:00+00:00,2022-11-12
+332,Buffalo Sabres,674,Boston Bruins,673,2022-11-13T00:00:00+00:00,2022-11-12
+333,Montreal Canadiens,688,Pittsburgh Penguins,696,2022-11-13T00:00:00+00:00,2022-11-12
+334,New Jersey Devils,690,Arizona Coyotes,1460,2022-11-13T00:00:00+00:00,2022-11-12
+335,Toronto Maple Leafs,700,Vancouver Canucks,701,2022-11-13T00:00:00+00:00,2022-11-12
+336,New York Islanders,691,Columbus Blue Jackets,680,2022-11-13T00:30:00+00:00,2022-11-12
+337,Nashville Predators,689,New York Rangers,692,2022-11-13T01:00:00+00:00,2022-11-12
+338,Colorado Avalanche,679,Carolina Hurricanes,676,2022-11-13T02:00:00+00:00,2022-11-12
+339,Vegas Golden Knights,702,St. Louis Blues,698,2022-11-13T03:00:00+00:00,2022-11-12
+340,Calgary Flames,675,Winnipeg Jets,704,2022-11-13T03:00:00+00:00,2022-11-12
+341,Anaheim Ducks,670,Chicago Blackhawks,678,2022-11-13T03:00:00+00:00,2022-11-12
+342,Los Angeles Kings,685,Detroit Red Wings,682,2022-11-13T03:30:00+00:00,2022-11-12
+343,Philadelphia Flyers,695,Dallas Stars,681,2022-11-13T18:00:00+00:00,2022-11-13
+344,Boston Bruins,673,Vancouver Canucks,701,2022-11-13T23:00:00+00:00,2022-11-13
+345,Minnesota Wild,687,San Jose Sharks,697,2022-11-13T23:00:00+00:00,2022-11-13
+346,New York Rangers,692,Arizona Coyotes,1460,2022-11-14T00:00:00+00:00,2022-11-13
+347,Tampa Bay Lightning,699,Washington Capitals,703,2022-11-14T00:00:00+00:00,2022-11-13
+348,Seattle Kraken,1436,Winnipeg Jets,704,2022-11-14T01:00:00+00:00,2022-11-13
+349,Ottawa Senators,693,New York Islanders,691,2022-11-14T22:30:00+00:00,2022-11-14
+350,Calgary Flames,675,Los Angeles Kings,685,2022-11-15T01:30:00+00:00,2022-11-14
+351,Chicago Blackhawks,678,Carolina Hurricanes,676,2022-11-15T01:30:00+00:00,2022-11-14
+352,Colorado Avalanche,679,St. Louis Blues,698,2022-11-15T02:00:00+00:00,2022-11-14
+353,Buffalo Sabres,674,Vancouver Canucks,701,2022-11-16T00:00:00+00:00,2022-11-15
+354,Florida Panthers,684,Washington Capitals,703,2022-11-16T00:00:00+00:00,2022-11-15
+355,Montreal Canadiens,688,New Jersey Devils,690,2022-11-16T00:00:00+00:00,2022-11-15
+356,Pittsburgh Penguins,696,Toronto Maple Leafs,700,2022-11-16T00:00:00+00:00,2022-11-15
+357,Tampa Bay Lightning,699,Dallas Stars,681,2022-11-16T00:00:00+00:00,2022-11-15
+358,Columbus Blue Jackets,680,Philadelphia Flyers,695,2022-11-16T00:30:00+00:00,2022-11-15
+359,Nashville Predators,689,Minnesota Wild,687,2022-11-16T01:00:00+00:00,2022-11-15
+360,Vegas Golden Knights,702,San Jose Sharks,697,2022-11-16T03:00:00+00:00,2022-11-15
+361,Anaheim Ducks,670,Detroit Red Wings,682,2022-11-16T03:00:00+00:00,2022-11-15
+362,Ottawa Senators,693,Buffalo Sabres,674,2022-11-17T00:00:00+00:00,2022-11-16
+363,Chicago Blackhawks,678,St. Louis Blues,698,2022-11-17T00:30:00+00:00,2022-11-16
+364,Edmonton Oilers,683,Los Angeles Kings,685,2022-11-17T03:00:00+00:00,2022-11-16
+365,Boston Bruins,673,Philadelphia Flyers,695,2022-11-18T00:00:00+00:00,2022-11-17
+366,Carolina Hurricanes,676,Colorado Avalanche,679,2022-11-18T00:00:00+00:00,2022-11-17
+367,Columbus Blue Jackets,680,Montreal Canadiens,688,2022-11-18T00:00:00+00:00,2022-11-17
+368,Florida Panthers,684,Dallas Stars,681,2022-11-18T00:00:00+00:00,2022-11-17
+369,Tampa Bay Lightning,699,Calgary Flames,675,2022-11-18T00:00:00+00:00,2022-11-17
+370,Toronto Maple Leafs,700,New Jersey Devils,690,2022-11-18T00:00:00+00:00,2022-11-17
+371,Winnipeg Jets,704,Anaheim Ducks,670,2022-11-18T01:00:00+00:00,2022-11-17
+372,Nashville Predators,689,New York Islanders,691,2022-11-18T01:00:00+00:00,2022-11-17
+373,St. Louis Blues,698,Washington Capitals,703,2022-11-18T01:00:00+00:00,2022-11-17
+374,Minnesota Wild,687,Pittsburgh Penguins,696,2022-11-18T01:00:00+00:00,2022-11-17
+375,Seattle Kraken,1436,New York Rangers,692,2022-11-18T03:00:00+00:00,2022-11-17
+376,Vegas Golden Knights,702,Arizona Coyotes,1460,2022-11-18T03:00:00+00:00,2022-11-17
+377,San Jose Sharks,697,Detroit Red Wings,682,2022-11-18T03:30:00+00:00,2022-11-17
+378,Vancouver Canucks,701,Los Angeles Kings,685,2022-11-19T03:00:00+00:00,2022-11-18
+379,Ottawa Senators,693,New Jersey Devils,690,2022-11-19T18:00:00+00:00,2022-11-19
+380,Florida Panthers,684,Calgary Flames,675,2022-11-19T21:00:00+00:00,2022-11-19
+381,Winnipeg Jets,704,Pittsburgh Penguins,696,2022-11-20T00:00:00+00:00,2022-11-19
+382,Washington Capitals,703,Colorado Avalanche,679,2022-11-20T00:00:00+00:00,2022-11-19
+383,Montreal Canadiens,688,Philadelphia Flyers,695,2022-11-20T00:00:00+00:00,2022-11-19
+384,Toronto Maple Leafs,700,Buffalo Sabres,674,2022-11-20T00:00:00+00:00,2022-11-19
+385,Columbus Blue Jackets,680,Detroit Red Wings,682,2022-11-20T00:00:00+00:00,2022-11-19
+386,Boston Bruins,673,Chicago Blackhawks,678,2022-11-20T00:00:00+00:00,2022-11-19
+387,Dallas Stars,681,New York Islanders,691,2022-11-20T01:00:00+00:00,2022-11-19
+388,Minnesota Wild,687,Carolina Hurricanes,676,2022-11-20T01:00:00+00:00,2022-11-19
+389,Nashville Predators,689,Tampa Bay Lightning,699,2022-11-20T01:00:00+00:00,2022-11-19
+390,St. Louis Blues,698,Anaheim Ducks,670,2022-11-20T01:00:00+00:00,2022-11-19
+391,Edmonton Oilers,683,Vegas Golden Knights,702,2022-11-20T03:00:00+00:00,2022-11-19
+392,Seattle Kraken,1436,Los Angeles Kings,685,2022-11-20T03:00:00+00:00,2022-11-19
+393,San Jose Sharks,697,New York Rangers,692,2022-11-20T03:30:00+00:00,2022-11-19
+394,Columbus Blue Jackets,680,Florida Panthers,684,2022-11-20T23:00:00+00:00,2022-11-20
+395,Chicago Blackhawks,678,Pittsburgh Penguins,696,2022-11-21T00:00:00+00:00,2022-11-20
+396,New Jersey Devils,690,Edmonton Oilers,683,2022-11-22T00:00:00+00:00,2022-11-21
+397,Philadelphia Flyers,695,Calgary Flames,675,2022-11-22T00:00:00+00:00,2022-11-21
+398,Tampa Bay Lightning,699,Boston Bruins,673,2022-11-22T00:00:00+00:00,2022-11-21
+399,Toronto Maple Leafs,700,New York Islanders,691,2022-11-22T00:30:00+00:00,2022-11-21
+400,Winnipeg Jets,704,Carolina Hurricanes,676,2022-11-22T00:30:00+00:00,2022-11-21
+401,Nashville Predators,689,Arizona Coyotes,1460,2022-11-22T01:00:00+00:00,2022-11-21
+402,St. Louis Blues,698,Anaheim Ducks,670,2022-11-22T01:00:00+00:00,2022-11-21
+403,Dallas Stars,681,Colorado Avalanche,679,2022-11-22T01:30:00+00:00,2022-11-21
+404,Vancouver Canucks,701,Vegas Golden Knights,702,2022-11-22T03:30:00+00:00,2022-11-21
+405,San Jose Sharks,697,Ottawa Senators,693,2022-11-22T03:30:00+00:00,2022-11-21
+406,Montreal Canadiens,688,Buffalo Sabres,674,2022-11-23T00:00:00+00:00,2022-11-22
+407,Los Angeles Kings,685,New York Rangers,692,2022-11-23T03:30:00+00:00,2022-11-22
+408,Buffalo Sabres,674,St. Louis Blues,698,2022-11-24T00:00:00+00:00,2022-11-23
+409,Carolina Hurricanes,676,Arizona Coyotes,1460,2022-11-24T00:00:00+00:00,2022-11-23
+410,Columbus Blue Jackets,680,Montreal Canadiens,688,2022-11-24T00:00:00+00:00,2022-11-23
+411,Florida Panthers,684,Boston Bruins,673,2022-11-24T00:00:00+00:00,2022-11-23
+412,Minnesota Wild,687,Winnipeg Jets,704,2022-11-24T00:00:00+00:00,2022-11-23
+413,New Jersey Devils,690,Toronto Maple Leafs,700,2022-11-24T00:00:00+00:00,2022-11-23
+414,Pittsburgh Penguins,696,Calgary Flames,675,2022-11-24T00:00:00+00:00,2022-11-23
+415,Detroit Red Wings,682,Nashville Predators,689,2022-11-24T00:00:00+00:00,2022-11-23
+416,Washington Capitals,703,Philadelphia Flyers,695,2022-11-24T00:30:00+00:00,2022-11-23
+417,New York Islanders,691,Edmonton Oilers,683,2022-11-24T00:30:00+00:00,2022-11-23
+418,Dallas Stars,681,Chicago Blackhawks,678,2022-11-24T01:30:00+00:00,2022-11-23
+419,Anaheim Ducks,670,New York Rangers,692,2022-11-24T03:00:00+00:00,2022-11-23
+420,Colorado Avalanche,679,Vancouver Canucks,701,2022-11-24T03:00:00+00:00,2022-11-23
+421,Seattle Kraken,1436,San Jose Sharks,697,2022-11-24T03:00:00+00:00,2022-11-23
+422,Vegas Golden Knights,702,Ottawa Senators,693,2022-11-24T03:00:00+00:00,2022-11-23
+423,Boston Bruins,673,Carolina Hurricanes,676,2022-11-25T18:00:00+00:00,2022-11-25
+424,Washington Capitals,703,Calgary Flames,675,2022-11-25T19:00:00+00:00,2022-11-25
+425,Minnesota Wild,687,Toronto Maple Leafs,700,2022-11-25T19:00:00+00:00,2022-11-25
+426,Chicago Blackhawks,678,Montreal Canadiens,688,2022-11-25T19:00:00+00:00,2022-11-25
+427,Anaheim Ducks,670,Ottawa Senators,693,2022-11-25T20:00:00+00:00,2022-11-25
+428,Philadelphia Flyers,695,Pittsburgh Penguins,696,2022-11-25T22:30:00+00:00,2022-11-25
+429,Buffalo Sabres,674,New Jersey Devils,690,2022-11-26T01:00:00+00:00,2022-11-25
+430,Columbus Blue Jackets,680,New York Islanders,691,2022-11-26T01:00:00+00:00,2022-11-25
+431,Detroit Red Wings,682,Arizona Coyotes,1460,2022-11-26T01:00:00+00:00,2022-11-25
+432,Tampa Bay Lightning,699,St. Louis Blues,698,2022-11-26T01:00:00+00:00,2022-11-25
+433,Vegas Golden Knights,702,Seattle Kraken,1436,2022-11-26T01:00:00+00:00,2022-11-25
+434,Dallas Stars,681,Winnipeg Jets,704,2022-11-26T01:30:00+00:00,2022-11-25
+435,San Jose Sharks,697,Los Angeles Kings,685,2022-11-26T03:30:00+00:00,2022-11-25
+436,New York Rangers,692,Edmonton Oilers,683,2022-11-26T18:00:00+00:00,2022-11-26
+437,Carolina Hurricanes,676,Calgary Flames,675,2022-11-26T21:00:00+00:00,2022-11-26
+438,Florida Panthers,684,St. Louis Blues,698,2022-11-26T23:30:00+00:00,2022-11-26
+439,New Jersey Devils,690,Washington Capitals,703,2022-11-27T00:00:00+00:00,2022-11-26
+440,Pittsburgh Penguins,696,Toronto Maple Leafs,700,2022-11-27T00:00:00+00:00,2022-11-26
+441,New York Islanders,691,Philadelphia Flyers,695,2022-11-27T00:30:00+00:00,2022-11-26
+442,Colorado Avalanche,679,Dallas Stars,681,2022-11-27T02:00:00+00:00,2022-11-26
+443,Vegas Golden Knights,702,Vancouver Canucks,701,2022-11-27T03:00:00+00:00,2022-11-26
+444,Minnesota Wild,687,Arizona Coyotes,1460,2022-11-27T19:00:00+00:00,2022-11-27
+445,Chicago Blackhawks,678,Winnipeg Jets,704,2022-11-28T00:00:00+00:00,2022-11-27
+446,Anaheim Ducks,670,Seattle Kraken,1436,2022-11-28T01:00:00+00:00,2022-11-27
+447,San Jose Sharks,697,Vancouver Canucks,701,2022-11-28T01:00:00+00:00,2022-11-27
+448,Los Angeles Kings,685,Ottawa Senators,693,2022-11-28T03:30:00+00:00,2022-11-27
+449,Buffalo Sabres,674,Tampa Bay Lightning,699,2022-11-29T00:00:00+00:00,2022-11-28
+450,Columbus Blue Jackets,680,Vegas Golden Knights,702,2022-11-29T00:00:00+00:00,2022-11-28
+451,Detroit Red Wings,682,Toronto Maple Leafs,700,2022-11-29T00:00:00+00:00,2022-11-28
+452,New York Rangers,692,New Jersey Devils,690,2022-11-29T00:00:00+00:00,2022-11-28
+453,St. Louis Blues,698,Dallas Stars,681,2022-11-29T01:00:00+00:00,2022-11-28
+454,Edmonton Oilers,683,Florida Panthers,684,2022-11-29T02:30:00+00:00,2022-11-28
+455,Pittsburgh Penguins,696,Carolina Hurricanes,676,2022-11-30T00:00:00+00:00,2022-11-29
+456,Montreal Canadiens,688,San Jose Sharks,697,2022-11-30T00:00:00+00:00,2022-11-29
+457,Boston Bruins,673,Tampa Bay Lightning,699,2022-11-30T00:00:00+00:00,2022-11-29
+458,Philadelphia Flyers,695,New York Islanders,691,2022-11-30T00:30:00+00:00,2022-11-29
+459,Nashville Predators,689,Anaheim Ducks,670,2022-11-30T01:00:00+00:00,2022-11-29
+460,Winnipeg Jets,704,Colorado Avalanche,679,2022-11-30T01:00:00+00:00,2022-11-29
+461,Calgary Flames,675,Florida Panthers,684,2022-11-30T02:00:00+00:00,2022-11-29
+462,Vancouver Canucks,701,Washington Capitals,703,2022-11-30T03:00:00+00:00,2022-11-29
+463,Los Angeles Kings,685,Seattle Kraken,1436,2022-11-30T03:30:00+00:00,2022-11-29
+464,Detroit Red Wings,682,Buffalo Sabres,674,2022-12-01T00:00:00+00:00,2022-11-30
+465,Ottawa Senators,693,New York Rangers,692,2022-12-01T00:00:00+00:00,2022-11-30
+466,Toronto Maple Leafs,700,San Jose Sharks,697,2022-12-01T00:00:00+00:00,2022-11-30
+467,Chicago Blackhawks,678,Edmonton Oilers,683,2022-12-01T02:30:00+00:00,2022-11-30
+468,Pittsburgh Penguins,696,Vegas Golden Knights,702,2022-12-02T00:00:00+00:00,2022-12-01
+469,Buffalo Sabres,674,Colorado Avalanche,679,2022-12-02T00:00:00+00:00,2022-12-01
+470,Philadelphia Flyers,695,Tampa Bay Lightning,699,2022-12-02T00:00:00+00:00,2022-12-01
+471,New Jersey Devils,690,Nashville Predators,689,2022-12-02T00:00:00+00:00,2022-12-01
+472,Minnesota Wild,687,Edmonton Oilers,683,2022-12-02T01:00:00+00:00,2022-12-01
+473,St. Louis Blues,698,Carolina Hurricanes,676,2022-12-02T01:00:00+00:00,2022-12-01
+474,Dallas Stars,681,Anaheim Ducks,670,2022-12-02T01:30:00+00:00,2022-12-01
+475,Calgary Flames,675,Montreal Canadiens,688,2022-12-02T02:00:00+00:00,2022-12-01
+476,Seattle Kraken,1436,Washington Capitals,703,2022-12-02T03:00:00+00:00,2022-12-01
+477,Vancouver Canucks,701,Florida Panthers,684,2022-12-02T03:00:00+00:00,2022-12-01
+478,Los Angeles Kings,685,Arizona Coyotes,1460,2022-12-02T03:30:00+00:00,2022-12-01
+479,New York Rangers,692,Ottawa Senators,693,2022-12-03T00:00:00+00:00,2022-12-02
+480,New York Islanders,691,Nashville Predators,689,2022-12-03T00:30:00+00:00,2022-12-02
+481,Winnipeg Jets,704,Columbus Blue Jackets,680,2022-12-03T01:00:00+00:00,2022-12-02
+482,Minnesota Wild,687,Anaheim Ducks,670,2022-12-03T19:00:00+00:00,2022-12-03
+483,Boston Bruins,673,Colorado Avalanche,679,2022-12-04T00:00:00+00:00,2022-12-03
+484,Detroit Red Wings,682,Vegas Golden Knights,702,2022-12-04T00:00:00+00:00,2022-12-03
+485,Edmonton Oilers,683,Montreal Canadiens,688,2022-12-04T00:00:00+00:00,2022-12-03
+486,Ottawa Senators,693,San Jose Sharks,697,2022-12-04T00:00:00+00:00,2022-12-03
+487,Philadelphia Flyers,695,New Jersey Devils,690,2022-12-04T00:00:00+00:00,2022-12-03
+488,Pittsburgh Penguins,696,St. Louis Blues,698,2022-12-04T00:00:00+00:00,2022-12-03
+489,Tampa Bay Lightning,699,Toronto Maple Leafs,700,2022-12-04T00:00:00+00:00,2022-12-03
+490,New York Rangers,692,Chicago Blackhawks,678,2022-12-04T00:30:00+00:00,2022-12-03
+491,Calgary Flames,675,Washington Capitals,703,2022-12-04T03:00:00+00:00,2022-12-03
+492,Seattle Kraken,1436,Florida Panthers,684,2022-12-04T03:00:00+00:00,2022-12-03
+493,Vancouver Canucks,701,Arizona Coyotes,1460,2022-12-04T03:00:00+00:00,2022-12-03
+494,Los Angeles Kings,685,Carolina Hurricanes,676,2022-12-04T03:30:00+00:00,2022-12-03
+495,Dallas Stars,681,Minnesota Wild,687,2022-12-04T20:00:00+00:00,2022-12-04
+496,Winnipeg Jets,704,Anaheim Ducks,670,2022-12-04T20:00:00+00:00,2022-12-04
+497,Columbus Blue Jackets,680,Detroit Red Wings,682,2022-12-04T23:00:00+00:00,2022-12-04
+498,Buffalo Sabres,674,San Jose Sharks,697,2022-12-05T00:00:00+00:00,2022-12-04
+499,New York Islanders,691,Chicago Blackhawks,678,2022-12-05T00:30:00+00:00,2022-12-04
+500,Philadelphia Flyers,695,Colorado Avalanche,679,2022-12-06T00:00:00+00:00,2022-12-05
+501,New York Rangers,692,St. Louis Blues,698,2022-12-06T00:00:00+00:00,2022-12-05
+502,Boston Bruins,673,Vegas Golden Knights,702,2022-12-06T00:00:00+00:00,2022-12-05
+503,Edmonton Oilers,683,Washington Capitals,703,2022-12-06T01:30:00+00:00,2022-12-05
+504,Calgary Flames,675,Arizona Coyotes,1460,2022-12-06T02:00:00+00:00,2022-12-05
+505,Vancouver Canucks,701,Montreal Canadiens,688,2022-12-06T03:30:00+00:00,2022-12-05
+506,New Jersey Devils,690,Chicago Blackhawks,678,2022-12-07T00:00:00+00:00,2022-12-06
+507,Ottawa Senators,693,Los Angeles Kings,685,2022-12-07T00:00:00+00:00,2022-12-06
+508,Pittsburgh Penguins,696,Columbus Blue Jackets,680,2022-12-07T00:00:00+00:00,2022-12-06
+509,Tampa Bay Lightning,699,Detroit Red Wings,682,2022-12-07T00:00:00+00:00,2022-12-06
+510,New York Islanders,691,St. Louis Blues,698,2022-12-07T00:30:00+00:00,2022-12-06
+511,Winnipeg Jets,704,Florida Panthers,684,2022-12-07T01:00:00+00:00,2022-12-06
+512,Dallas Stars,681,Toronto Maple Leafs,700,2022-12-07T01:30:00+00:00,2022-12-06
+513,Anaheim Ducks,670,Carolina Hurricanes,676,2022-12-07T03:00:00+00:00,2022-12-06
+514,Seattle Kraken,1436,Montreal Canadiens,688,2022-12-07T03:00:00+00:00,2022-12-06
+515,Philadelphia Flyers,695,Washington Capitals,703,2022-12-08T00:00:00+00:00,2022-12-07
+516,Columbus Blue Jackets,680,Buffalo Sabres,674,2022-12-08T00:30:00+00:00,2022-12-07
+517,Calgary Flames,675,Minnesota Wild,687,2022-12-08T01:00:00+00:00,2022-12-07
+518,Colorado Avalanche,679,Boston Bruins,673,2022-12-08T02:00:00+00:00,2022-12-07
+519,Edmonton Oilers,683,Arizona Coyotes,1460,2022-12-08T02:30:00+00:00,2022-12-07
+520,Vegas Golden Knights,702,New York Rangers,692,2022-12-08T03:00:00+00:00,2022-12-07
+521,San Jose Sharks,697,Vancouver Canucks,701,2022-12-08T03:30:00+00:00,2022-12-07
+522,Toronto Maple Leafs,700,Los Angeles Kings,685,2022-12-09T00:00:00+00:00,2022-12-08
+523,Tampa Bay Lightning,699,Nashville Predators,689,2022-12-09T00:00:00+00:00,2022-12-08
+524,Florida Panthers,684,Detroit Red Wings,682,2022-12-09T00:30:00+00:00,2022-12-08
+525,St. Louis Blues,698,Winnipeg Jets,704,2022-12-09T01:00:00+00:00,2022-12-08
+526,Dallas Stars,681,Ottawa Senators,693,2022-12-09T01:30:00+00:00,2022-12-08
+527,Buffalo Sabres,674,Pittsburgh Penguins,696,2022-12-10T00:00:00+00:00,2022-12-09
+528,Columbus Blue Jackets,680,Calgary Flames,675,2022-12-10T00:00:00+00:00,2022-12-09
+529,New Jersey Devils,690,New York Islanders,691,2022-12-10T00:00:00+00:00,2022-12-09
+530,Washington Capitals,703,Seattle Kraken,1436,2022-12-10T00:00:00+00:00,2022-12-09
+531,Chicago Blackhawks,678,Winnipeg Jets,704,2022-12-10T01:30:00+00:00,2022-12-09
+532,Edmonton Oilers,683,Minnesota Wild,687,2022-12-10T02:00:00+00:00,2022-12-09
+533,Colorado Avalanche,679,New York Rangers,692,2022-12-10T02:00:00+00:00,2022-12-09
+534,Arizona Coyotes,1460,Boston Bruins,673,2022-12-10T02:30:00+00:00,2022-12-09
+535,Anaheim Ducks,670,San Jose Sharks,697,2022-12-10T03:00:00+00:00,2022-12-09
+536,Vegas Golden Knights,702,Philadelphia Flyers,695,2022-12-10T03:00:00+00:00,2022-12-09
+537,Nashville Predators,689,Ottawa Senators,693,2022-12-10T18:30:00+00:00,2022-12-10
+538,Dallas Stars,681,Detroit Red Wings,682,2022-12-10T19:00:00+00:00,2022-12-10
+539,Tampa Bay Lightning,699,Florida Panthers,684,2022-12-10T21:30:00+00:00,2022-12-10
+540,Montreal Canadiens,688,Los Angeles Kings,685,2022-12-11T00:00:00+00:00,2022-12-10
+541,Pittsburgh Penguins,696,Buffalo Sabres,674,2022-12-11T00:00:00+00:00,2022-12-10
+542,Toronto Maple Leafs,700,Calgary Flames,675,2022-12-11T00:00:00+00:00,2022-12-10
+543,New York Islanders,691,Carolina Hurricanes,676,2022-12-11T00:30:00+00:00,2022-12-10
+544,Vancouver Canucks,701,Minnesota Wild,687,2022-12-11T03:00:00+00:00,2022-12-10
+545,St. Louis Blues,698,Colorado Avalanche,679,2022-12-11T20:00:00+00:00,2022-12-11
+546,Columbus Blue Jackets,680,Los Angeles Kings,685,2022-12-11T23:00:00+00:00,2022-12-11
+547,Florida Panthers,684,Seattle Kraken,1436,2022-12-11T23:00:00+00:00,2022-12-11
+548,Arizona Coyotes,1460,Philadelphia Flyers,695,2022-12-12T00:00:00+00:00,2022-12-11
+549,Winnipeg Jets,704,Washington Capitals,703,2022-12-12T00:00:00+00:00,2022-12-11
+550,Vegas Golden Knights,702,Boston Bruins,673,2022-12-12T01:00:00+00:00,2022-12-11
+551,Montreal Canadiens,688,Calgary Flames,675,2022-12-13T00:00:00+00:00,2022-12-12
+552,New York Rangers,692,New Jersey Devils,690,2022-12-13T00:00:00+00:00,2022-12-12
+553,Pittsburgh Penguins,696,Dallas Stars,681,2022-12-13T00:00:00+00:00,2022-12-12
+554,Ottawa Senators,693,Anaheim Ducks,670,2022-12-13T00:30:00+00:00,2022-12-12
+555,Minnesota Wild,687,Edmonton Oilers,683,2022-12-13T01:00:00+00:00,2022-12-12
+556,St. Louis Blues,698,Nashville Predators,689,2022-12-13T01:00:00+00:00,2022-12-12
+557,Boston Bruins,673,New York Islanders,691,2022-12-14T00:00:00+00:00,2022-12-13
+558,Buffalo Sabres,674,Los Angeles Kings,685,2022-12-14T00:00:00+00:00,2022-12-13
+559,Florida Panthers,684,Columbus Blue Jackets,680,2022-12-14T00:00:00+00:00,2022-12-13
+560,New Jersey Devils,690,Dallas Stars,681,2022-12-14T00:00:00+00:00,2022-12-13
+561,Tampa Bay Lightning,699,Seattle Kraken,1436,2022-12-14T00:00:00+00:00,2022-12-13
+562,Toronto Maple Leafs,700,Anaheim Ducks,670,2022-12-14T00:00:00+00:00,2022-12-13
+563,Detroit Red Wings,682,Carolina Hurricanes,676,2022-12-14T00:00:00+00:00,2022-12-13
+564,Nashville Predators,689,Edmonton Oilers,683,2022-12-14T01:00:00+00:00,2022-12-13
+565,Winnipeg Jets,704,Vegas Golden Knights,702,2022-12-14T01:00:00+00:00,2022-12-13
+566,Chicago Blackhawks,678,Washington Capitals,703,2022-12-14T02:00:00+00:00,2022-12-13
+567,Colorado Avalanche,679,Philadelphia Flyers,695,2022-12-14T02:00:00+00:00,2022-12-13
+568,San Jose Sharks,697,Arizona Coyotes,1460,2022-12-14T03:30:00+00:00,2022-12-13
+569,Ottawa Senators,693,Montreal Canadiens,688,2022-12-15T00:00:00+00:00,2022-12-14
+570,Minnesota Wild,687,Detroit Red Wings,682,2022-12-15T00:30:00+00:00,2022-12-14
+571,Calgary Flames,675,Vancouver Canucks,701,2022-12-15T03:00:00+00:00,2022-12-14
+572,New Jersey Devils,690,Philadelphia Flyers,695,2022-12-16T00:00:00+00:00,2022-12-15
+573,Washington Capitals,703,Dallas Stars,681,2022-12-16T00:00:00+00:00,2022-12-15
+574,Tampa Bay Lightning,699,Columbus Blue Jackets,680,2022-12-16T00:00:00+00:00,2022-12-15
+575,New York Rangers,692,Toronto Maple Leafs,700,2022-12-16T00:00:00+00:00,2022-12-15
+576,Montreal Canadiens,688,Anaheim Ducks,670,2022-12-16T00:00:00+00:00,2022-12-15
+577,Florida Panthers,684,Pittsburgh Penguins,696,2022-12-16T00:00:00+00:00,2022-12-15
+578,Carolina Hurricanes,676,Seattle Kraken,1436,2022-12-16T00:00:00+00:00,2022-12-15
+579,Boston Bruins,673,Los Angeles Kings,685,2022-12-16T00:00:00+00:00,2022-12-15
+580,Winnipeg Jets,704,Nashville Predators,689,2022-12-16T01:00:00+00:00,2022-12-15
+581,Chicago Blackhawks,678,Vegas Golden Knights,702,2022-12-16T01:30:00+00:00,2022-12-15
+582,Colorado Avalanche,679,Buffalo Sabres,674,2022-12-16T02:00:00+00:00,2022-12-15
+583,Edmonton Oilers,683,St. Louis Blues,698,2022-12-16T02:00:00+00:00,2022-12-15
+584,Minnesota Wild,687,Chicago Blackhawks,678,2022-12-17T01:00:00+00:00,2022-12-16
+585,Calgary Flames,675,St. Louis Blues,698,2022-12-17T02:00:00+00:00,2022-12-16
+586,Arizona Coyotes,1460,New York Islanders,691,2022-12-17T02:30:00+00:00,2022-12-16
+587,Detroit Red Wings,682,Ottawa Senators,693,2022-12-17T18:00:00+00:00,2022-12-17
+588,Boston Bruins,673,Columbus Blue Jackets,680,2022-12-17T18:00:00+00:00,2022-12-17
+589,Edmonton Oilers,683,Anaheim Ducks,670,2022-12-17T21:00:00+00:00,2022-12-17
+590,Carolina Hurricanes,676,Dallas Stars,681,2022-12-18T00:00:00+00:00,2022-12-17
+591,Montreal Canadiens,688,Tampa Bay Lightning,699,2022-12-18T00:00:00+00:00,2022-12-17
+592,Philadelphia Flyers,695,New York Rangers,692,2022-12-18T00:00:00+00:00,2022-12-17
+593,Washington Capitals,703,Toronto Maple Leafs,700,2022-12-18T00:00:00+00:00,2022-12-17
+594,New Jersey Devils,690,Florida Panthers,684,2022-12-18T00:30:00+00:00,2022-12-17
+595,Arizona Coyotes,1460,Buffalo Sabres,674,2022-12-18T02:00:00+00:00,2022-12-17
+596,Colorado Avalanche,679,Nashville Predators,689,2022-12-18T02:00:00+00:00,2022-12-17
+597,Vancouver Canucks,701,Winnipeg Jets,704,2022-12-18T03:00:00+00:00,2022-12-17
+598,Vegas Golden Knights,702,New York Islanders,691,2022-12-18T03:00:00+00:00,2022-12-17
+599,Los Angeles Kings,685,San Jose Sharks,697,2022-12-18T03:30:00+00:00,2022-12-17
+600,Minnesota Wild,687,Ottawa Senators,693,2022-12-18T19:00:00+00:00,2022-12-18
+601,Carolina Hurricanes,676,Pittsburgh Penguins,696,2022-12-18T22:00:00+00:00,2022-12-18
+602,Chicago Blackhawks,678,New York Rangers,692,2022-12-19T00:30:00+00:00,2022-12-18
+603,Seattle Kraken,1436,Winnipeg Jets,704,2022-12-19T01:00:00+00:00,2022-12-18
+604,San Jose Sharks,697,Calgary Flames,675,2022-12-19T03:00:00+00:00,2022-12-18
+605,Boston Bruins,673,Florida Panthers,684,2022-12-20T00:00:00+00:00,2022-12-19
+606,Columbus Blue Jackets,680,Dallas Stars,681,2022-12-20T00:00:00+00:00,2022-12-19
+607,Washington Capitals,703,Detroit Red Wings,682,2022-12-20T00:00:00+00:00,2022-12-19
+608,Nashville Predators,689,Edmonton Oilers,683,2022-12-20T01:00:00+00:00,2022-12-19
+609,Colorado Avalanche,679,New York Islanders,691,2022-12-20T02:00:00+00:00,2022-12-19
+610,Vegas Golden Knights,702,Buffalo Sabres,674,2022-12-20T03:00:00+00:00,2022-12-19
+611,Arizona Coyotes,1460,Montreal Canadiens,688,2022-12-20T03:00:00+00:00,2022-12-19
+612,Vancouver Canucks,701,St. Louis Blues,698,2022-12-20T03:30:00+00:00,2022-12-19
+613,Carolina Hurricanes,676,New Jersey Devils,690,2022-12-21T00:00:00+00:00,2022-12-20
+614,Philadelphia Flyers,695,Columbus Blue Jackets,680,2022-12-21T00:00:00+00:00,2022-12-20
+615,Pittsburgh Penguins,696,New York Rangers,692,2022-12-21T00:00:00+00:00,2022-12-20
+616,Toronto Maple Leafs,700,Tampa Bay Lightning,699,2022-12-21T00:00:00+00:00,2022-12-20
+617,Winnipeg Jets,704,Ottawa Senators,693,2022-12-21T01:00:00+00:00,2022-12-20
+618,Seattle Kraken,1436,St. Louis Blues,698,2022-12-21T03:00:00+00:00,2022-12-20
+619,Los Angeles Kings,685,Anaheim Ducks,670,2022-12-21T03:30:00+00:00,2022-12-20
+620,San Jose Sharks,697,Calgary Flames,675,2022-12-21T03:30:00+00:00,2022-12-20
+621,Florida Panthers,684,New Jersey Devils,690,2022-12-22T00:00:00+00:00,2022-12-21
+622,Detroit Red Wings,682,Tampa Bay Lightning,699,2022-12-22T00:00:00+00:00,2022-12-21
+623,Colorado Avalanche,679,Montreal Canadiens,688,2022-12-22T01:00:00+00:00,2022-12-21
+624,Chicago Blackhawks,678,Nashville Predators,689,2022-12-22T01:30:00+00:00,2022-12-21
+625,Dallas Stars,681,Edmonton Oilers,683,2022-12-22T02:30:00+00:00,2022-12-21
+626,Anaheim Ducks,670,Minnesota Wild,687,2022-12-22T03:00:00+00:00,2022-12-21
+627,Vegas Golden Knights,702,Arizona Coyotes,1460,2022-12-22T03:00:00+00:00,2022-12-21
+628,Toronto Maple Leafs,700,Philadelphia Flyers,695,2022-12-22T19:00:00+00:00,2022-12-22
+629,Boston Bruins,673,Winnipeg Jets,704,2022-12-23T00:00:00+00:00,2022-12-22
+630,New York Rangers,692,New York Islanders,691,2022-12-23T00:00:00+00:00,2022-12-22
+631,Ottawa Senators,693,Washington Capitals,703,2022-12-23T00:00:00+00:00,2022-12-22
+632,Pittsburgh Penguins,696,Carolina Hurricanes,676,2022-12-23T00:00:00+00:00,2022-12-22
+633,Vancouver Canucks,701,Seattle Kraken,1436,2022-12-23T03:00:00+00:00,2022-12-22
+634,Los Angeles Kings,685,Calgary Flames,675,2022-12-23T03:30:00+00:00,2022-12-22
+635,San Jose Sharks,697,Minnesota Wild,687,2022-12-23T03:30:00+00:00,2022-12-22
+636,Carolina Hurricanes,676,Philadelphia Flyers,695,2022-12-24T00:00:00+00:00,2022-12-23
+637,New Jersey Devils,690,Boston Bruins,673,2022-12-24T00:00:00+00:00,2022-12-23
+638,Washington Capitals,703,Winnipeg Jets,704,2022-12-24T00:00:00+00:00,2022-12-23
+639,New York Islanders,691,Florida Panthers,684,2022-12-24T00:30:00+00:00,2022-12-23
+640,Nashville Predators,689,Colorado Avalanche,679,2022-12-24T01:00:00+00:00,2022-12-23
+641,Dallas Stars,681,Montreal Canadiens,688,2022-12-24T01:00:00+00:00,2022-12-23
+642,Chicago Blackhawks,678,Columbus Blue Jackets,680,2022-12-24T01:30:00+00:00,2022-12-23
+643,Edmonton Oilers,683,Vancouver Canucks,701,2022-12-24T02:00:00+00:00,2022-12-23
+644,Arizona Coyotes,1460,Los Angeles Kings,685,2022-12-24T02:30:00+00:00,2022-12-23
+645,Vegas Golden Knights,702,St. Louis Blues,698,2022-12-24T03:00:00+00:00,2022-12-23
+646,Anaheim Ducks,670,Calgary Flames,675,2022-12-24T03:30:00+00:00,2022-12-23
+647,Carolina Hurricanes,676,Chicago Blackhawks,678,2022-12-28T00:00:00+00:00,2022-12-27
+648,New York Rangers,692,Washington Capitals,703,2022-12-28T00:00:00+00:00,2022-12-27
+649,Ottawa Senators,693,Boston Bruins,673,2022-12-28T00:00:00+00:00,2022-12-27
+650,New York Islanders,691,Pittsburgh Penguins,696,2022-12-28T00:30:00+00:00,2022-12-27
+651,Winnipeg Jets,704,Minnesota Wild,687,2022-12-28T01:00:00+00:00,2022-12-27
+652,St. Louis Blues,698,Toronto Maple Leafs,700,2022-12-28T01:00:00+00:00,2022-12-27
+653,Nashville Predators,689,Dallas Stars,681,2022-12-28T01:00:00+00:00,2022-12-27
+654,Calgary Flames,675,Edmonton Oilers,683,2022-12-28T02:00:00+00:00,2022-12-27
+655,Arizona Coyotes,1460,Colorado Avalanche,679,2022-12-28T02:00:00+00:00,2022-12-27
+656,Vancouver Canucks,701,San Jose Sharks,697,2022-12-28T03:00:00+00:00,2022-12-27
+657,Los Angeles Kings,685,Vegas Golden Knights,702,2022-12-28T03:30:00+00:00,2022-12-27
+658,Tampa Bay Lightning,699,Montreal Canadiens,688,2022-12-29T00:00:00+00:00,2022-12-28
+659,New Jersey Devils,690,Boston Bruins,673,2022-12-29T00:30:00+00:00,2022-12-28
+660,Pittsburgh Penguins,696,Detroit Red Wings,682,2022-12-29T00:30:00+00:00,2022-12-28
+661,Anaheim Ducks,670,Vegas Golden Knights,702,2022-12-29T03:00:00+00:00,2022-12-28
+662,Seattle Kraken,1436,Calgary Flames,675,2022-12-29T03:00:00+00:00,2022-12-28
+663,Washington Capitals,703,Ottawa Senators,693,2022-12-30T00:00:00+00:00,2022-12-29
+664,Buffalo Sabres,674,Detroit Red Wings,682,2022-12-30T00:00:00+00:00,2022-12-29
+665,Tampa Bay Lightning,699,New York Rangers,692,2022-12-30T00:00:00+00:00,2022-12-29
+666,Florida Panthers,684,Montreal Canadiens,688,2022-12-30T00:00:00+00:00,2022-12-29
+667,New York Islanders,691,Columbus Blue Jackets,680,2022-12-30T00:30:00+00:00,2022-12-29
+668,Minnesota Wild,687,Dallas Stars,681,2022-12-30T01:00:00+00:00,2022-12-29
+669,St. Louis Blues,698,Chicago Blackhawks,678,2022-12-30T01:00:00+00:00,2022-12-29
+670,Winnipeg Jets,704,Vancouver Canucks,701,2022-12-30T01:00:00+00:00,2022-12-29
+671,Arizona Coyotes,1460,Toronto Maple Leafs,700,2022-12-30T02:00:00+00:00,2022-12-29
+672,Colorado Avalanche,679,Los Angeles Kings,685,2022-12-30T02:00:00+00:00,2022-12-29
+673,San Jose Sharks,697,Philadelphia Flyers,695,2022-12-30T03:30:00+00:00,2022-12-29
+674,Anaheim Ducks,670,Nashville Predators,689,2022-12-30T22:00:00+00:00,2022-12-30
+675,Pittsburgh Penguins,696,New Jersey Devils,690,2022-12-31T00:00:00+00:00,2022-12-30
+676,Carolina Hurricanes,676,Florida Panthers,684,2022-12-31T00:30:00+00:00,2022-12-30
+677,Seattle Kraken,1436,Edmonton Oilers,683,2022-12-31T03:00:00+00:00,2022-12-30
+678,Boston Bruins,673,Buffalo Sabres,674,2022-12-31T18:00:00+00:00,2022-12-31
+679,Columbus Blue Jackets,680,Chicago Blackhawks,678,2022-12-31T18:00:00+00:00,2022-12-31
+680,Vegas Golden Knights,702,Nashville Predators,689,2022-12-31T20:00:00+00:00,2022-12-31
+681,Los Angeles Kings,685,Philadelphia Flyers,695,2022-12-31T21:00:00+00:00,2022-12-31
+682,Washington Capitals,703,Montreal Canadiens,688,2022-12-31T21:00:00+00:00,2022-12-31
+683,Tampa Bay Lightning,699,Arizona Coyotes,1460,2022-12-31T22:00:00+00:00,2022-12-31
+684,St. Louis Blues,698,Minnesota Wild,687,2022-12-31T23:00:00+00:00,2022-12-31
+685,Detroit Red Wings,682,Ottawa Senators,693,2023-01-01T00:00:00+00:00,2022-12-31
+686,Colorado Avalanche,679,Toronto Maple Leafs,700,2023-01-01T00:00:00+00:00,2022-12-31
+687,Dallas Stars,681,San Jose Sharks,697,2023-01-01T01:00:00+00:00,2022-12-31
+688,Calgary Flames,675,Vancouver Canucks,701,2023-01-01T03:00:00+00:00,2022-12-31
+689,Edmonton Oilers,683,Winnipeg Jets,704,2023-01-01T03:00:00+00:00,2022-12-31
+690,New Jersey Devils,690,Carolina Hurricanes,676,2023-01-01T20:00:00+00:00,2023-01-01
+691,Florida Panthers,684,New York Rangers,692,2023-01-01T22:00:00+00:00,2023-01-01
+692,Chicago Blackhawks,678,San Jose Sharks,697,2023-01-02T00:00:00+00:00,2023-01-01
+693,Ottawa Senators,693,Buffalo Sabres,674,2023-01-02T00:00:00+00:00,2023-01-01
+694,Seattle Kraken,1436,New York Islanders,691,2023-01-02T01:00:00+00:00,2023-01-01
+695,Boston Bruins,673,Pittsburgh Penguins,696,2023-01-02T19:00:00+00:00,2023-01-02
+696,Colorado Avalanche,679,Vegas Golden Knights,702,2023-01-03T02:00:00+00:00,2023-01-02
+697,Anaheim Ducks,670,Philadelphia Flyers,695,2023-01-03T03:00:00+00:00,2023-01-02
+698,Florida Panthers,684,Arizona Coyotes,1460,2023-01-04T00:00:00+00:00,2023-01-03
+699,New York Rangers,692,Carolina Hurricanes,676,2023-01-04T00:00:00+00:00,2023-01-03
+700,Ottawa Senators,693,Columbus Blue Jackets,680,2023-01-04T00:00:00+00:00,2023-01-03
+701,Toronto Maple Leafs,700,St. Louis Blues,698,2023-01-04T00:00:00+00:00,2023-01-03
+702,Washington Capitals,703,Buffalo Sabres,674,2023-01-04T00:00:00+00:00,2023-01-03
+703,Nashville Predators,689,Montreal Canadiens,688,2023-01-04T01:00:00+00:00,2023-01-03
+704,Winnipeg Jets,704,Calgary Flames,675,2023-01-04T01:00:00+00:00,2023-01-03
+705,Chicago Blackhawks,678,Tampa Bay Lightning,699,2023-01-04T01:30:00+00:00,2023-01-03
+706,Edmonton Oilers,683,Seattle Kraken,1436,2023-01-04T02:00:00+00:00,2023-01-03
+707,Vancouver Canucks,701,New York Islanders,691,2023-01-04T03:00:00+00:00,2023-01-03
+708,Los Angeles Kings,685,Dallas Stars,681,2023-01-04T03:00:00+00:00,2023-01-03
+709,Detroit Red Wings,682,New Jersey Devils,690,2023-01-05T00:00:00+00:00,2023-01-04
+710,Minnesota Wild,687,Tampa Bay Lightning,699,2023-01-05T02:30:00+00:00,2023-01-04
+711,Anaheim Ducks,670,Dallas Stars,681,2023-01-05T03:00:00+00:00,2023-01-04
+712,New Jersey Devils,690,St. Louis Blues,698,2023-01-06T00:00:00+00:00,2023-01-05
+713,Philadelphia Flyers,695,Arizona Coyotes,1460,2023-01-06T00:00:00+00:00,2023-01-05
+714,Toronto Maple Leafs,700,Seattle Kraken,1436,2023-01-06T00:00:00+00:00,2023-01-05
+715,Montreal Canadiens,688,New York Rangers,692,2023-01-06T00:00:00+00:00,2023-01-05
+716,Columbus Blue Jackets,680,Washington Capitals,703,2023-01-06T00:00:00+00:00,2023-01-05
+717,Carolina Hurricanes,676,Nashville Predators,689,2023-01-06T00:00:00+00:00,2023-01-05
+718,Edmonton Oilers,683,New York Islanders,691,2023-01-06T02:00:00+00:00,2023-01-05
+719,Vancouver Canucks,701,Colorado Avalanche,679,2023-01-06T03:00:00+00:00,2023-01-05
+720,Vegas Golden Knights,702,Pittsburgh Penguins,696,2023-01-06T03:00:00+00:00,2023-01-05
+721,Los Angeles Kings,685,Boston Bruins,673,2023-01-06T03:30:00+00:00,2023-01-05
+722,Washington Capitals,703,Nashville Predators,689,2023-01-07T00:00:00+00:00,2023-01-06
+723,Detroit Red Wings,682,Florida Panthers,684,2023-01-07T00:00:00+00:00,2023-01-06
+724,Winnipeg Jets,704,Tampa Bay Lightning,699,2023-01-07T01:00:00+00:00,2023-01-06
+725,Chicago Blackhawks,678,Arizona Coyotes,1460,2023-01-07T01:30:00+00:00,2023-01-06
+726,Calgary Flames,675,New York Islanders,691,2023-01-07T02:00:00+00:00,2023-01-06
+727,Anaheim Ducks,670,San Jose Sharks,697,2023-01-07T03:00:00+00:00,2023-01-06
+728,New Jersey Devils,690,New York Rangers,692,2023-01-07T18:00:00+00:00,2023-01-07
+729,Columbus Blue Jackets,680,Carolina Hurricanes,676,2023-01-07T21:00:00+00:00,2023-01-07
+730,Buffalo Sabres,674,Minnesota Wild,687,2023-01-08T00:00:00+00:00,2023-01-07
+731,Montreal Canadiens,688,St. Louis Blues,698,2023-01-08T00:00:00+00:00,2023-01-07
+732,Ottawa Senators,693,Seattle Kraken,1436,2023-01-08T00:00:00+00:00,2023-01-07
+733,Toronto Maple Leafs,700,Detroit Red Wings,682,2023-01-08T00:00:00+00:00,2023-01-07
+734,Edmonton Oilers,683,Colorado Avalanche,679,2023-01-08T03:00:00+00:00,2023-01-07
+735,Vegas Golden Knights,702,Los Angeles Kings,685,2023-01-08T03:00:00+00:00,2023-01-07
+736,San Jose Sharks,697,Boston Bruins,673,2023-01-08T03:30:00+00:00,2023-01-07
+737,Winnipeg Jets,704,Vancouver Canucks,701,2023-01-08T20:00:00+00:00,2023-01-08
+738,Dallas Stars,681,Florida Panthers,684,2023-01-08T20:30:00+00:00,2023-01-08
+739,Washington Capitals,703,Columbus Blue Jackets,680,2023-01-08T22:00:00+00:00,2023-01-08
+740,Chicago Blackhawks,678,Calgary Flames,675,2023-01-09T00:00:00+00:00,2023-01-08
+741,Minnesota Wild,687,St. Louis Blues,698,2023-01-09T00:00:00+00:00,2023-01-08
+742,Philadelphia Flyers,695,Toronto Maple Leafs,700,2023-01-09T00:00:00+00:00,2023-01-08
+743,Arizona Coyotes,1460,Pittsburgh Penguins,696,2023-01-09T00:00:00+00:00,2023-01-08
+744,Anaheim Ducks,670,Boston Bruins,673,2023-01-09T01:30:00+00:00,2023-01-08
+745,Buffalo Sabres,674,Philadelphia Flyers,695,2023-01-10T00:00:00+00:00,2023-01-09
+746,Montreal Canadiens,688,Seattle Kraken,1436,2023-01-10T00:30:00+00:00,2023-01-09
+747,Ottawa Senators,693,Nashville Predators,689,2023-01-10T00:30:00+00:00,2023-01-09
+748,Los Angeles Kings,685,Edmonton Oilers,683,2023-01-10T03:30:00+00:00,2023-01-09
+749,Pittsburgh Penguins,696,Vancouver Canucks,701,2023-01-11T00:00:00+00:00,2023-01-10
+750,Tampa Bay Lightning,699,Columbus Blue Jackets,680,2023-01-11T00:00:00+00:00,2023-01-10
+751,Carolina Hurricanes,676,New Jersey Devils,690,2023-01-11T00:00:00+00:00,2023-01-10
+752,New York Rangers,692,Minnesota Wild,687,2023-01-11T00:00:00+00:00,2023-01-10
+753,Buffalo Sabres,674,Seattle Kraken,1436,2023-01-11T00:00:00+00:00,2023-01-10
+754,Detroit Red Wings,682,Winnipeg Jets,704,2023-01-11T00:00:00+00:00,2023-01-10
+755,New York Islanders,691,Dallas Stars,681,2023-01-11T00:30:00+00:00,2023-01-10
+756,St. Louis Blues,698,Calgary Flames,675,2023-01-11T01:00:00+00:00,2023-01-10
+757,Arizona Coyotes,1460,San Jose Sharks,697,2023-01-11T02:00:00+00:00,2023-01-10
+758,Colorado Avalanche,679,Florida Panthers,684,2023-01-11T02:30:00+00:00,2023-01-10
+759,Philadelphia Flyers,695,Washington Capitals,703,2023-01-12T00:00:00+00:00,2023-01-11
+760,Toronto Maple Leafs,700,Nashville Predators,689,2023-01-12T00:30:00+00:00,2023-01-11
+761,Anaheim Ducks,670,Edmonton Oilers,683,2023-01-12T03:00:00+00:00,2023-01-11
+762,Los Angeles Kings,685,San Jose Sharks,697,2023-01-12T03:00:00+00:00,2023-01-11
+763,Boston Bruins,673,Seattle Kraken,1436,2023-01-13T00:00:00+00:00,2023-01-12
+764,Buffalo Sabres,674,Winnipeg Jets,704,2023-01-13T00:00:00+00:00,2023-01-12
+765,Columbus Blue Jackets,680,Carolina Hurricanes,676,2023-01-13T00:00:00+00:00,2023-01-12
+766,Detroit Red Wings,682,Toronto Maple Leafs,700,2023-01-13T00:00:00+00:00,2023-01-12
+767,Montreal Canadiens,688,Nashville Predators,689,2023-01-13T00:00:00+00:00,2023-01-12
+768,New York Rangers,692,Dallas Stars,681,2023-01-13T00:00:00+00:00,2023-01-12
+769,Tampa Bay Lightning,699,Vancouver Canucks,701,2023-01-13T00:00:00+00:00,2023-01-12
+770,New York Islanders,691,Minnesota Wild,687,2023-01-13T00:30:00+00:00,2023-01-12
+771,St. Louis Blues,698,Calgary Flames,675,2023-01-13T01:00:00+00:00,2023-01-12
+772,Chicago Blackhawks,678,Colorado Avalanche,679,2023-01-13T01:30:00+00:00,2023-01-12
+773,Arizona Coyotes,1460,Ottawa Senators,693,2023-01-13T02:00:00+00:00,2023-01-12
+774,Vegas Golden Knights,702,Florida Panthers,684,2023-01-13T03:00:00+00:00,2023-01-12
+775,Pittsburgh Penguins,696,Winnipeg Jets,704,2023-01-14T00:00:00+00:00,2023-01-13
+776,Anaheim Ducks,670,New Jersey Devils,690,2023-01-14T03:00:00+00:00,2023-01-13
+777,San Jose Sharks,697,Edmonton Oilers,683,2023-01-14T03:30:00+00:00,2023-01-13
+778,Dallas Stars,681,Calgary Flames,675,2023-01-14T19:00:00+00:00,2023-01-14
+779,Florida Panthers,684,Vancouver Canucks,701,2023-01-15T00:00:00+00:00,2023-01-14
+780,New York Islanders,691,Montreal Canadiens,688,2023-01-15T00:00:00+00:00,2023-01-14
+781,Washington Capitals,703,Philadelphia Flyers,695,2023-01-15T00:00:00+00:00,2023-01-14
+782,Detroit Red Wings,682,Columbus Blue Jackets,680,2023-01-15T00:00:00+00:00,2023-01-14
+783,Colorado Avalanche,679,Ottawa Senators,693,2023-01-15T00:00:00+00:00,2023-01-14
+784,Carolina Hurricanes,676,Pittsburgh Penguins,696,2023-01-15T00:00:00+00:00,2023-01-14
+785,Boston Bruins,673,Toronto Maple Leafs,700,2023-01-15T00:00:00+00:00,2023-01-14
+786,Chicago Blackhawks,678,Seattle Kraken,1436,2023-01-15T01:00:00+00:00,2023-01-14
+787,Minnesota Wild,687,Arizona Coyotes,1460,2023-01-15T01:00:00+00:00,2023-01-14
+788,Nashville Predators,689,Buffalo Sabres,674,2023-01-15T01:00:00+00:00,2023-01-14
+789,St. Louis Blues,698,Tampa Bay Lightning,699,2023-01-15T01:00:00+00:00,2023-01-14
+790,Vegas Golden Knights,702,Edmonton Oilers,683,2023-01-15T03:00:00+00:00,2023-01-14
+791,Los Angeles Kings,685,New Jersey Devils,690,2023-01-15T03:30:00+00:00,2023-01-14
+792,New York Rangers,692,Montreal Canadiens,688,2023-01-15T22:00:00+00:00,2023-01-15
+793,Carolina Hurricanes,676,Vancouver Canucks,701,2023-01-15T22:00:00+00:00,2023-01-15
+794,Winnipeg Jets,704,Arizona Coyotes,1460,2023-01-16T00:00:00+00:00,2023-01-15
+795,Boston Bruins,673,Philadelphia Flyers,695,2023-01-16T18:00:00+00:00,2023-01-16
+796,Buffalo Sabres,674,Florida Panthers,684,2023-01-16T18:00:00+00:00,2023-01-16
+797,Colorado Avalanche,679,Detroit Red Wings,682,2023-01-16T20:00:00+00:00,2023-01-16
+798,San Jose Sharks,697,New Jersey Devils,690,2023-01-16T21:00:00+00:00,2023-01-16
+799,Seattle Kraken,1436,Tampa Bay Lightning,699,2023-01-16T21:00:00+00:00,2023-01-16
+800,Vegas Golden Knights,702,Dallas Stars,681,2023-01-16T23:00:00+00:00,2023-01-16
+801,Columbus Blue Jackets,680,New York Rangers,692,2023-01-17T00:00:00+00:00,2023-01-16
+802,Pittsburgh Penguins,696,Anaheim Ducks,670,2023-01-17T00:00:00+00:00,2023-01-16
+803,New York Islanders,691,Washington Capitals,703,2023-01-17T00:30:00+00:00,2023-01-16
+804,Nashville Predators,689,Calgary Flames,675,2023-01-17T01:00:00+00:00,2023-01-16
+805,St. Louis Blues,698,Ottawa Senators,693,2023-01-17T01:00:00+00:00,2023-01-16
+806,Montreal Canadiens,688,Winnipeg Jets,704,2023-01-18T00:00:00+00:00,2023-01-17
+807,Philadelphia Flyers,695,Anaheim Ducks,670,2023-01-18T00:00:00+00:00,2023-01-17
+808,Toronto Maple Leafs,700,Florida Panthers,684,2023-01-18T00:00:00+00:00,2023-01-17
+809,Washington Capitals,703,Minnesota Wild,687,2023-01-18T00:00:00+00:00,2023-01-17
+810,Nashville Predators,689,Columbus Blue Jackets,680,2023-01-18T01:00:00+00:00,2023-01-17
+811,Chicago Blackhawks,678,Buffalo Sabres,674,2023-01-18T01:30:00+00:00,2023-01-17
+812,Arizona Coyotes,1460,Detroit Red Wings,682,2023-01-18T02:00:00+00:00,2023-01-17
+813,Edmonton Oilers,683,Seattle Kraken,1436,2023-01-18T02:00:00+00:00,2023-01-17
+814,Ottawa Senators,693,Pittsburgh Penguins,696,2023-01-19T00:00:00+00:00,2023-01-18
+815,New York Islanders,691,Boston Bruins,673,2023-01-19T00:30:00+00:00,2023-01-18
+816,Calgary Flames,675,Colorado Avalanche,679,2023-01-19T02:30:00+00:00,2023-01-18
+817,Vancouver Canucks,701,Tampa Bay Lightning,699,2023-01-19T03:00:00+00:00,2023-01-18
+818,San Jose Sharks,697,Dallas Stars,681,2023-01-19T03:00:00+00:00,2023-01-18
+819,Carolina Hurricanes,676,Minnesota Wild,687,2023-01-20T00:00:00+00:00,2023-01-19
+820,Columbus Blue Jackets,680,Anaheim Ducks,670,2023-01-20T00:00:00+00:00,2023-01-19
+821,Montreal Canadiens,688,Florida Panthers,684,2023-01-20T00:00:00+00:00,2023-01-19
+822,New York Rangers,692,Boston Bruins,673,2023-01-20T00:00:00+00:00,2023-01-19
+823,Philadelphia Flyers,695,Chicago Blackhawks,678,2023-01-20T00:00:00+00:00,2023-01-19
+824,Toronto Maple Leafs,700,Winnipeg Jets,704,2023-01-20T00:00:00+00:00,2023-01-19
+825,Buffalo Sabres,674,New York Islanders,691,2023-01-20T00:30:00+00:00,2023-01-19
+826,St. Louis Blues,698,Nashville Predators,689,2023-01-20T01:00:00+00:00,2023-01-19
+827,Edmonton Oilers,683,Tampa Bay Lightning,699,2023-01-20T02:00:00+00:00,2023-01-19
+828,Arizona Coyotes,1460,Washington Capitals,703,2023-01-20T02:00:00+00:00,2023-01-19
+829,Seattle Kraken,1436,New Jersey Devils,690,2023-01-20T03:00:00+00:00,2023-01-19
+830,Vegas Golden Knights,702,Detroit Red Wings,682,2023-01-20T03:00:00+00:00,2023-01-19
+831,Los Angeles Kings,685,Dallas Stars,681,2023-01-20T03:30:00+00:00,2023-01-19
+832,Pittsburgh Penguins,696,Ottawa Senators,693,2023-01-21T00:00:00+00:00,2023-01-20
+833,Vancouver Canucks,701,Colorado Avalanche,679,2023-01-21T03:00:00+00:00,2023-01-20
+834,Buffalo Sabres,674,Anaheim Ducks,670,2023-01-21T17:30:00+00:00,2023-01-21
+835,Calgary Flames,675,Tampa Bay Lightning,699,2023-01-21T20:00:00+00:00,2023-01-21
+836,Florida Panthers,684,Minnesota Wild,687,2023-01-21T23:00:00+00:00,2023-01-21
+837,Ottawa Senators,693,Winnipeg Jets,704,2023-01-22T00:00:00+00:00,2023-01-21
+838,Detroit Red Wings,682,Philadelphia Flyers,695,2023-01-22T00:00:00+00:00,2023-01-21
+839,Montreal Canadiens,688,Toronto Maple Leafs,700,2023-01-22T00:00:00+00:00,2023-01-21
+840,Columbus Blue Jackets,680,San Jose Sharks,697,2023-01-22T00:00:00+00:00,2023-01-21
+841,New York Islanders,691,Carolina Hurricanes,676,2023-01-22T00:30:00+00:00,2023-01-21
+842,Dallas Stars,681,Arizona Coyotes,1460,2023-01-22T01:00:00+00:00,2023-01-21
+843,Nashville Predators,689,Los Angeles Kings,685,2023-01-22T01:00:00+00:00,2023-01-21
+844,St. Louis Blues,698,Chicago Blackhawks,678,2023-01-22T01:00:00+00:00,2023-01-21
+845,Seattle Kraken,1436,Colorado Avalanche,679,2023-01-22T03:00:00+00:00,2023-01-21
+846,Vancouver Canucks,701,Edmonton Oilers,683,2023-01-22T03:00:00+00:00,2023-01-21
+847,Vegas Golden Knights,702,Washington Capitals,703,2023-01-22T03:00:00+00:00,2023-01-21
+848,New Jersey Devils,690,Pittsburgh Penguins,696,2023-01-22T19:00:00+00:00,2023-01-22
+849,Philadelphia Flyers,695,Winnipeg Jets,704,2023-01-23T00:00:00+00:00,2023-01-22
+850,Chicago Blackhawks,678,Los Angeles Kings,685,2023-01-23T00:00:00+00:00,2023-01-22
+851,Boston Bruins,673,San Jose Sharks,697,2023-01-23T00:00:00+00:00,2023-01-22
+852,Arizona Coyotes,1460,Vegas Golden Knights,702,2023-01-23T01:00:00+00:00,2023-01-22
+853,New York Rangers,692,Florida Panthers,684,2023-01-24T00:00:00+00:00,2023-01-23
+854,Toronto Maple Leafs,700,New York Islanders,691,2023-01-24T00:00:00+00:00,2023-01-23
+855,Dallas Stars,681,Buffalo Sabres,674,2023-01-24T01:30:00+00:00,2023-01-23
+856,Calgary Flames,675,Columbus Blue Jackets,680,2023-01-24T02:30:00+00:00,2023-01-23
+857,Montreal Canadiens,688,Boston Bruins,673,2023-01-25T00:00:00+00:00,2023-01-24
+858,Philadelphia Flyers,695,Los Angeles Kings,685,2023-01-25T00:00:00+00:00,2023-01-24
+859,Pittsburgh Penguins,696,Florida Panthers,684,2023-01-25T00:00:00+00:00,2023-01-24
+860,Tampa Bay Lightning,699,Minnesota Wild,687,2023-01-25T00:00:00+00:00,2023-01-24
+861,Detroit Red Wings,682,San Jose Sharks,697,2023-01-25T00:00:00+00:00,2023-01-24
+862,New Jersey Devils,690,Vegas Golden Knights,702,2023-01-25T00:30:00+00:00,2023-01-24
+863,Nashville Predators,689,Winnipeg Jets,704,2023-01-25T01:00:00+00:00,2023-01-24
+864,St. Louis Blues,698,Buffalo Sabres,674,2023-01-25T01:00:00+00:00,2023-01-24
+865,Arizona Coyotes,1460,Anaheim Ducks,670,2023-01-25T02:00:00+00:00,2023-01-24
+866,Colorado Avalanche,679,Washington Capitals,703,2023-01-25T02:00:00+00:00,2023-01-24
+867,Vancouver Canucks,701,Chicago Blackhawks,678,2023-01-25T03:00:00+00:00,2023-01-24
+868,Ottawa Senators,693,New York Islanders,691,2023-01-26T00:00:00+00:00,2023-01-25
+869,Toronto Maple Leafs,700,New York Rangers,692,2023-01-26T00:00:00+00:00,2023-01-25
+870,Dallas Stars,681,Carolina Hurricanes,676,2023-01-26T01:30:00+00:00,2023-01-25
+871,Edmonton Oilers,683,Columbus Blue Jackets,680,2023-01-26T02:30:00+00:00,2023-01-25
+872,Seattle Kraken,1436,Vancouver Canucks,701,2023-01-26T03:00:00+00:00,2023-01-25
+873,Washington Capitals,703,Pittsburgh Penguins,696,2023-01-27T00:00:00+00:00,2023-01-26
+874,Tampa Bay Lightning,699,Boston Bruins,673,2023-01-27T00:00:00+00:00,2023-01-26
+875,Montreal Canadiens,688,Detroit Red Wings,682,2023-01-27T00:00:00+00:00,2023-01-26
+876,Nashville Predators,689,New Jersey Devils,690,2023-01-27T01:00:00+00:00,2023-01-26
+877,Winnipeg Jets,704,Buffalo Sabres,674,2023-01-27T01:00:00+00:00,2023-01-26
+878,Minnesota Wild,687,Philadelphia Flyers,695,2023-01-27T01:00:00+00:00,2023-01-26
+879,Arizona Coyotes,1460,St. Louis Blues,698,2023-01-27T02:00:00+00:00,2023-01-26
+880,Calgary Flames,675,Chicago Blackhawks,678,2023-01-27T02:00:00+00:00,2023-01-26
+881,Colorado Avalanche,679,Anaheim Ducks,670,2023-01-27T02:00:00+00:00,2023-01-26
+882,Toronto Maple Leafs,700,Ottawa Senators,693,2023-01-28T00:00:00+00:00,2023-01-27
+883,New York Rangers,692,Vegas Golden Knights,702,2023-01-28T00:00:00+00:00,2023-01-27
+884,New York Islanders,691,Detroit Red Wings,682,2023-01-28T00:00:00+00:00,2023-01-27
+885,Florida Panthers,684,Los Angeles Kings,685,2023-01-28T00:00:00+00:00,2023-01-27
+886,Carolina Hurricanes,676,San Jose Sharks,697,2023-01-28T00:00:00+00:00,2023-01-27
+887,Dallas Stars,681,New Jersey Devils,690,2023-01-28T01:30:00+00:00,2023-01-27
+888,Seattle Kraken,1436,Calgary Flames,675,2023-01-28T03:00:00+00:00,2023-01-27
+889,Vancouver Canucks,701,Columbus Blue Jackets,680,2023-01-28T03:00:00+00:00,2023-01-27
+890,Colorado Avalanche,679,St. Louis Blues,698,2023-01-28T20:00:00+00:00,2023-01-28
+891,Florida Panthers,684,Boston Bruins,673,2023-01-28T23:00:00+00:00,2023-01-28
+892,Ottawa Senators,693,Montreal Canadiens,688,2023-01-29T00:00:00+00:00,2023-01-28
+893,Pittsburgh Penguins,696,San Jose Sharks,697,2023-01-29T00:00:00+00:00,2023-01-28
+894,Tampa Bay Lightning,699,Los Angeles Kings,685,2023-01-29T00:00:00+00:00,2023-01-28
+895,Winnipeg Jets,704,Philadelphia Flyers,695,2023-01-29T00:00:00+00:00,2023-01-28
+896,New York Islanders,691,Vegas Golden Knights,702,2023-01-29T00:30:00+00:00,2023-01-28
+897,Minnesota Wild,687,Buffalo Sabres,674,2023-01-29T02:00:00+00:00,2023-01-28
+898,Edmonton Oilers,683,Chicago Blackhawks,678,2023-01-29T03:00:00+00:00,2023-01-28
+899,Seattle Kraken,1436,Columbus Blue Jackets,680,2023-01-29T03:00:00+00:00,2023-01-28
+900,Anaheim Ducks,670,Arizona Coyotes,1460,2023-01-29T03:30:00+00:00,2023-01-28
+901,Carolina Hurricanes,676,Boston Bruins,673,2023-01-29T22:00:00+00:00,2023-01-29
+902,Toronto Maple Leafs,700,Washington Capitals,703,2023-01-29T22:00:00+00:00,2023-01-29
+903,Winnipeg Jets,704,St. Louis Blues,698,2023-01-31T01:00:00+00:00,2023-01-30
+904,Carolina Hurricanes,676,Los Angeles Kings,685,2023-02-01T00:00:00+00:00,2023-01-31
+905,Columbus Blue Jackets,680,Washington Capitals,703,2023-02-01T00:00:00+00:00,2023-01-31
+906,Montreal Canadiens,688,Ottawa Senators,693,2023-02-01T00:00:00+00:00,2023-01-31
+907,Buffalo Sabres,674,Carolina Hurricanes,676,2023-02-02T00:30:00+00:00,2023-02-01
+908,Toronto Maple Leafs,700,Boston Bruins,673,2023-02-02T00:30:00+00:00,2023-02-01
+909,Pacific Division,694,Central Division,677,2023-02-04T20:00:00+00:00,2023-02-04
+910,Atlantic Division,672,Metropolitan Division,686,2023-02-04T21:00:00+00:00,2023-02-04
+911,Florida Panthers,684,Tampa Bay Lightning,699,2023-02-07T00:00:00+00:00,2023-02-06
+912,Philadelphia Flyers,695,New York Islanders,691,2023-02-07T00:00:00+00:00,2023-02-06
+913,New Jersey Devils,690,Vancouver Canucks,701,2023-02-07T00:30:00+00:00,2023-02-06
+914,New York Rangers,692,Calgary Flames,675,2023-02-07T00:30:00+00:00,2023-02-06
+915,Dallas Stars,681,Anaheim Ducks,670,2023-02-07T01:30:00+00:00,2023-02-06
+916,Arizona Coyotes,1460,Minnesota Wild,687,2023-02-07T02:00:00+00:00,2023-02-06
+917,Pittsburgh Penguins,696,Colorado Avalanche,679,2023-02-08T00:00:00+00:00,2023-02-07
+918,Tampa Bay Lightning,699,San Jose Sharks,697,2023-02-08T00:00:00+00:00,2023-02-07
+919,New York Islanders,691,Seattle Kraken,1436,2023-02-08T00:30:00+00:00,2023-02-07
+920,Detroit Red Wings,682,Edmonton Oilers,683,2023-02-08T00:30:00+00:00,2023-02-07
+921,Nashville Predators,689,Vegas Golden Knights,702,2023-02-08T01:00:00+00:00,2023-02-07
+922,Chicago Blackhawks,678,Anaheim Ducks,670,2023-02-08T01:30:00+00:00,2023-02-07
+923,New York Rangers,692,Vancouver Canucks,701,2023-02-09T01:00:00+00:00,2023-02-08
+924,Dallas Stars,681,Minnesota Wild,687,2023-02-09T01:30:00+00:00,2023-02-08
+925,Florida Panthers,684,San Jose Sharks,697,2023-02-10T00:00:00+00:00,2023-02-09
+926,New Jersey Devils,690,Seattle Kraken,1436,2023-02-10T00:00:00+00:00,2023-02-09
+927,Philadelphia Flyers,695,Edmonton Oilers,683,2023-02-10T00:00:00+00:00,2023-02-09
+928,Tampa Bay Lightning,699,Colorado Avalanche,679,2023-02-10T00:00:00+00:00,2023-02-09
+929,Detroit Red Wings,682,Calgary Flames,675,2023-02-10T00:00:00+00:00,2023-02-09
+930,New York Islanders,691,Vancouver Canucks,701,2023-02-10T00:30:00+00:00,2023-02-09
+931,Minnesota Wild,687,Vegas Golden Knights,702,2023-02-10T01:00:00+00:00,2023-02-09
+932,Columbus Blue Jackets,680,Toronto Maple Leafs,700,2023-02-11T00:00:00+00:00,2023-02-10
+933,New York Rangers,692,Seattle Kraken,1436,2023-02-11T00:00:00+00:00,2023-02-10
+934,Chicago Blackhawks,678,Arizona Coyotes,1460,2023-02-11T01:30:00+00:00,2023-02-10
+935,Anaheim Ducks,670,Pittsburgh Penguins,696,2023-02-11T03:00:00+00:00,2023-02-10
+936,Detroit Red Wings,682,Vancouver Canucks,701,2023-02-11T17:00:00+00:00,2023-02-11
+937,Buffalo Sabres,674,Calgary Flames,675,2023-02-11T17:30:00+00:00,2023-02-11
+938,Montreal Canadiens,688,New York Islanders,691,2023-02-11T17:30:00+00:00,2023-02-11
+939,Ottawa Senators,693,Edmonton Oilers,683,2023-02-11T17:30:00+00:00,2023-02-11
+940,Philadelphia Flyers,695,Nashville Predators,689,2023-02-11T17:30:00+00:00,2023-02-11
+941,Dallas Stars,681,Tampa Bay Lightning,699,2023-02-11T18:00:00+00:00,2023-02-11
+942,Boston Bruins,673,Washington Capitals,703,2023-02-11T20:30:00+00:00,2023-02-11
+943,Florida Panthers,684,Colorado Avalanche,679,2023-02-11T23:00:00+00:00,2023-02-11
+944,Carolina Hurricanes,676,New York Rangers,692,2023-02-12T00:00:00+00:00,2023-02-11
+945,Toronto Maple Leafs,700,Columbus Blue Jackets,680,2023-02-12T00:00:00+00:00,2023-02-11
+946,Minnesota Wild,687,New Jersey Devils,690,2023-02-12T01:00:00+00:00,2023-02-11
+947,St. Louis Blues,698,Arizona Coyotes,1460,2023-02-12T01:00:00+00:00,2023-02-11
+948,Winnipeg Jets,704,Chicago Blackhawks,678,2023-02-12T03:00:00+00:00,2023-02-11
+949,Los Angeles Kings,685,Pittsburgh Penguins,696,2023-02-12T03:30:00+00:00,2023-02-11
+950,Montreal Canadiens,688,Edmonton Oilers,683,2023-02-12T17:30:00+00:00,2023-02-12
+951,Philadelphia Flyers,695,Seattle Kraken,1436,2023-02-12T18:00:00+00:00,2023-02-12
+952,Washington Capitals,703,San Jose Sharks,697,2023-02-12T18:30:00+00:00,2023-02-12
+953,Vegas Golden Knights,702,Anaheim Ducks,670,2023-02-12T20:00:00+00:00,2023-02-12
+954,Ottawa Senators,693,Calgary Flames,675,2023-02-14T00:30:00+00:00,2023-02-13
+955,Minnesota Wild,687,Florida Panthers,684,2023-02-14T01:00:00+00:00,2023-02-13
+956,Nashville Predators,689,Arizona Coyotes,1460,2023-02-14T01:00:00+00:00,2023-02-13
+957,Vancouver Canucks,701,Detroit Red Wings,682,2023-02-14T03:00:00+00:00,2023-02-13
+958,Los Angeles Kings,685,Buffalo Sabres,674,2023-02-14T03:30:00+00:00,2023-02-13
+959,Montreal Canadiens,688,Chicago Blackhawks,678,2023-02-15T00:00:00+00:00,2023-02-14
+960,Washington Capitals,703,Carolina Hurricanes,676,2023-02-15T00:00:00+00:00,2023-02-14
+961,Columbus Blue Jackets,680,New Jersey Devils,690,2023-02-15T00:30:00+00:00,2023-02-14
+962,New York Islanders,691,Ottawa Senators,693,2023-02-15T00:30:00+00:00,2023-02-14
+963,Winnipeg Jets,704,Seattle Kraken,1436,2023-02-15T01:00:00+00:00,2023-02-14
+964,St. Louis Blues,698,Florida Panthers,684,2023-02-15T01:00:00+00:00,2023-02-14
+965,Dallas Stars,681,Boston Bruins,673,2023-02-15T01:30:00+00:00,2023-02-14
+966,Colorado Avalanche,679,Tampa Bay Lightning,699,2023-02-15T02:00:00+00:00,2023-02-14
+967,San Jose Sharks,697,Pittsburgh Penguins,696,2023-02-15T03:30:00+00:00,2023-02-14
+968,Toronto Maple Leafs,700,Chicago Blackhawks,678,2023-02-16T00:00:00+00:00,2023-02-15
+969,Arizona Coyotes,1460,Tampa Bay Lightning,699,2023-02-16T02:00:00+00:00,2023-02-15
+970,Edmonton Oilers,683,Detroit Red Wings,682,2023-02-16T02:30:00+00:00,2023-02-15
+971,Minnesota Wild,687,Colorado Avalanche,679,2023-02-16T02:30:00+00:00,2023-02-15
+972,Anaheim Ducks,670,Buffalo Sabres,674,2023-02-16T03:00:00+00:00,2023-02-15
+973,Vancouver Canucks,701,New York Rangers,692,2023-02-16T03:00:00+00:00,2023-02-15
+974,Washington Capitals,703,Florida Panthers,684,2023-02-17T00:00:00+00:00,2023-02-16
+975,Carolina Hurricanes,676,Montreal Canadiens,688,2023-02-17T00:00:00+00:00,2023-02-16
+976,Columbus Blue Jackets,680,Winnipeg Jets,704,2023-02-17T00:00:00+00:00,2023-02-16
+977,Nashville Predators,689,Boston Bruins,673,2023-02-17T01:00:00+00:00,2023-02-16
+978,St. Louis Blues,698,New Jersey Devils,690,2023-02-17T02:00:00+00:00,2023-02-16
+979,Calgary Flames,675,Detroit Red Wings,682,2023-02-17T02:00:00+00:00,2023-02-16
+980,Seattle Kraken,1436,Philadelphia Flyers,695,2023-02-17T03:00:00+00:00,2023-02-16
+981,Vegas Golden Knights,702,San Jose Sharks,697,2023-02-17T03:00:00+00:00,2023-02-16
+982,New York Islanders,691,Pittsburgh Penguins,696,2023-02-18T00:00:00+00:00,2023-02-17
+983,Ottawa Senators,693,Chicago Blackhawks,678,2023-02-18T00:00:00+00:00,2023-02-17
+984,Minnesota Wild,687,Dallas Stars,681,2023-02-18T01:00:00+00:00,2023-02-17
+985,Edmonton Oilers,683,New York Rangers,692,2023-02-18T02:00:00+00:00,2023-02-17
+986,Anaheim Ducks,670,Los Angeles Kings,685,2023-02-18T02:00:00+00:00,2023-02-17
+987,St. Louis Blues,698,Colorado Avalanche,679,2023-02-18T19:00:00+00:00,2023-02-18
+988,Nashville Predators,689,Florida Panthers,684,2023-02-18T19:00:00+00:00,2023-02-18
+989,Boston Bruins,673,New York Islanders,691,2023-02-18T22:00:00+00:00,2023-02-18
+990,Pittsburgh Penguins,696,New Jersey Devils,690,2023-02-18T22:30:00+00:00,2023-02-18
+991,Dallas Stars,681,Columbus Blue Jackets,680,2023-02-18T23:00:00+00:00,2023-02-18
+992,Toronto Maple Leafs,700,Montreal Canadiens,688,2023-02-19T00:00:00+00:00,2023-02-18
+993,Carolina Hurricanes,676,Washington Capitals,703,2023-02-19T01:00:00+00:00,2023-02-18
+994,Calgary Flames,675,New York Rangers,692,2023-02-19T03:00:00+00:00,2023-02-18
+995,Vancouver Canucks,701,Philadelphia Flyers,695,2023-02-19T03:00:00+00:00,2023-02-18
+996,Vegas Golden Knights,702,Tampa Bay Lightning,699,2023-02-19T03:30:00+00:00,2023-02-18
+997,Los Angeles Kings,685,Arizona Coyotes,1460,2023-02-19T03:30:00+00:00,2023-02-18
+998,Seattle Kraken,1436,Detroit Red Wings,682,2023-02-19T03:30:00+00:00,2023-02-18
+999,San Jose Sharks,697,Buffalo Sabres,674,2023-02-19T03:30:00+00:00,2023-02-18
+1000,Minnesota Wild,687,Nashville Predators,689,2023-02-19T19:00:00+00:00,2023-02-19
+1001,Ottawa Senators,693,St. Louis Blues,698,2023-02-19T19:00:00+00:00,2023-02-19
+1002,Colorado Avalanche,679,Edmonton Oilers,683,2023-02-19T20:00:00+00:00,2023-02-19
+1003,Chicago Blackhawks,678,Toronto Maple Leafs,700,2023-02-19T23:00:00+00:00,2023-02-19
+1004,New Jersey Devils,690,Winnipeg Jets,704,2023-02-20T00:00:00+00:00,2023-02-19
+1005,Arizona Coyotes,1460,Columbus Blue Jackets,680,2023-02-20T01:30:00+00:00,2023-02-19
+1006,Florida Panthers,684,Anaheim Ducks,670,2023-02-20T18:00:00+00:00,2023-02-20
+1007,Boston Bruins,673,Ottawa Senators,693,2023-02-20T18:00:00+00:00,2023-02-20
+1008,Calgary Flames,675,Philadelphia Flyers,695,2023-02-20T21:00:00+00:00,2023-02-20
+1009,San Jose Sharks,697,Seattle Kraken,1436,2023-02-20T21:00:00+00:00,2023-02-20
+1010,New York Rangers,692,Winnipeg Jets,704,2023-02-21T00:00:00+00:00,2023-02-20
+1011,Pittsburgh Penguins,696,New York Islanders,691,2023-02-21T00:00:00+00:00,2023-02-20
+1012,Carolina Hurricanes,676,St. Louis Blues,698,2023-02-22T00:00:00+00:00,2023-02-21
+1013,New Jersey Devils,690,Montreal Canadiens,688,2023-02-22T00:00:00+00:00,2023-02-21
+1014,Tampa Bay Lightning,699,Anaheim Ducks,670,2023-02-22T00:00:00+00:00,2023-02-21
+1015,Washington Capitals,703,Detroit Red Wings,682,2023-02-22T00:00:00+00:00,2023-02-21
+1016,Buffalo Sabres,674,Toronto Maple Leafs,700,2023-02-22T00:30:00+00:00,2023-02-21
+1017,Nashville Predators,689,Vancouver Canucks,701,2023-02-22T01:00:00+00:00,2023-02-21
+1018,Minnesota Wild,687,Los Angeles Kings,685,2023-02-22T01:00:00+00:00,2023-02-21
+1019,Chicago Blackhawks,678,Vegas Golden Knights,702,2023-02-22T01:30:00+00:00,2023-02-21
+1020,Edmonton Oilers,683,Philadelphia Flyers,695,2023-02-22T02:00:00+00:00,2023-02-21
+1021,New York Islanders,691,Winnipeg Jets,704,2023-02-23T00:00:00+00:00,2023-02-22
+1022,Dallas Stars,681,Chicago Blackhawks,678,2023-02-23T02:30:00+00:00,2023-02-22
+1023,Arizona Coyotes,1460,Calgary Flames,675,2023-02-23T02:30:00+00:00,2023-02-22
+1024,Columbus Blue Jackets,680,Minnesota Wild,687,2023-02-24T00:00:00+00:00,2023-02-23
+1025,New Jersey Devils,690,Los Angeles Kings,685,2023-02-24T00:00:00+00:00,2023-02-23
+1026,Pittsburgh Penguins,696,Edmonton Oilers,683,2023-02-24T00:00:00+00:00,2023-02-23
+1027,Tampa Bay Lightning,699,Buffalo Sabres,674,2023-02-24T00:00:00+00:00,2023-02-23
+1028,Washington Capitals,703,Anaheim Ducks,670,2023-02-24T00:00:00+00:00,2023-02-23
+1029,Detroit Red Wings,682,New York Rangers,692,2023-02-24T00:00:00+00:00,2023-02-23
+1030,St. Louis Blues,698,Vancouver Canucks,701,2023-02-24T01:00:00+00:00,2023-02-23
+1031,Vegas Golden Knights,702,Calgary Flames,675,2023-02-24T02:00:00+00:00,2023-02-23
+1032,Seattle Kraken,1436,Boston Bruins,673,2023-02-24T03:00:00+00:00,2023-02-23
+1033,San Jose Sharks,697,Nashville Predators,689,2023-02-24T03:30:00+00:00,2023-02-23
+1034,Carolina Hurricanes,676,Ottawa Senators,693,2023-02-25T00:00:00+00:00,2023-02-24
+1035,Florida Panthers,684,Buffalo Sabres,674,2023-02-25T00:00:00+00:00,2023-02-24
+1036,Philadelphia Flyers,695,Montreal Canadiens,688,2023-02-25T00:00:00+00:00,2023-02-24
+1037,Toronto Maple Leafs,700,Minnesota Wild,687,2023-02-25T00:00:00+00:00,2023-02-24
+1038,New York Islanders,691,Los Angeles Kings,685,2023-02-25T00:30:00+00:00,2023-02-24
+1039,Winnipeg Jets,704,Colorado Avalanche,679,2023-02-25T01:00:00+00:00,2023-02-24
+1040,Columbus Blue Jackets,680,Edmonton Oilers,683,2023-02-25T17:30:00+00:00,2023-02-25
+1041,Washington Capitals,703,New York Rangers,692,2023-02-25T18:00:00+00:00,2023-02-25
+1042,St. Louis Blues,698,Pittsburgh Penguins,696,2023-02-25T20:30:00+00:00,2023-02-25
+1043,Carolina Hurricanes,676,Anaheim Ducks,670,2023-02-26T00:00:00+00:00,2023-02-25
+1044,Montreal Canadiens,688,Ottawa Senators,693,2023-02-26T00:00:00+00:00,2023-02-25
+1045,New Jersey Devils,690,Philadelphia Flyers,695,2023-02-26T00:00:00+00:00,2023-02-25
+1046,Vancouver Canucks,701,Boston Bruins,673,2023-02-26T00:00:00+00:00,2023-02-25
+1047,Detroit Red Wings,682,Tampa Bay Lightning,699,2023-02-26T01:00:00+00:00,2023-02-25
+1048,Colorado Avalanche,679,Calgary Flames,675,2023-02-26T03:00:00+00:00,2023-02-25
+1049,Vegas Golden Knights,702,Dallas Stars,681,2023-02-26T03:00:00+00:00,2023-02-25
+1050,San Jose Sharks,697,Chicago Blackhawks,678,2023-02-26T03:00:00+00:00,2023-02-25
+1051,Buffalo Sabres,674,Washington Capitals,703,2023-02-26T18:00:00+00:00,2023-02-26
+1052,Minnesota Wild,687,Columbus Blue Jackets,680,2023-02-26T19:00:00+00:00,2023-02-26
+1053,Winnipeg Jets,704,New York Islanders,691,2023-02-26T20:30:00+00:00,2023-02-26
+1054,New York Rangers,692,Los Angeles Kings,685,2023-02-26T22:00:00+00:00,2023-02-26
+1055,Pittsburgh Penguins,696,Tampa Bay Lightning,699,2023-02-26T23:00:00+00:00,2023-02-26
+1056,Arizona Coyotes,1460,Nashville Predators,689,2023-02-27T00:00:00+00:00,2023-02-26
+1057,Seattle Kraken,1436,Toronto Maple Leafs,700,2023-02-27T00:00:00+00:00,2023-02-26
+1058,Ottawa Senators,693,Detroit Red Wings,682,2023-02-28T00:00:00+00:00,2023-02-27
+1059,Dallas Stars,681,Vancouver Canucks,701,2023-02-28T01:30:00+00:00,2023-02-27
+1060,Edmonton Oilers,683,Boston Bruins,673,2023-02-28T01:30:00+00:00,2023-02-27
+1061,Colorado Avalanche,679,Vegas Golden Knights,702,2023-02-28T02:00:00+00:00,2023-02-27
+1062,Anaheim Ducks,670,Chicago Blackhawks,678,2023-02-28T03:00:00+00:00,2023-02-27
+1063,Tampa Bay Lightning,699,Florida Panthers,684,2023-03-01T00:00:00+00:00,2023-02-28
+1064,Ottawa Senators,693,Detroit Red Wings,682,2023-03-01T00:00:00+00:00,2023-02-28
+1065,Buffalo Sabres,674,Columbus Blue Jackets,680,2023-03-01T00:30:00+00:00,2023-02-28
+1066,Minnesota Wild,687,New York Islanders,691,2023-03-01T01:00:00+00:00,2023-02-28
+1067,Nashville Predators,689,Pittsburgh Penguins,696,2023-03-01T01:00:00+00:00,2023-02-28
+1068,St. Louis Blues,698,Seattle Kraken,1436,2023-03-01T01:00:00+00:00,2023-02-28
+1069,Winnipeg Jets,704,Los Angeles Kings,685,2023-03-01T01:00:00+00:00,2023-02-28
+1070,Arizona Coyotes,1460,Chicago Blackhawks,678,2023-03-01T02:00:00+00:00,2023-02-28
+1071,Calgary Flames,675,Boston Bruins,673,2023-03-01T02:00:00+00:00,2023-02-28
+1072,San Jose Sharks,697,Montreal Canadiens,688,2023-03-01T03:30:00+00:00,2023-02-28
+1073,Philadelphia Flyers,695,New York Rangers,692,2023-03-02T00:30:00+00:00,2023-03-01
+1074,Edmonton Oilers,683,Toronto Maple Leafs,700,2023-03-02T01:00:00+00:00,2023-03-01
+1075,Dallas Stars,681,Arizona Coyotes,1460,2023-03-02T01:30:00+00:00,2023-03-01
+1076,Colorado Avalanche,679,New Jersey Devils,690,2023-03-02T02:00:00+00:00,2023-03-01
+1077,Anaheim Ducks,670,Washington Capitals,703,2023-03-02T03:00:00+00:00,2023-03-01
+1078,Vegas Golden Knights,702,Carolina Hurricanes,676,2023-03-02T03:00:00+00:00,2023-03-01
+1079,Boston Bruins,673,Buffalo Sabres,674,2023-03-03T00:00:00+00:00,2023-03-02
+1080,Florida Panthers,684,Nashville Predators,689,2023-03-03T00:00:00+00:00,2023-03-02
+1081,New York Rangers,692,Ottawa Senators,693,2023-03-03T00:00:00+00:00,2023-03-02
+1082,Tampa Bay Lightning,699,Pittsburgh Penguins,696,2023-03-03T00:00:00+00:00,2023-03-02
+1083,Detroit Red Wings,682,Seattle Kraken,1436,2023-03-03T00:00:00+00:00,2023-03-02
+1084,Chicago Blackhawks,678,Dallas Stars,681,2023-03-03T01:30:00+00:00,2023-03-02
+1085,Calgary Flames,675,Toronto Maple Leafs,700,2023-03-03T02:00:00+00:00,2023-03-02
+1086,Vancouver Canucks,701,Minnesota Wild,687,2023-03-03T03:00:00+00:00,2023-03-02
+1087,Los Angeles Kings,685,Montreal Canadiens,688,2023-03-03T03:30:00+00:00,2023-03-02
+1088,San Jose Sharks,697,St. Louis Blues,698,2023-03-03T03:30:00+00:00,2023-03-02
+1089,Columbus Blue Jackets,680,Seattle Kraken,1436,2023-03-04T00:00:00+00:00,2023-03-03
+1090,Edmonton Oilers,683,Winnipeg Jets,704,2023-03-04T02:00:00+00:00,2023-03-03
+1091,Arizona Coyotes,1460,Carolina Hurricanes,676,2023-03-04T02:30:00+00:00,2023-03-03
+1092,Anaheim Ducks,670,Montreal Canadiens,688,2023-03-04T03:00:00+00:00,2023-03-03
+1093,Vegas Golden Knights,702,New Jersey Devils,690,2023-03-04T03:00:00+00:00,2023-03-03
+1094,Buffalo Sabres,674,Tampa Bay Lightning,699,2023-03-04T17:30:00+00:00,2023-03-04
+1095,New York Islanders,691,Detroit Red Wings,682,2023-03-04T17:30:00+00:00,2023-03-04
+1096,Boston Bruins,673,New York Rangers,692,2023-03-04T18:00:00+00:00,2023-03-04
+1097,Dallas Stars,681,Colorado Avalanche,679,2023-03-04T20:30:00+00:00,2023-03-04
+1098,Florida Panthers,684,Pittsburgh Penguins,696,2023-03-04T23:00:00+00:00,2023-03-04
+1099,San Jose Sharks,697,Washington Capitals,703,2023-03-04T23:00:00+00:00,2023-03-04
+1100,Ottawa Senators,693,Columbus Blue Jackets,680,2023-03-05T00:00:00+00:00,2023-03-04
+1101,Vancouver Canucks,701,Toronto Maple Leafs,700,2023-03-05T00:00:00+00:00,2023-03-04
+1102,Winnipeg Jets,704,Edmonton Oilers,683,2023-03-05T00:00:00+00:00,2023-03-04
+1103,Chicago Blackhawks,678,Nashville Predators,689,2023-03-05T01:00:00+00:00,2023-03-04
+1104,Calgary Flames,675,Minnesota Wild,687,2023-03-05T03:00:00+00:00,2023-03-04
+1105,Los Angeles Kings,685,St. Louis Blues,698,2023-03-05T03:30:00+00:00,2023-03-04
+1106,Carolina Hurricanes,676,Tampa Bay Lightning,699,2023-03-05T20:00:00+00:00,2023-03-05
+1107,Vegas Golden Knights,702,Montreal Canadiens,688,2023-03-05T23:00:00+00:00,2023-03-05
+1108,Philadelphia Flyers,695,Detroit Red Wings,682,2023-03-05T23:00:00+00:00,2023-03-05
+1109,Arizona Coyotes,1460,New Jersey Devils,690,2023-03-06T00:00:00+00:00,2023-03-05
+1110,Colorado Avalanche,679,Seattle Kraken,1436,2023-03-06T02:00:00+00:00,2023-03-05
+1111,Buffalo Sabres,674,Edmonton Oilers,683,2023-03-07T00:30:00+00:00,2023-03-06
+1112,Winnipeg Jets,704,San Jose Sharks,697,2023-03-07T00:30:00+00:00,2023-03-06
+1113,Dallas Stars,681,Calgary Flames,675,2023-03-07T01:30:00+00:00,2023-03-06
+1114,Chicago Blackhawks,678,Ottawa Senators,693,2023-03-07T02:00:00+00:00,2023-03-06
+1115,Los Angeles Kings,685,Washington Capitals,703,2023-03-07T03:30:00+00:00,2023-03-06
+1116,Vancouver Canucks,701,Nashville Predators,689,2023-03-07T03:30:00+00:00,2023-03-06
+1117,Tampa Bay Lightning,699,Philadelphia Flyers,695,2023-03-08T00:00:00+00:00,2023-03-07
+1118,Pittsburgh Penguins,696,Columbus Blue Jackets,680,2023-03-08T00:00:00+00:00,2023-03-07
+1119,New Jersey Devils,690,Toronto Maple Leafs,700,2023-03-08T00:00:00+00:00,2023-03-07
+1120,Florida Panthers,684,Vegas Golden Knights,702,2023-03-08T00:00:00+00:00,2023-03-07
+1121,Montreal Canadiens,688,Carolina Hurricanes,676,2023-03-08T00:00:00+00:00,2023-03-07
+1122,New York Islanders,691,Buffalo Sabres,674,2023-03-08T00:30:00+00:00,2023-03-07
+1123,Minnesota Wild,687,Calgary Flames,675,2023-03-08T01:00:00+00:00,2023-03-07
+1124,Arizona Coyotes,1460,St. Louis Blues,698,2023-03-08T02:00:00+00:00,2023-03-07
+1125,Colorado Avalanche,679,San Jose Sharks,697,2023-03-08T02:00:00+00:00,2023-03-07
+1126,Seattle Kraken,1436,Anaheim Ducks,670,2023-03-08T03:00:00+00:00,2023-03-07
+1127,Detroit Red Wings,682,Chicago Blackhawks,678,2023-03-09T00:30:00+00:00,2023-03-08
+1128,Winnipeg Jets,704,Minnesota Wild,687,2023-03-09T00:30:00+00:00,2023-03-08
+1129,Vancouver Canucks,701,Anaheim Ducks,670,2023-03-09T03:00:00+00:00,2023-03-08
+1130,Pittsburgh Penguins,696,New York Islanders,691,2023-03-10T00:00:00+00:00,2023-03-09
+1131,Washington Capitals,703,New Jersey Devils,690,2023-03-10T00:00:00+00:00,2023-03-09
+1132,Tampa Bay Lightning,699,Vegas Golden Knights,702,2023-03-10T00:00:00+00:00,2023-03-09
+1133,Montreal Canadiens,688,New York Rangers,692,2023-03-10T00:00:00+00:00,2023-03-09
+1134,Carolina Hurricanes,676,Philadelphia Flyers,695,2023-03-10T00:00:00+00:00,2023-03-09
+1135,Buffalo Sabres,674,Dallas Stars,681,2023-03-10T00:00:00+00:00,2023-03-09
+1136,Boston Bruins,673,Edmonton Oilers,683,2023-03-10T00:30:00+00:00,2023-03-09
+1137,St. Louis Blues,698,San Jose Sharks,697,2023-03-10T01:00:00+00:00,2023-03-09
+1138,Arizona Coyotes,1460,Nashville Predators,689,2023-03-10T02:00:00+00:00,2023-03-09
+1139,Colorado Avalanche,679,Los Angeles Kings,685,2023-03-10T02:00:00+00:00,2023-03-09
+1140,Seattle Kraken,1436,Ottawa Senators,693,2023-03-10T03:00:00+00:00,2023-03-09
+1141,Florida Panthers,684,Chicago Blackhawks,678,2023-03-11T00:00:00+00:00,2023-03-10
+1142,Calgary Flames,675,Anaheim Ducks,670,2023-03-11T02:00:00+00:00,2023-03-10
+1143,Boston Bruins,673,Detroit Red Wings,682,2023-03-11T18:00:00+00:00,2023-03-11
+1144,Pittsburgh Penguins,696,Philadelphia Flyers,695,2023-03-11T20:30:00+00:00,2023-03-11
+1145,Buffalo Sabres,674,New York Rangers,692,2023-03-11T22:00:00+00:00,2023-03-11
+1146,Colorado Avalanche,679,Arizona Coyotes,1460,2023-03-11T23:00:00+00:00,2023-03-11
+1147,Toronto Maple Leafs,700,Edmonton Oilers,683,2023-03-12T00:00:00+00:00,2023-03-11
+1148,Tampa Bay Lightning,699,Chicago Blackhawks,678,2023-03-12T00:00:00+00:00,2023-03-11
+1149,Montreal Canadiens,688,New Jersey Devils,690,2023-03-12T00:00:00+00:00,2023-03-11
+1150,Florida Panthers,684,Winnipeg Jets,704,2023-03-12T00:00:00+00:00,2023-03-11
+1151,Columbus Blue Jackets,680,St. Louis Blues,698,2023-03-12T00:00:00+00:00,2023-03-11
+1152,Carolina Hurricanes,676,Vegas Golden Knights,702,2023-03-12T00:00:00+00:00,2023-03-11
+1153,New York Islanders,691,Washington Capitals,703,2023-03-12T00:30:00+00:00,2023-03-11
+1154,Seattle Kraken,1436,Dallas Stars,681,2023-03-12T03:00:00+00:00,2023-03-11
+1155,Vancouver Canucks,701,Ottawa Senators,693,2023-03-12T03:00:00+00:00,2023-03-11
+1156,Los Angeles Kings,685,Nashville Predators,689,2023-03-12T03:30:00+00:00,2023-03-11
+1157,San Jose Sharks,697,Minnesota Wild,687,2023-03-12T03:30:00+00:00,2023-03-11
+1158,Detroit Red Wings,682,Boston Bruins,673,2023-03-12T17:30:00+00:00,2023-03-12
+1159,Pittsburgh Penguins,696,New York Rangers,692,2023-03-12T20:00:00+00:00,2023-03-12
+1160,Tampa Bay Lightning,699,Winnipeg Jets,704,2023-03-12T23:00:00+00:00,2023-03-12
+1161,St. Louis Blues,698,Vegas Golden Knights,702,2023-03-12T23:00:00+00:00,2023-03-12
+1162,New Jersey Devils,690,Carolina Hurricanes,676,2023-03-12T23:00:00+00:00,2023-03-12
+1163,Calgary Flames,675,Ottawa Senators,693,2023-03-13T01:00:00+00:00,2023-03-12
+1164,Anaheim Ducks,670,Nashville Predators,689,2023-03-13T01:30:00+00:00,2023-03-12
+1165,Arizona Coyotes,1460,Minnesota Wild,687,2023-03-13T01:30:00+00:00,2023-03-12
+1166,Montreal Canadiens,688,Colorado Avalanche,679,2023-03-13T23:30:00+00:00,2023-03-13
+1167,Toronto Maple Leafs,700,Buffalo Sabres,674,2023-03-13T23:30:00+00:00,2023-03-13
+1168,Seattle Kraken,1436,Dallas Stars,681,2023-03-14T02:00:00+00:00,2023-03-13
+1169,Pittsburgh Penguins,696,Montreal Canadiens,688,2023-03-14T23:00:00+00:00,2023-03-14
+1170,Philadelphia Flyers,695,Vegas Golden Knights,702,2023-03-14T23:00:00+00:00,2023-03-14
+1171,New York Rangers,692,Washington Capitals,703,2023-03-14T23:00:00+00:00,2023-03-14
+1172,New Jersey Devils,690,Tampa Bay Lightning,699,2023-03-14T23:00:00+00:00,2023-03-14
+1173,Carolina Hurricanes,676,Winnipeg Jets,704,2023-03-14T23:00:00+00:00,2023-03-14
+1174,Nashville Predators,689,Detroit Red Wings,682,2023-03-15T00:00:00+00:00,2023-03-14
+1175,Chicago Blackhawks,678,Boston Bruins,673,2023-03-15T00:30:00+00:00,2023-03-14
+1176,Edmonton Oilers,683,Ottawa Senators,693,2023-03-15T01:00:00+00:00,2023-03-14
+1177,Arizona Coyotes,1460,Calgary Flames,675,2023-03-15T02:00:00+00:00,2023-03-14
+1178,Vancouver Canucks,701,Dallas Stars,681,2023-03-15T02:00:00+00:00,2023-03-14
+1179,Los Angeles Kings,685,New York Islanders,691,2023-03-15T02:30:00+00:00,2023-03-14
+1180,San Jose Sharks,697,Columbus Blue Jackets,680,2023-03-15T02:30:00+00:00,2023-03-14
+1181,Toronto Maple Leafs,700,Colorado Avalanche,679,2023-03-15T23:00:00+00:00,2023-03-15
+1182,Washington Capitals,703,Buffalo Sabres,674,2023-03-15T23:00:00+00:00,2023-03-15
+1183,St. Louis Blues,698,Minnesota Wild,687,2023-03-16T01:30:00+00:00,2023-03-15
+1184,Anaheim Ducks,670,New York Islanders,691,2023-03-16T02:00:00+00:00,2023-03-15
+1185,Florida Panthers,684,Montreal Canadiens,688,2023-03-16T23:00:00+00:00,2023-03-16
+1186,New Jersey Devils,690,Tampa Bay Lightning,699,2023-03-16T23:00:00+00:00,2023-03-16
+1187,New York Rangers,692,Pittsburgh Penguins,696,2023-03-16T23:00:00+00:00,2023-03-16
+1188,Ottawa Senators,693,Colorado Avalanche,679,2023-03-16T23:00:00+00:00,2023-03-16
+1189,Nashville Predators,689,Chicago Blackhawks,678,2023-03-17T00:00:00+00:00,2023-03-16
+1190,Winnipeg Jets,704,Boston Bruins,673,2023-03-17T00:00:00+00:00,2023-03-16
+1191,Edmonton Oilers,683,Dallas Stars,681,2023-03-17T01:00:00+00:00,2023-03-16
+1192,Arizona Coyotes,1460,Vancouver Canucks,701,2023-03-17T02:00:00+00:00,2023-03-16
+1193,Vegas Golden Knights,702,Calgary Flames,675,2023-03-17T02:00:00+00:00,2023-03-16
+1194,San Jose Sharks,697,Seattle Kraken,1436,2023-03-17T02:30:00+00:00,2023-03-16
+1195,Los Angeles Kings,685,Columbus Blue Jackets,680,2023-03-17T02:30:00+00:00,2023-03-16
+1196,Philadelphia Flyers,695,Buffalo Sabres,674,2023-03-17T23:00:00+00:00,2023-03-17
+1197,Toronto Maple Leafs,700,Carolina Hurricanes,676,2023-03-17T23:00:00+00:00,2023-03-17
+1198,Washington Capitals,703,St. Louis Blues,698,2023-03-17T23:00:00+00:00,2023-03-17
+1199,Anaheim Ducks,670,Columbus Blue Jackets,680,2023-03-18T02:00:00+00:00,2023-03-17
+1200,Detroit Red Wings,682,Colorado Avalanche,679,2023-03-18T17:00:00+00:00,2023-03-18
+1201,Minnesota Wild,687,Boston Bruins,673,2023-03-18T18:00:00+00:00,2023-03-18
+1202,Nashville Predators,689,Winnipeg Jets,704,2023-03-18T18:00:00+00:00,2023-03-18
+1203,Seattle Kraken,1436,Edmonton Oilers,683,2023-03-18T20:00:00+00:00,2023-03-18
+1204,Philadelphia Flyers,695,Carolina Hurricanes,676,2023-03-18T21:00:00+00:00,2023-03-18
+1205,Florida Panthers,684,New Jersey Devils,690,2023-03-18T22:00:00+00:00,2023-03-18
+1206,Ottawa Senators,693,Toronto Maple Leafs,700,2023-03-18T23:00:00+00:00,2023-03-18
+1207,Tampa Bay Lightning,699,Montreal Canadiens,688,2023-03-18T23:00:00+00:00,2023-03-18
+1208,New York Rangers,692,Pittsburgh Penguins,696,2023-03-19T00:00:00+00:00,2023-03-18
+1209,Calgary Flames,675,Dallas Stars,681,2023-03-19T02:00:00+00:00,2023-03-18
+1210,Los Angeles Kings,685,Vancouver Canucks,701,2023-03-19T02:00:00+00:00,2023-03-18
+1211,Arizona Coyotes,1460,Chicago Blackhawks,678,2023-03-19T02:30:00+00:00,2023-03-18
+1212,San Jose Sharks,697,New York Islanders,691,2023-03-19T02:30:00+00:00,2023-03-18
+1213,Buffalo Sabres,674,Boston Bruins,673,2023-03-19T17:00:00+00:00,2023-03-19
+1214,Minnesota Wild,687,Washington Capitals,703,2023-03-19T18:00:00+00:00,2023-03-19
+1215,Vegas Golden Knights,702,Columbus Blue Jackets,680,2023-03-19T20:00:00+00:00,2023-03-19
+1216,Tampa Bay Lightning,699,New Jersey Devils,690,2023-03-19T23:00:00+00:00,2023-03-19
+1217,St. Louis Blues,698,Winnipeg Jets,704,2023-03-19T23:00:00+00:00,2023-03-19
+1218,New York Rangers,692,Nashville Predators,689,2023-03-19T23:00:00+00:00,2023-03-19
+1219,Anaheim Ducks,670,Vancouver Canucks,701,2023-03-20T00:00:00+00:00,2023-03-19
+1220,Pittsburgh Penguins,696,Ottawa Senators,693,2023-03-20T23:00:00+00:00,2023-03-20
+1221,Detroit Red Wings,682,Florida Panthers,684,2023-03-20T23:00:00+00:00,2023-03-20
+1222,Colorado Avalanche,679,Chicago Blackhawks,678,2023-03-21T01:00:00+00:00,2023-03-20
+1223,Edmonton Oilers,683,San Jose Sharks,697,2023-03-21T01:30:00+00:00,2023-03-20
+1224,Los Angeles Kings,685,Calgary Flames,675,2023-03-21T02:30:00+00:00,2023-03-20
+1225,Washington Capitals,703,Columbus Blue Jackets,680,2023-03-21T23:00:00+00:00,2023-03-21
+1226,Philadelphia Flyers,695,Florida Panthers,684,2023-03-21T23:00:00+00:00,2023-03-21
+1227,New York Rangers,692,Carolina Hurricanes,676,2023-03-21T23:00:00+00:00,2023-03-21
+1228,Montreal Canadiens,688,Tampa Bay Lightning,699,2023-03-21T23:00:00+00:00,2023-03-21
+1229,New Jersey Devils,690,Minnesota Wild,687,2023-03-21T23:00:00+00:00,2023-03-21
+1230,Buffalo Sabres,674,Nashville Predators,689,2023-03-21T23:00:00+00:00,2023-03-21
+1231,Boston Bruins,673,Ottawa Senators,693,2023-03-21T23:00:00+00:00,2023-03-21
+1232,New York Islanders,691,Toronto Maple Leafs,700,2023-03-21T23:30:00+00:00,2023-03-21
+1233,St. Louis Blues,698,Detroit Red Wings,682,2023-03-22T00:00:00+00:00,2023-03-21
+1234,Winnipeg Jets,704,Arizona Coyotes,1460,2023-03-22T00:00:00+00:00,2023-03-21
+1235,Dallas Stars,681,Seattle Kraken,1436,2023-03-22T00:30:00+00:00,2023-03-21
+1236,Anaheim Ducks,670,Calgary Flames,675,2023-03-22T02:00:00+00:00,2023-03-21
+1237,Vancouver Canucks,701,Vegas Golden Knights,702,2023-03-22T02:00:00+00:00,2023-03-21
+1238,Colorado Avalanche,679,Pittsburgh Penguins,696,2023-03-23T00:00:00+00:00,2023-03-22
+1239,Edmonton Oilers,683,Arizona Coyotes,1460,2023-03-23T02:30:00+00:00,2023-03-22
+1240,Philadelphia Flyers,695,Minnesota Wild,687,2023-03-23T22:30:00+00:00,2023-03-23
+1241,Washington Capitals,703,Chicago Blackhawks,678,2023-03-23T23:00:00+00:00,2023-03-23
+1242,Boston Bruins,673,Montreal Canadiens,688,2023-03-23T23:00:00+00:00,2023-03-23
+1243,Ottawa Senators,693,Tampa Bay Lightning,699,2023-03-23T23:00:00+00:00,2023-03-23
+1244,Florida Panthers,684,Toronto Maple Leafs,700,2023-03-23T23:00:00+00:00,2023-03-23
+1245,Carolina Hurricanes,676,New York Rangers,692,2023-03-23T23:00:00+00:00,2023-03-23
+1246,Detroit Red Wings,682,St. Louis Blues,698,2023-03-23T23:00:00+00:00,2023-03-23
+1247,Nashville Predators,689,Seattle Kraken,1436,2023-03-24T00:00:00+00:00,2023-03-23
+1248,Dallas Stars,681,Pittsburgh Penguins,696,2023-03-24T01:00:00+00:00,2023-03-23
+1249,Calgary Flames,675,Vegas Golden Knights,702,2023-03-24T01:00:00+00:00,2023-03-23
+1250,Anaheim Ducks,670,Winnipeg Jets,704,2023-03-24T02:00:00+00:00,2023-03-23
+1251,Vancouver Canucks,701,San Jose Sharks,697,2023-03-24T02:00:00+00:00,2023-03-23
+1252,Buffalo Sabres,674,New Jersey Devils,690,2023-03-24T23:00:00+00:00,2023-03-24
+1253,Columbus Blue Jackets,680,New York Islanders,691,2023-03-24T23:00:00+00:00,2023-03-24
+1254,Colorado Avalanche,679,Arizona Coyotes,1460,2023-03-25T01:00:00+00:00,2023-03-24
+1255,Boston Bruins,673,Tampa Bay Lightning,699,2023-03-25T17:00:00+00:00,2023-03-25
+1256,Philadelphia Flyers,695,Detroit Red Wings,682,2023-03-25T17:00:00+00:00,2023-03-25
+1257,Nashville Predators,689,Seattle Kraken,1436,2023-03-25T18:00:00+00:00,2023-03-25
+1258,Calgary Flames,675,San Jose Sharks,697,2023-03-25T20:00:00+00:00,2023-03-25
+1259,Los Angeles Kings,685,Winnipeg Jets,704,2023-03-25T20:00:00+00:00,2023-03-25
+1260,Florida Panthers,684,New York Rangers,692,2023-03-25T21:00:00+00:00,2023-03-25
+1261,Minnesota Wild,687,Chicago Blackhawks,678,2023-03-25T21:00:00+00:00,2023-03-25
+1262,New York Islanders,691,Buffalo Sabres,674,2023-03-25T21:00:00+00:00,2023-03-25
+1263,Carolina Hurricanes,676,Toronto Maple Leafs,700,2023-03-25T23:00:00+00:00,2023-03-25
+1264,Dallas Stars,681,Vancouver Canucks,701,2023-03-25T23:00:00+00:00,2023-03-25
+1265,Montreal Canadiens,688,Columbus Blue Jackets,680,2023-03-25T23:00:00+00:00,2023-03-25
+1266,New Jersey Devils,690,Ottawa Senators,693,2023-03-25T23:00:00+00:00,2023-03-25
+1267,Pittsburgh Penguins,696,Washington Capitals,703,2023-03-26T00:00:00+00:00,2023-03-25
+1268,Edmonton Oilers,683,Vegas Golden Knights,702,2023-03-26T02:00:00+00:00,2023-03-25
+1269,Anaheim Ducks,670,St. Louis Blues,698,2023-03-26T02:30:00+00:00,2023-03-25
+1270,Arizona Coyotes,1460,Colorado Avalanche,679,2023-03-26T19:00:00+00:00,2023-03-26
+1271,Carolina Hurricanes,676,Boston Bruins,673,2023-03-26T21:00:00+00:00,2023-03-26
+1272,Nashville Predators,689,Toronto Maple Leafs,700,2023-03-26T22:00:00+00:00,2023-03-26
+1273,Chicago Blackhawks,678,Vancouver Canucks,701,2023-03-26T22:00:00+00:00,2023-03-26
+1274,Los Angeles Kings,685,St. Louis Blues,698,2023-03-27T02:30:00+00:00,2023-03-26
+1275,Buffalo Sabres,674,Montreal Canadiens,688,2023-03-27T23:00:00+00:00,2023-03-27
+1276,Ottawa Senators,693,Florida Panthers,684,2023-03-27T23:00:00+00:00,2023-03-27
+1277,New York Islanders,691,New Jersey Devils,690,2023-03-27T23:30:00+00:00,2023-03-27
+1278,Minnesota Wild,687,Seattle Kraken,1436,2023-03-28T00:00:00+00:00,2023-03-27
+1279,Anaheim Ducks,670,Colorado Avalanche,679,2023-03-28T02:00:00+00:00,2023-03-27
+1280,Arizona Coyotes,1460,Edmonton Oilers,683,2023-03-28T02:00:00+00:00,2023-03-27
+1281,Philadelphia Flyers,695,Montreal Canadiens,688,2023-03-28T23:00:00+00:00,2023-03-28
+1282,Boston Bruins,673,Nashville Predators,689,2023-03-28T23:00:00+00:00,2023-03-28
+1283,New York Rangers,692,Columbus Blue Jackets,680,2023-03-28T23:00:00+00:00,2023-03-28
+1284,Carolina Hurricanes,676,Tampa Bay Lightning,699,2023-03-28T23:00:00+00:00,2023-03-28
+1285,Detroit Red Wings,682,Pittsburgh Penguins,696,2023-03-28T23:00:00+00:00,2023-03-28
+1286,St. Louis Blues,698,Vancouver Canucks,701,2023-03-29T00:00:00+00:00,2023-03-28
+1287,Chicago Blackhawks,678,Dallas Stars,681,2023-03-29T00:30:00+00:00,2023-03-28
+1288,Calgary Flames,675,Los Angeles Kings,685,2023-03-29T01:00:00+00:00,2023-03-28
+1289,Vegas Golden Knights,702,Edmonton Oilers,683,2023-03-29T02:00:00+00:00,2023-03-28
+1290,San Jose Sharks,697,Winnipeg Jets,704,2023-03-29T02:30:00+00:00,2023-03-28
+1291,Toronto Maple Leafs,700,Florida Panthers,684,2023-03-29T23:30:00+00:00,2023-03-29
+1292,Washington Capitals,703,New York Islanders,691,2023-03-29T23:30:00+00:00,2023-03-29
+1293,Colorado Avalanche,679,Minnesota Wild,687,2023-03-30T02:00:00+00:00,2023-03-29
+1294,Boston Bruins,673,Columbus Blue Jackets,680,2023-03-30T23:00:00+00:00,2023-03-30
+1295,Montreal Canadiens,688,Florida Panthers,684,2023-03-30T23:00:00+00:00,2023-03-30
+1296,New Jersey Devils,690,New York Rangers,692,2023-03-30T23:00:00+00:00,2023-03-30
+1297,Ottawa Senators,693,Philadelphia Flyers,695,2023-03-30T23:00:00+00:00,2023-03-30
+1298,Pittsburgh Penguins,696,Nashville Predators,689,2023-03-30T23:00:00+00:00,2023-03-30
+1299,Tampa Bay Lightning,699,Washington Capitals,703,2023-03-30T23:00:00+00:00,2023-03-30
+1300,Detroit Red Wings,682,Carolina Hurricanes,676,2023-03-30T23:30:00+00:00,2023-03-30
+1301,Chicago Blackhawks,678,St. Louis Blues,698,2023-03-31T00:30:00+00:00,2023-03-30
+1302,Edmonton Oilers,683,Los Angeles Kings,685,2023-03-31T01:00:00+00:00,2023-03-30
+1303,Seattle Kraken,1436,Anaheim Ducks,670,2023-03-31T02:00:00+00:00,2023-03-30
+1304,San Jose Sharks,697,Vegas Golden Knights,702,2023-03-31T02:30:00+00:00,2023-03-30
+1305,Buffalo Sabres,674,New York Rangers,692,2023-03-31T23:00:00+00:00,2023-03-31
+1306,Winnipeg Jets,704,Detroit Red Wings,682,2023-04-01T00:00:00+00:00,2023-03-31
+1307,Vancouver Canucks,701,Calgary Flames,675,2023-04-01T02:00:00+00:00,2023-03-31
+1308,Arizona Coyotes,1460,Dallas Stars,681,2023-04-01T02:30:00+00:00,2023-03-31
+1309,Nashville Predators,689,St. Louis Blues,698,2023-04-01T17:00:00+00:00,2023-04-01
+1310,Pittsburgh Penguins,696,Boston Bruins,673,2023-04-01T19:00:00+00:00,2023-04-01
+1311,Philadelphia Flyers,695,Buffalo Sabres,674,2023-04-01T23:00:00+00:00,2023-04-01
+1312,Tampa Bay Lightning,699,New York Islanders,691,2023-04-01T23:00:00+00:00,2023-04-01
+1313,Ottawa Senators,693,Toronto Maple Leafs,700,2023-04-01T23:00:00+00:00,2023-04-01
+1314,Montreal Canadiens,688,Carolina Hurricanes,676,2023-04-01T23:00:00+00:00,2023-04-01
+1315,Columbus Blue Jackets,680,Florida Panthers,684,2023-04-01T23:00:00+00:00,2023-04-01
+1316,Chicago Blackhawks,678,New Jersey Devils,690,2023-04-02T00:00:00+00:00,2023-04-01
+1317,Colorado Avalanche,679,Dallas Stars,681,2023-04-02T01:00:00+00:00,2023-04-01
+1318,Arizona Coyotes,1460,San Jose Sharks,697,2023-04-02T02:00:00+00:00,2023-04-01
+1319,Edmonton Oilers,683,Anaheim Ducks,670,2023-04-02T02:00:00+00:00,2023-04-01
+1320,Seattle Kraken,1436,Los Angeles Kings,685,2023-04-02T02:00:00+00:00,2023-04-01
+1321,Vegas Golden Knights,702,Minnesota Wild,687,2023-04-02T02:00:00+00:00,2023-04-01
+1322,Washington Capitals,703,New York Rangers,692,2023-04-02T17:00:00+00:00,2023-04-02
+1323,St. Louis Blues,698,Boston Bruins,673,2023-04-02T19:30:00+00:00,2023-04-02
+1324,Pittsburgh Penguins,696,Philadelphia Flyers,695,2023-04-02T22:00:00+00:00,2023-04-02
+1325,Columbus Blue Jackets,680,Ottawa Senators,693,2023-04-02T22:00:00+00:00,2023-04-02
+1326,Carolina Hurricanes,676,New York Islanders,691,2023-04-02T22:00:00+00:00,2023-04-02
+1327,Toronto Maple Leafs,700,Detroit Red Wings,682,2023-04-02T23:00:00+00:00,2023-04-02
+1328,Winnipeg Jets,704,New Jersey Devils,690,2023-04-02T23:00:00+00:00,2023-04-02
+1329,Calgary Flames,675,Anaheim Ducks,670,2023-04-03T00:00:00+00:00,2023-04-02
+1330,Vancouver Canucks,701,Los Angeles Kings,685,2023-04-03T00:00:00+00:00,2023-04-02
+1331,Minnesota Wild,687,Vegas Golden Knights,702,2023-04-04T00:00:00+00:00,2023-04-03
+1332,Dallas Stars,681,Nashville Predators,689,2023-04-04T00:30:00+00:00,2023-04-03
+1333,Seattle Kraken,1436,Arizona Coyotes,1460,2023-04-04T02:00:00+00:00,2023-04-03
+1334,New Jersey Devils,690,Pittsburgh Penguins,696,2023-04-04T23:00:00+00:00,2023-04-04
+1335,Toronto Maple Leafs,700,Columbus Blue Jackets,680,2023-04-04T23:00:00+00:00,2023-04-04
+1336,Florida Panthers,684,Buffalo Sabres,674,2023-04-04T23:00:00+00:00,2023-04-04
+1337,Montreal Canadiens,688,Detroit Red Wings,682,2023-04-04T23:00:00+00:00,2023-04-04
+1338,Carolina Hurricanes,676,Ottawa Senators,693,2023-04-04T23:00:00+00:00,2023-04-04
+1339,Nashville Predators,689,Vegas Golden Knights,702,2023-04-05T00:00:00+00:00,2023-04-04
+1340,St. Louis Blues,698,Philadelphia Flyers,695,2023-04-05T00:00:00+00:00,2023-04-04
+1341,Calgary Flames,675,Chicago Blackhawks,678,2023-04-05T01:00:00+00:00,2023-04-04
+1342,Vancouver Canucks,701,Seattle Kraken,1436,2023-04-05T02:00:00+00:00,2023-04-04
+1343,Los Angeles Kings,685,Edmonton Oilers,683,2023-04-05T02:30:00+00:00,2023-04-04
+1344,San Jose Sharks,697,Colorado Avalanche,679,2023-04-05T02:30:00+00:00,2023-04-04
+1345,New York Rangers,692,Tampa Bay Lightning,699,2023-04-05T23:30:00+00:00,2023-04-05
+1346,Winnipeg Jets,704,Calgary Flames,675,2023-04-05T23:30:00+00:00,2023-04-05
+1347,Anaheim Ducks,670,Edmonton Oilers,683,2023-04-06T02:00:00+00:00,2023-04-05
+1348,Boston Bruins,673,Toronto Maple Leafs,700,2023-04-06T23:00:00+00:00,2023-04-06
+1349,Florida Panthers,684,Ottawa Senators,693,2023-04-06T23:00:00+00:00,2023-04-06
+1350,Montreal Canadiens,688,Washington Capitals,703,2023-04-06T23:00:00+00:00,2023-04-06
+1351,New Jersey Devils,690,Columbus Blue Jackets,680,2023-04-06T23:00:00+00:00,2023-04-06
+1352,Pittsburgh Penguins,696,Minnesota Wild,687,2023-04-06T23:00:00+00:00,2023-04-06
+1353,Detroit Red Wings,682,Buffalo Sabres,674,2023-04-06T23:00:00+00:00,2023-04-06
+1354,New York Islanders,691,Tampa Bay Lightning,699,2023-04-06T23:30:00+00:00,2023-04-06
+1355,Nashville Predators,689,Carolina Hurricanes,676,2023-04-07T00:00:00+00:00,2023-04-06
+1356,St. Louis Blues,698,New York Rangers,692,2023-04-07T00:00:00+00:00,2023-04-06
+1357,Dallas Stars,681,Philadelphia Flyers,695,2023-04-07T00:30:00+00:00,2023-04-06
+1358,Vegas Golden Knights,702,Los Angeles Kings,685,2023-04-07T02:00:00+00:00,2023-04-06
+1359,Vancouver Canucks,701,Chicago Blackhawks,678,2023-04-07T02:00:00+00:00,2023-04-06
+1360,Seattle Kraken,1436,Arizona Coyotes,1460,2023-04-07T02:30:00+00:00,2023-04-06
+1361,San Jose Sharks,697,Colorado Avalanche,679,2023-04-07T02:30:00+00:00,2023-04-06
+1362,Buffalo Sabres,674,Carolina Hurricanes,676,2023-04-08T16:30:00+00:00,2023-04-08
+1363,Detroit Red Wings,682,Pittsburgh Penguins,696,2023-04-08T17:00:00+00:00,2023-04-08
+1364,Dallas Stars,681,Vegas Golden Knights,702,2023-04-08T19:30:00+00:00,2023-04-08
+1365,San Jose Sharks,697,Edmonton Oilers,683,2023-04-08T20:00:00+00:00,2023-04-08
+1366,Arizona Coyotes,1460,Anaheim Ducks,670,2023-04-08T21:30:00+00:00,2023-04-08
+1367,Washington Capitals,703,Florida Panthers,684,2023-04-08T23:00:00+00:00,2023-04-08
+1368,Winnipeg Jets,704,Nashville Predators,689,2023-04-08T23:00:00+00:00,2023-04-08
+1369,Toronto Maple Leafs,700,Montreal Canadiens,688,2023-04-08T23:00:00+00:00,2023-04-08
+1370,Ottawa Senators,693,Tampa Bay Lightning,699,2023-04-08T23:00:00+00:00,2023-04-08
+1371,Columbus Blue Jackets,680,New York Rangers,692,2023-04-08T23:00:00+00:00,2023-04-08
+1372,New York Islanders,691,Philadelphia Flyers,695,2023-04-08T23:30:00+00:00,2023-04-08
+1373,Minnesota Wild,687,St. Louis Blues,698,2023-04-09T00:00:00+00:00,2023-04-08
+1374,Boston Bruins,673,New Jersey Devils,690,2023-04-09T00:00:00+00:00,2023-04-08
+1375,Seattle Kraken,1436,Chicago Blackhawks,678,2023-04-09T02:00:00+00:00,2023-04-08
+1376,Vancouver Canucks,701,Calgary Flames,675,2023-04-09T02:00:00+00:00,2023-04-08
+1377,Los Angeles Kings,685,Colorado Avalanche,679,2023-04-09T02:30:00+00:00,2023-04-08
+1378,Philadelphia Flyers,695,Boston Bruins,673,2023-04-09T22:00:00+00:00,2023-04-09
+1379,Anaheim Ducks,670,Colorado Avalanche,679,2023-04-10T00:30:00+00:00,2023-04-09
+1380,Washington Capitals,703,New York Islanders,691,2023-04-10T23:00:00+00:00,2023-04-10
+1381,Winnipeg Jets,704,San Jose Sharks,697,2023-04-10T23:00:00+00:00,2023-04-10
+1382,Florida Panthers,684,Toronto Maple Leafs,700,2023-04-10T23:00:00+00:00,2023-04-10
+1383,Ottawa Senators,693,Carolina Hurricanes,676,2023-04-10T23:00:00+00:00,2023-04-10
+1384,New York Rangers,692,Buffalo Sabres,674,2023-04-10T23:00:00+00:00,2023-04-10
+1385,Detroit Red Wings,682,Dallas Stars,681,2023-04-10T23:00:00+00:00,2023-04-10
+1386,Chicago Blackhawks,678,Minnesota Wild,687,2023-04-11T01:00:00+00:00,2023-04-10
+1387,Calgary Flames,675,Nashville Predators,689,2023-04-11T01:30:00+00:00,2023-04-10
+1388,Arizona Coyotes,1460,Seattle Kraken,1436,2023-04-11T02:00:00+00:00,2023-04-10
+1389,Los Angeles Kings,685,Vancouver Canucks,701,2023-04-11T02:30:00+00:00,2023-04-10
+1390,Tampa Bay Lightning,699,Toronto Maple Leafs,700,2023-04-11T23:00:00+00:00,2023-04-11
+1391,New Jersey Devils,690,Buffalo Sabres,674,2023-04-11T23:00:00+00:00,2023-04-11
+1392,Philadelphia Flyers,695,Columbus Blue Jackets,680,2023-04-11T23:00:00+00:00,2023-04-11
+1393,Carolina Hurricanes,676,Detroit Red Wings,682,2023-04-11T23:00:00+00:00,2023-04-11
+1394,Boston Bruins,673,Washington Capitals,703,2023-04-11T23:00:00+00:00,2023-04-11
+1395,Pittsburgh Penguins,696,Chicago Blackhawks,678,2023-04-11T23:30:00+00:00,2023-04-11
+1396,Minnesota Wild,687,Winnipeg Jets,704,2023-04-12T00:00:00+00:00,2023-04-11
+1397,Colorado Avalanche,679,Edmonton Oilers,683,2023-04-12T01:30:00+00:00,2023-04-11
+1398,Anaheim Ducks,670,Vancouver Canucks,701,2023-04-12T02:00:00+00:00,2023-04-11
+1399,Vegas Golden Knights,702,Seattle Kraken,1436,2023-04-12T02:00:00+00:00,2023-04-11
+1400,New York Islanders,691,Montreal Canadiens,688,2023-04-12T23:00:00+00:00,2023-04-12
+1401,St. Louis Blues,698,Dallas Stars,681,2023-04-12T23:30:00+00:00,2023-04-12
+1402,Calgary Flames,675,San Jose Sharks,697,2023-04-13T02:00:00+00:00,2023-04-12
+1403,Washington Capitals,703,New Jersey Devils,690,2023-04-13T23:00:00+00:00,2023-04-13
+1404,Tampa Bay Lightning,699,Detroit Red Wings,682,2023-04-13T23:00:00+00:00,2023-04-13
+1405,New York Rangers,692,Toronto Maple Leafs,700,2023-04-13T23:00:00+00:00,2023-04-13
+1406,Montreal Canadiens,688,Boston Bruins,673,2023-04-13T23:00:00+00:00,2023-04-13
+1407,Florida Panthers,684,Carolina Hurricanes,676,2023-04-13T23:00:00+00:00,2023-04-13
+1408,Columbus Blue Jackets,680,Pittsburgh Penguins,696,2023-04-13T23:00:00+00:00,2023-04-13
+1409,Buffalo Sabres,674,Ottawa Senators,693,2023-04-13T23:00:00+00:00,2023-04-13
+1410,Nashville Predators,689,Minnesota Wild,687,2023-04-14T00:00:00+00:00,2023-04-13
+1411,Dallas Stars,681,St. Louis Blues,698,2023-04-14T00:00:00+00:00,2023-04-13
+1412,Chicago Blackhawks,678,Philadelphia Flyers,695,2023-04-14T00:30:00+00:00,2023-04-13
+1413,Colorado Avalanche,679,Winnipeg Jets,704,2023-04-14T01:00:00+00:00,2023-04-13
+1414,Edmonton Oilers,683,San Jose Sharks,697,2023-04-14T01:00:00+00:00,2023-04-13
+1415,Anaheim Ducks,670,Los Angeles Kings,685,2023-04-14T02:00:00+00:00,2023-04-13
+1416,Arizona Coyotes,1460,Vancouver Canucks,701,2023-04-14T02:00:00+00:00,2023-04-13
+1417,Seattle Kraken,1436,Vegas Golden Knights,702,2023-04-14T02:30:00+00:00,2023-04-13
+1418,Columbus Blue Jackets,680,Buffalo Sabres,674,2023-04-14T23:00:00+00:00,2023-04-14
+1419,Nashville Predators,689,Colorado Avalanche,679,2023-04-15T00:00:00+00:00,2023-04-14
