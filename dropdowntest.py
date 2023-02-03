@@ -157,8 +157,8 @@ def get_raw_table(response):
 
 # get last 5 home games
 def get_last_games(home_team, away_team,df):
-    last5home = df[(df['teams.home.id'] == home_team) & (df['status.long'] != 'Not Started')].tail(5)
-    last5away = df[(df['teams.away.id'] == away_team) & (df['status.long'] != 'Not Started')].tail(5)
+    last5home = df[(df['teams.home.id'] == home_team) & (df['status.long'] != 'Not Started') & (df['status.long'] != 'Cancelled')].tail(5)
+    last5away = df[(df['teams.away.id'] == away_team) & (df['status.long'] != 'Not Started') & (df['status.long'] != 'Cancelled')].tail(5)
     #last10total = df[((df['teams.home.id'] == team) | (df['teams.away.id'] == team)) & (df['status.long'] != 'Not Started')].tail(5)
     lastH2H = df[((df['teams.home.id'] == home_team) | (df['teams.away.id'] == home_team)) & ((df['teams.home.id'] == away_team) | (df['teams.away.id'] == away_team))]
     return (last5home,last5away,lastH2H)
@@ -169,8 +169,9 @@ def get_last_games(home_team, away_team,df):
 # In[237]:
 
 
-def get_record(team,team_df):
+def get_record(team,team_df_raw):
     #team_df = team_df[(team_df['teams.home.id'] == team) | (team_df['teams.away.id'] == team)]
+    team_df = team_df_raw[team_df_raw['date'] > '2022-10-11']
     wins = len(team_df[(team_df['teams.home.id'] == team) & (team_df['HomeResult'] == 'W')])
     wins += len(team_df[(team_df['teams.away.id'] == team) & (team_df['AwayResult'] == 'W')])
     losses = len(team_df[(team_df['teams.home.id'] == team) & (team_df['HomeResult'] == 'L')])
@@ -269,8 +270,8 @@ def create_table(at, ht, HA='all'):
     hometeam = teams[teams['Team'] == ht]['id'].iloc[0]
     awayteam = teams[teams['Team'] == at]['id'].iloc[0]
     teams = [hometeam,awayteam]
-    #master = call_it(teams)
-    master = pd.read_csv('dummyframe.csv')
+    master = call_it(teams)
+    #master = pd.read_csv('dummyframe.csv')
     #home_record = get_record_text(get_record(hometeam,master))
     #text = home_record
     home_text = get_goal_averages(hometeam,master,'home',HA)
@@ -295,6 +296,7 @@ def getL5text(df,HA):
     output = ''
     record = ''
     res = []
+    result = ''
     df = df.sort_values(by='date',ascending=False)
     df = df[df['status.long'] != 'Not Started']
     print(df)
@@ -314,6 +316,7 @@ def getL5text(df,HA):
             output += ( '{:<22s} {} | {} {:<22s} | {}\n'.format(row['teams.away.name'],str(int(row['scores.away'])),str(int(row['scores.home'])), row['teams.home.name'], row['date'][5:]) )
             #output += row['teams.away.name']+" "+str(int(row['scores.away']))+" | "+str(int(row['scores.home']))+" "+row['teams.home.name']+"\t| "+row['date'][5:] +"\n"
     result = str(res.count('W'))+"-"+str(res.count('L'))+"-"+str(res.count('OTL'))
+    print(result)
     return output,result
 
 def app():
@@ -325,13 +328,13 @@ def app():
     
     
 
-
+    numgames = (str(get_all_games(str(gameday))['HomeTeam'].count())+" Games on "+str(gameday))
     awayTeamdate = get_all_games(str(gameday))['AwayTeam']
     homeTeamdate = get_all_games(str(gameday))['HomeTeam']
-    matchup = topm.selectbox("Matchups", awayTeamdate+" @ "+homeTeamdate)
+    matchup = topm.selectbox(numgames, awayTeamdate+" @ "+homeTeamdate)
     left_side, middle, right_side = st.columns(3)
-    left_side.header('Away Team Side')
-    middle.header('Home Team Side')
+    left_side.header('Away Team')
+    middle.header('Home Team')
     
     right_side.header('Comparison')
     match_check = topr.checkbox("Use Matchup")
@@ -384,7 +387,7 @@ def app():
         left_side.text("Last 5 Away Games ("+getL5text(table[2][1],'a')[1]+")")
         left_side.text(getL5text(table[2][1],'a')[0])
 
-        middle.text("Last 5 Home Games ("+getL5text(table[2][1],'h')[1]+")")
+        middle.text("Last 5 Home Games ("+getL5text(table[2][0],'h')[1]+")")
         middle.text(getL5text(table[2][0],'h')[0])
 
         right_side.text("Previous Matchups\n")
