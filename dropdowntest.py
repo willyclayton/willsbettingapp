@@ -2,6 +2,7 @@ import pandas as pd
 import requests
 import math
 import streamlit as st
+from datetime import datetime, timedelta
 #hello there
 #this is another update?
 #print('do something now hahaha')
@@ -9,7 +10,7 @@ import streamlit as st
 
 
 def get_all_teams2():
-    url = "https://v1.hockey.api-sports.io/teams?league=57&season=2022"
+    url = "https://v1.hockey.api-sports.io/games?league=57&season=2022"
 
     payload={}
     headers = {
@@ -21,11 +22,32 @@ def get_all_teams2():
 
     raw_teams = teams.json()
     raw_teams = raw_teams['response']
-    all_teams = {i['name']:i['id'] for i in raw_teams}
-    teamdf = pd.DataFrame(all_teams.items(),columns=['Team','id'])
-    return teamdf
 
+    homeTeam = []
+    homeTeamID = []
+    awayTeam = []
+    awayTeamID = []
+    UTCTime = []
+    ESTTime = []
 
+    for i in raw_teams:
+        homeTeam.append(i['teams']['home']['name'])
+        homeTeamID.append(i['teams']['home']['id'])
+        awayTeam.append(i['teams']['away']['name'])
+        awayTeamID.append(i['teams']['away']['id'])
+        UTCTime.append(i['date'])
+        datetime_est = datetime.strptime(i['date'],'%Y-%m-%dT%H:%M:%S%z') - timedelta(hours=5)
+        datetime_est = datetime_est.strftime('%Y-%m-%d')
+        ESTTime.append(datetime_est)
+    #all_teams = {i['teams']:i['teams'] for i in raw_teams}
+    #all_teams = {i['teams']:i['id'] for i in raw_teams}
+    games_df = pd.DataFrame({'HomeTeam':homeTeam, 'HomeTeamID':homeTeamID, 'AwayTeam':awayTeam, 'AwayTeamID':awayTeamID, 'UTCDate':UTCTime, 'ESTDate':ESTTime})
+    return games_df
+
+hey = get_all_teams2()
+print(hey)
+#print(hey)
+all_games = hey.to_csv("/Users/will.clayton/Desktop/PythonMessAround/BettingHelp/willsbettingapp/all_games.csv")
 # In[232]:
 
 
@@ -70,10 +92,17 @@ def get_all_teams():
     return teams
 
 
-# In[233]:
+def get_all_games(date_est):
+    # have an EST and want all possible UTC dates
+    # format YYYY-MM-DD
+    datetime_est = datetime.strptime(date_est, '%Y-%m-%d')
+    dates_utc = [datetime_est,datetime_est+timedelta(days=1)]
 
 
-teams = get_all_teams()
+    return dates_utc
+
+hey = get_all_games('2023-05-02')
+print(hey[0])
 
 
 # In[234]:
@@ -288,14 +317,18 @@ def getL5text(df,HA):
         df = df.drop_duplicates(subset=['id'])
         print(df)
         for index, row in df.iterrows():
-            output += ( '{:<22s} {} | {} {:<22s} {}\n'.format(row['teams.away.name'],str(int(row['scores.away'])),str(int(row['scores.home'])), row['teams.home.name'], row['date'][5:]) )
+            output += ( '{:<22s} {} | {} {:<22s} | {}\n'.format(row['teams.away.name'],str(int(row['scores.away'])),str(int(row['scores.home'])), row['teams.home.name'], row['date'][5:]) )
             #output += row['teams.away.name']+" "+str(int(row['scores.away']))+" | "+str(int(row['scores.home']))+" "+row['teams.home.name']+"\t| "+row['date'][5:] +"\n"
     result = str(res.count('W'))+"-"+str(res.count('L'))+"-"+str(res.count('OTL'))
     return output,result
 
 def app():
     st.set_page_config(page_title="Dropdown Example", page_icon=":guardsman:", layout="wide")
-
+    topl, topm,topr = st.columns(3)
+    gameday = topl. date_input ( 'Date Selection' , value=None , min_value=None , max_value=None , key=None )
+    topr.text("matchups here")
+    if topm.button("See Matchups"):
+        topr.text(gameday)
     left_side, middle, right_side = st.columns(3)
     left_side.header('Away Team Side')
     middle.header('Home Team Side')
@@ -344,16 +377,13 @@ def app():
         right_side.dataframe(c, width=600)
 
         left_side.text("Last 5 Away Games ("+getL5text(table[2][1],'a')[1]+")")
-
+        left_side.text(getL5text(table[2][1],'a')[0])
 
         middle.text("Last 5 Home Games ("+getL5text(table[2][1],'h')[1]+")")
-        #middle.dataframe(table[2][0])
         middle.text(getL5text(table[2][0],'h')[0])
 
-        left_side.text(getL5text(table[2][1],'a')[0])
+        right_side.text("Previous Matchups\n")
         right_side.text(getL5text(table[2][2],'h2h')[0])
-        #left_side.dataframe(table[2][1])
-        #right_side.dataframe(table[2][2])
 
         #getting record
         print(table[3])
@@ -361,8 +391,6 @@ def app():
 
     right_side.text('')    
     right_side.text('')    
-    right_side.text('')    
-
-
+    right_side.text('')   
 if __name__ == '__main__':
     app()
