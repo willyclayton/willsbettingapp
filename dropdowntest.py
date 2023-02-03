@@ -320,7 +320,7 @@ def app():
     st.set_page_config(page_title="Dropdown Example", page_icon=":guardsman:", layout="wide")
     topl, topm,topr = st.columns(3)
     gameday = topl. date_input ( 'Date Selection' , value=None , min_value=None , max_value=None , key=None )
-    topr.text("matchups here")
+    topr.empty()
     #topr.text(get_all_games(str(gameday)))
     
     
@@ -328,26 +328,24 @@ def app():
 
     awayTeamdate = get_all_games(str(gameday))['AwayTeam']
     homeTeamdate = get_all_games(str(gameday))['HomeTeam']
-    matchup = topm.selectbox("Matchup", awayTeamdate+" @ "+homeTeamdate)
+    matchup = topm.selectbox("Matchups", awayTeamdate+" @ "+homeTeamdate)
     left_side, middle, right_side = st.columns(3)
     left_side.header('Away Team Side')
     middle.header('Home Team Side')
     
     right_side.header('Comparison')
-    match_check = topr.checkbox("Use Matchup")
+    match_check = st.sidebar.checkbox("Use Matchup")
     if match_check:
         option1 = left_side.selectbox("Away Team", [matchup.split(' @ ')[0]])
         option2 = middle.selectbox("Home Team", [matchup.split(' @ ')[1]])
-        print("use matchup")
-        print(matchup.split(' @ '))
     else:
         option1 = left_side.selectbox("Away Team", get_all_teams())
         option2 = middle.selectbox("Home Team", get_all_teams())
     
-    checkbox = right_side.checkbox("Only Home/Away Stats")
+    checkbox = topr.checkbox("Only Home/Away Stats")
     
     #far_right.empty()
-    if right_side.button("See Results"):
+    if topr.button("See Results"):
         right_side.text('')    
         right_side.text('')    
         right_side.text('')    
