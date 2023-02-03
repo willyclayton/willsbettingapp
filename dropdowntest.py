@@ -91,18 +91,12 @@ def get_all_teams():
     teams = pd.DataFrame(t,columns=['Team','id'])
     return teams
 
-
+all_games_df = pd.read_csv('all_games.csv')
 def get_all_games(date_est):
-    # have an EST and want all possible UTC dates
-    # format YYYY-MM-DD
-    datetime_est = datetime.strptime(date_est, '%Y-%m-%d')
-    dates_utc = [datetime_est,datetime_est+timedelta(days=1)]
-
-
-    return dates_utc
-
-hey = get_all_games('2023-05-02')
-print(hey[0])
+    all_games_df = pd.read_csv('all_games.csv')
+    select_games = all_games_df[all_games_df['ESTDate'] == date_est]
+    print(select_games)
+    return select_games
 
 
 # In[234]:
@@ -327,15 +321,28 @@ def app():
     topl, topm,topr = st.columns(3)
     gameday = topl. date_input ( 'Date Selection' , value=None , min_value=None , max_value=None , key=None )
     topr.text("matchups here")
-    if topm.button("See Matchups"):
-        topr.text(gameday)
+    #topr.text(get_all_games(str(gameday)))
+    
+    
+
+
+    awayTeamdate = get_all_games(str(gameday))['AwayTeam']
+    homeTeamdate = get_all_games(str(gameday))['HomeTeam']
+    matchup = topm.selectbox("Matchup", awayTeamdate+" @ "+homeTeamdate)
     left_side, middle, right_side = st.columns(3)
     left_side.header('Away Team Side')
     middle.header('Home Team Side')
     
     right_side.header('Comparison')
-    option1 = left_side.selectbox("Away Team", get_all_teams())
-    option2 = middle.selectbox("Home Team", get_all_teams())
+    match_check = topr.checkbox("Use Matchup")
+    if match_check:
+        option1 = left_side.selectbox("Away Team", [matchup.split(' @ ')[0]])
+        option2 = middle.selectbox("Home Team", [matchup.split(' @ ')[1]])
+        print("use matchup")
+        print(matchup.split(' @ '))
+    else:
+        option1 = left_side.selectbox("Away Team", get_all_teams())
+        option2 = middle.selectbox("Home Team", get_all_teams())
     
     checkbox = right_side.checkbox("Only Home/Away Stats")
     
