@@ -44,10 +44,10 @@ def get_all_teams2():
     games_df = pd.DataFrame({'HomeTeam':homeTeam, 'HomeTeamID':homeTeamID, 'AwayTeam':awayTeam, 'AwayTeamID':awayTeamID, 'UTCDate':UTCTime, 'ESTDate':ESTTime})
     return games_df
 
-hey = get_all_teams2()
-print(hey)
+#hey = get_all_teams2()
 #print(hey)
-all_games = hey.to_csv("/Users/will.clayton/Desktop/PythonMessAround/BettingHelp/willsbettingapp/all_games.csv")
+#print(hey)
+#all_games = hey.to_csv("/Users/will.clayton/Desktop/PythonMessAround/BettingHelp/willsbettingapp/all_games.csv")
 # In[232]:
 
 
