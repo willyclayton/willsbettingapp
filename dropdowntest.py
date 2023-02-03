@@ -320,7 +320,7 @@ def getL5text(df,HA):
     return output,result
 
 def app():
-    st.set_page_config(page_title="Dropdown Example", page_icon=":guardsman:", layout="wide")
+    st.set_page_config(page_title="Will's NHL Betting App", page_icon=":guardsman:", layout="wide")
     topl, topm,topr = st.columns(3)
     gameday = topl. date_input ( 'Date Selection' , value=None , min_value=None , max_value=None , key=None )
     topr.empty()
