@@ -334,7 +334,7 @@ def app():
     middle.header('Home Team Side')
     
     right_side.header('Comparison')
-    match_check = st.sidebar.checkbox("Use Matchup")
+    match_check = topr.checkbox("Use Matchup")
     if match_check:
         option1 = left_side.selectbox("Away Team", [matchup.split(' @ ')[0]])
         option2 = middle.selectbox("Home Team", [matchup.split(' @ ')[1]])
