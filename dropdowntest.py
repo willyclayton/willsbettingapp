@@ -271,22 +271,27 @@ def create_table(at, ht, HA='all'):
 def getL5text(df,HA):
     output = ''
     record = ''
+    res = []
     df = df.sort_values(by='date',ascending=False)
     df = df[df['status.long'] != 'Not Started']
     print(df)
     print(df.groupby(['HomeResult'])['HomeResult'].count())
     if HA == 'h':
         for index, row in df.iterrows():
-            output += (row['HomeResult']+" vs "+row['teams.away.name']+" \t"+str(int(row['scores.home']))+"-"+str(int(row['scores.away']))+"\t| "+row['date'][5:] +" "+"\n")
+            res.append(row['HomeResult'])
+            output += ( '{:<3s} {}-{}  @ {:<22s} | {} \n'.format(row['HomeResult'],str(int(row['scores.home'])),str(int(row['scores.away'])), row['teams.away.name'], row['date'][5:]) )
     elif HA == 'a': 
         for index, row in df.iterrows():
-            output += ( '{:<3s} {}-{} @ {:<22s} | {} \n'.format(row['HomeResult'],str(int(row['scores.home'])),str(int(row['scores.away'])), row['teams.home.name'], row['date'][5:]) )
-            #output += (row['AwayResult']+" @ "+row['teams.home.name']+" \t"+str(int(row['scores.away']))+"-"+str(int(row['scores.home']))+"\t| "+row['date'][5:] +" "+"\n")
+            res.append(row['AwayResult'])
+            output += ( '{:<3s} {}-{}  @ {:<22s} | {} \n'.format(row['AwayResult'],str(int(row['scores.away'])),str(int(row['scores.home'])), row['teams.home.name'], row['date'][5:]) )
     elif HA == 'h2h':
+        df = df.drop_duplicates(subset=['id'])
+        print(df)
         for index, row in df.iterrows():
-            #output += (row['AwayResult']+" vs "+row['teams.home.name']+" \t"+str(int(row['scores.away']))+"-"+str(int(row['scores.home']))+"\t| "+row['date'][5:] +" "+"\n")
-            output += row['teams.away.name']+" "+str(int(row['scores.away']))+" | "+str(int(row['scores.home']))+" "+row['teams.home.name']+"\t| "+row['date'][5:] +"\n"
-    return output
+            output += ( '{:<22s} {} | {} {:<22s} {}\n'.format(row['teams.away.name'],str(int(row['scores.away'])),str(int(row['scores.home'])), row['teams.home.name'], row['date'][5:]) )
+            #output += row['teams.away.name']+" "+str(int(row['scores.away']))+" | "+str(int(row['scores.home']))+" "+row['teams.home.name']+"\t| "+row['date'][5:] +"\n"
+    result = str(res.count('W'))+"-"+str(res.count('L'))+"-"+str(res.count('OTL'))
+    return output,result
 
 def app():
     st.set_page_config(page_title="Dropdown Example", page_icon=":guardsman:", layout="wide")
@@ -338,15 +343,15 @@ def app():
         #c['Totals'] = c[option1]+c[option2]
         right_side.dataframe(c, width=600)
 
-        left_side.text("Last 5 Away Games")
+        left_side.text("Last 5 Away Games ("+getL5text(table[2][1],'a')[1]+")")
 
 
-        middle.text("Last 5 Home Games")
+        middle.text("Last 5 Home Games ("+getL5text(table[2][1],'h')[1]+")")
         #middle.dataframe(table[2][0])
-        middle.text(getL5text(table[2][0],'h'))
+        middle.text(getL5text(table[2][0],'h')[0])
 
-        left_side.text(getL5text(table[2][1],'a'))
-        right_side.text(getL5text(table[2][2],'h2h'))
+        left_side.text(getL5text(table[2][1],'a')[0])
+        right_side.text(getL5text(table[2][2],'h2h')[0])
         #left_side.dataframe(table[2][1])
         #right_side.dataframe(table[2][2])
 
